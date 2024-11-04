@@ -35,6 +35,5 @@ Power that person has.
 ***
 ### Gallery
 
-![THeLovers1](../../../../../99%20-%20META/attachments/THeLovers1.png)
-![Pasted image 20241104101925](../../../../../Pasted%20image%2020241104101925.png)
+![cort1](../../_images/cort1.png)
 ***

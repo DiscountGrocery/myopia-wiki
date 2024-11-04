@@ -4,25 +4,25 @@ cssclasses:
 ---
 ### Quick Facts
 
-|                    |                 |
-| ------------------ | --------------- |
-| First Appearance:  |                 |
-| Based on:          |                 |
-| Played by:         | J               |
-| Full name:         | Faalya d'Medani |
-| Nicknames:         |                 |
-| Gender & Pronouns: |                 |
-| Ancestry:          |                 |
-| Affiliation:       |                 |
-| Tarot:             |                 |
-| Nationality:       |                 |
+|                    |                                          |
+| ------------------ | ---------------------------------------- |
+| First Appearance:  |                                          |
+| Based on:          | -                                        |
+| Played by:         | J                                        |
+| Full name:         | Faalya d'Medani                          |
+| Nicknames:         | Aspectum, Lord of Eyes                   |
+| Gender & Pronouns: | Female, She/Her                          |
+| Ancestry:          | Khoravar                                 |
+| Affiliation:       | House Medani (Former), [Bella](Bella.md) |
+| Tarot:             | The Fool                                 |
+| Nationality:       | Brelish (Former)                         |
 ***
 ### Personality & Appearance
 Words about person.
 
 ***
 ### History
-History about person.
+Main antagonist
 
 ***
 ### Relations
@@ -35,6 +35,6 @@ Power that person has.
 ***
 ### Gallery
 
-![Fallya1](../../../../../99%20-%20META/attachments/Fallya1.png)
+[../../../../../99 - META/attachments/Fallya1.png](../../../../../99%20-%20META/attachments/Fallya1.png)
 
 ***
