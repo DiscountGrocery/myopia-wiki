@@ -5,18 +5,18 @@ cssclasses:
 # Mercria
 ### Quick Facts
 
-|                    |                                                |
-| ------------------ | ---------------------------------------------- |
-| First Appearance:  |                                                |
-| Based on:          | Mercury                                        |
-| Played by:         | J                                              |
-| Full name:         | Mercria Verta                                  |
-| Nicknames:         | -                                              |
-| Gender & Pronouns: | Female, She/Her                                |
-| Ancestry:          | Khoravar                                       |
-| Affiliation:       | [Bloodsails](../../-Groups/Bloodsails.md)      |
-| Tarot:             | -                                              |
-| Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md) |
+|                    |                                                                                                                                                |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| First Appearance:  | [Session-43--Something-I-Can-Never-Have-(Degenerate-Pt.-2)](../../-Session-Notes/Session-43--Something-I-Can-Never-Have-(Degenerate-Pt.-2).md) |
+| Based on:          | Mercury                                                                                                                                        |
+| Played by:         | J                                                                                                                                              |
+| Full name:         | Mercria Verta                                                                                                                                  |
+| Nicknames:         | -                                                                                                                                              |
+| Gender & Pronouns: | Female, She/Her                                                                                                                                |
+| Ancestry:          | Khoravar                                                                                                                                       |
+| Affiliation:       | [Bloodsails](../../-Groups/Bloodsails.md)                                                                                                      |
+| Tarot:             | -                                                                                                                                              |
+| Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md)                                                                                                 |
 ***
 ### Personality & Appearance
 Direct, prideful, aggressive. Face tattoos like mother, tall and bulky, larger than Pharen.
