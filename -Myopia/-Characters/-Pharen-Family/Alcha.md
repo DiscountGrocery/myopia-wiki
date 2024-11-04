@@ -5,18 +5,18 @@ cssclasses:
 # Alcha
 ### Quick Facts
 
-|                    |                 |
-| ------------------ | --------------- |
-| First Appearance:  |                 |
-| Based on:          | Alchemy         |
-| Played by:         | J               |
-| Full name:         | Alcha Verta     |
-| Nicknames:         | -               |
-| Gender & Pronouns: | Female, She/Her |
-| Ancestry:          | Khoravar        |
-| Affiliation:       | Blood Sails     |
-| Tarot:             | -               |
-| Nationality:       | Farlnen         |
+|                    |                                                |
+| ------------------ | ---------------------------------------------- |
+| First Appearance:  |                                                |
+| Based on:          | Alchemy                                        |
+| Played by:         | J                                              |
+| Full name:         | Alcha Verta                                    |
+| Nicknames:         | -                                              |
+| Gender & Pronouns: | Female, She/Her                                |
+| Ancestry:          | Khoravar                                       |
+| Affiliation:       | [Bloodsails](../../-Groups/Bloodsails.md)      |
+| Tarot:             | -                                              |
+| Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md) |
 ***
 ### Personality & Appearance
 Nurturing. Pale skinned with black hair. Face tattoos.

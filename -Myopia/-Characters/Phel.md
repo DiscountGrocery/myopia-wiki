@@ -14,7 +14,7 @@ cssclasses:
 | Nicknames:         |                                                           |
 | Gender & Pronouns: | Male, He/Him                                              |
 | Ancestry:          | Changeling                                                |
-| Affiliation:       | [The-Looking-Glass](../The-Looking-Glass.md), Tyrants |
+| Affiliation:       | [The-Looking-Glass](../-Groups/The-Looking-Glass.md), Tyrants |
 | Tarot:             | N/A                                                       |
 | Nationality:       | Thelanis                                                  |
 ***

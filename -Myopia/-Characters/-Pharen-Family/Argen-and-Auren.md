@@ -5,18 +5,18 @@ cssclasses:
 # Argen and Auren
 ### Quick Facts
 
-|                    |                     |
-| ------------------ | ------------------- |
-| First Appearance:  |                     |
-| Based on:          | Silver and Gold     |
-| Played by:         | J                   |
-| Full name:         | Argen & Auren Verta |
-| Nicknames:         |                     |
-| Gender & Pronouns: | Male, He/Him        |
-| Ancestry:          | Khoravar            |
-| Affiliation:       | Blood Sails         |
-| Tarot:             | N/A                 |
-| Nationality:       | Farlnen             |
+|                    |                                                |
+| ------------------ | ---------------------------------------------- |
+| First Appearance:  |                                                |
+| Based on:          | Silver and Gold                                |
+| Played by:         | J                                              |
+| Full name:         | Argen & Auren Verta                            |
+| Nicknames:         |                                                |
+| Gender & Pronouns: | Male, He/Him                                   |
+| Ancestry:          | Khoravar                                       |
+| Affiliation:       | [Bloodsails](../../-Groups/Bloodsails.md)      |
+| Tarot:             | N/A                                            |
+| Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md) |
 ***
 ### Personality & Appearance
 Identical twins. Argen dresses in silver. Auren dresses in gold.

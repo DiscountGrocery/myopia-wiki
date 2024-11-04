@@ -23,7 +23,7 @@ Words about person.
 
 ***
 ### History
-'Studied' in [Daanvi](../Daanvi.md).
+'Studied' in [Daanvi](../-Locations--Planes/Daanvi.md).
 
 ***
 ### Relations

@@ -14,7 +14,7 @@ cssclasses:
 | Nicknames:         | Blade, Hubby Wubby                             |
 | Gender & Pronouns: | Male, He/Him                                   |
 | Ancestry:          | Gal'daar                                       |
-| Affiliation:       | [Rings-of-Harmony](../Rings-of-Harmony.md) |
+| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md) |
 | Tarot:             | N/A                                            |
 | Nationality:       | Kech Volaar                                    |
 ***

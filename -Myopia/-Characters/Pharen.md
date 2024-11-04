@@ -14,7 +14,7 @@ cssclasses:
 | Nicknames:         | Blood Sail                                                                                                                                              |
 | Gender & Pronouns: | Male, He/Him                                                                                                                                            |
 | Ancestry:          | Khoravar                                                                                                                                                |
-| Affiliation:       | [Rings-of-Harmony](../Rings-of-Harmony.md), [The-Looking-Glass](../The-Looking-Glass.md)                                                        |
+| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md), [The-Looking-Glass](../-Groups/The-Looking-Glass.md)                                                        |
 | Tarot:             | Judgement                                                                                                                                               |
 | Nationality:       | Farlnen                                                                                                                                                 |
 ***

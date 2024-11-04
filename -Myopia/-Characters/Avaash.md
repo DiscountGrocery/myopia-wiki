@@ -5,18 +5,18 @@ cssclasses:
 # Avaash
 ### Quick Facts
 
-|                    |                                                                                                    |
-| ------------------ | -------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-28--Head-Like-a-Hole](../-Session-Notes/Session-28--Head-Like-a-Hole.md)] |
-| Based on:          | -                                                                                                  |
-| Played by:         | J                                                                                                  |
-| Full name:         | -                                                                                                  |
-| Nicknames:         | -                                                                                                  |
-| Gender & Pronouns: | Any/All                                                                                            |
-| Ancestry:          | [Daelkyr](../Daelkyr.md)                                                                           |
-| Affiliation:       | Itself                                                                                             |
-| Tarot:             | -                                                                                                  |
-| Nationality:       | -                                                                                                  |
+|                    |                                                                                   |
+| ------------------ | --------------------------------------------------------------------------------- |
+| First Appearance:  | [Session-28--Head-Like-a-Hole](../-Session-Notes/Session-28--Head-Like-a-Hole.md) |
+| Based on:          | -                                                                                 |
+| Played by:         | J                                                                                 |
+| Full name:         | -                                                                                 |
+| Nicknames:         | -                                                                                 |
+| Gender & Pronouns: | Any/All                                                                           |
+| Ancestry:          | [Daelkyr](../-Groups/Daelkyr.md)                                                  |
+| Affiliation:       | Itself                                                                            |
+| Tarot:             | -                                                                                 |
+| Nationality:       | -                                                                                 |
 ***
 ### Personality & Appearance
 Freaky.
@@ -27,8 +27,8 @@ History about person.
 
 ***
 ### Relations
-Controlled the [Mycology](../Mycology.md).
-Connected to [Cort](Cort.md) through the [Rotten-Heart](../Rotten-Heart.md).
+Controlled the [Mycology](../-Groups/Mycology.md).
+Connected to [Cort](Cort.md) through the [1-Rotten-Heart](../-Elements-of-the-Prophecy/1-Rotten-Heart.md).
 
 ***
 ### Ability
@@ -37,8 +37,9 @@ Freaky Daelkyr powers, plants.
 ***
 ### Gallery
 
-![avaash-one](../../../../../99%20-%20META/attachments/avaash-one.jpg)
+[CREDIT](https://www.instagram.com/silly_chaotic/)
+![avaash-one](-images/avaash-one.jpg)
 
-Ripe with Decay - Nine Inch Nails
+[Ripe (With Decay) - Nine Inch Nails](https://youtu.be/HkrUlSKRQRo?si=ytjKI4sY1uFdRnrJ)
 
 ***

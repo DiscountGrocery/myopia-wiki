@@ -14,7 +14,7 @@ cssclasses:
 | Nicknames:         |                                                |
 | Gender & Pronouns: | None, They/Them                                |
 | Ancestry:          | Auto-Gnome                                     |
-| Affiliation:       | [Rings-of-Harmony](../Rings-of-Harmony.md) |
+| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md) |
 | Tarot:             | N/A                                            |
 | Nationality:       | Making                                         |
 ***

@@ -14,7 +14,7 @@ cssclasses:
 | Nicknames:         |                                                |
 | Gender & Pronouns: | Male, He/Him                                   |
 | Ancestry:          | Gal'daar                                       |
-| Affiliation:       | [Rings-of-Harmony](../Rings-of-Harmony.md) |
+| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md) |
 | Tarot:             |                                                |
 | Nationality:       | Kech Hashraac                                  |
 ***

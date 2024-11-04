@@ -14,7 +14,7 @@ cssclasses:
 | Nicknames:         | Little Prince, Frostboy |
 | Gender & Pronouns: | Male, He/Him            |
 | Ancestry:          | Eladrin                 |
-| Affiliation:       | [Rings-of-Harmony](../Rings-of-Harmony.md)    |
+| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md)    |
 | Tarot:             | N/A                     |
 | Nationality:       | Thelanis                |
 ***

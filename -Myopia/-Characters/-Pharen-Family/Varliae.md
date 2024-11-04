@@ -5,18 +5,18 @@ cssclasses:
 # Varliae
 ### Quick Facts
 
-|                    |                       |
-| ------------------ | --------------------- |
-| First Appearance:  |                       |
-| Based on:          | Astarion (BG3)        |
-| Played by:         | J                     |
-| Full name:         | Varliae Sanct         |
-| Nicknames:         |                       |
-| Gender & Pronouns: | Male, He/Him          |
-| Ancestry:          | Vampire               |
-| Affiliation:       | Blood Sails, Karrnath |
-| Tarot:             | -                     |
-| Nationality:       | Karrnath              |
+|                    |                                                     |
+| ------------------ | --------------------------------------------------- |
+| First Appearance:  |                                                     |
+| Based on:          | Astarion (BG3)                                      |
+| Played by:         | J                                                   |
+| Full name:         | Varliae Sanct                                       |
+| Nicknames:         |                                                     |
+| Gender & Pronouns: | Male, He/Him                                        |
+| Ancestry:          | Vampire                                             |
+| Affiliation:       | [Bloodsails](../../-Groups/Bloodsails.md), Karrnath |
+| Tarot:             | -                                                   |
+| Nationality:       | Karrnath                                            |
 ***
 ### Personality & Appearance
 Long, blonde hair, pale complexion, tall and lanky, angular eyes.

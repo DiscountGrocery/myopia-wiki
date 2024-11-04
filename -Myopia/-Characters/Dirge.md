@@ -14,7 +14,7 @@ cssclasses:
 | Nicknames:         | Dirge                                          |
 | Gender & Pronouns: | Female, She/Her                                |
 | Ancestry:          | Golin'daar                                     |
-| Affiliation:       | [Rings-of-Harmony](../Rings-of-Harmony.md) |
+| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md) |
 | Tarot:             |                                                |
 | Nationality:       | Kech Volaar                                    |
 ***

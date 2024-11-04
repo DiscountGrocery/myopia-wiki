@@ -1,0 +1,1 @@
+A magic item held by [Cort](-Characters/Cort.md)

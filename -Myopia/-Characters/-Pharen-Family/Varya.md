@@ -5,18 +5,18 @@ cssclasses:
 # Varya
 ### Quick Facts
 
-|                    |                          |
-| ------------------ | ------------------------ |
-| First Appearance:  |                          |
-| Based on:          | -                        |
-| Played by:         | J                        |
-| Full name:         | Varya d'Vol              |
-| Nicknames:         | -                        |
-| Gender & Pronouns: | Male, He/Him             |
-| Ancestry:          | Khoravar (Former), Wight |
-| Affiliation:       | Blood Sails              |
-| Tarot:             | -                        |
-| Nationality:       | Farlnen                  |
+|                    |                                                |
+| ------------------ | ---------------------------------------------- |
+| First Appearance:  |                                                |
+| Based on:          | -                                              |
+| Played by:         | J                                              |
+| Full name:         | Varya d'Vol                                    |
+| Nicknames:         | -                                              |
+| Gender & Pronouns: | Male, He/Him                                   |
+| Ancestry:          | Khoravar (Former), Wight                       |
+| Affiliation:       | Blood Sails                                    |
+| Tarot:             | -                                              |
+| Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md) |
 ***
 ### Personality & Appearance
 Burly and roguish. [Pharen](../Pharen.md) but older. Hungry for flesh and needs to eat people.

@@ -13,8 +13,8 @@ cssclasses:
 | Full name:         | Belashyra                                                                             |
 | Nicknames:         | Bella, Beller, Bell end                                                               |
 | Gender & Pronouns: | Any/All                                                                               |
-| Ancestry:          | [Daelkyr](../Daelkyr.md)                                                              |
-| Affiliation:       | [Xoriat](../Xoriat.md)                                                                |
+| Ancestry:          | [Daelkyr](../-Groups/Daelkyr.md)                                                              |
+| Affiliation:       | [Xoriat](../-Locations--Planes/Xoriat.md)                                                                |
 | Tarot:             | The World                                                                             |
 | Nationality:       | -                                                                                     |
 ***

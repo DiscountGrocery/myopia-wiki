@@ -13,13 +13,13 @@ cssclasses:
 | Full name:         | -                                                                                                           |     |
 | Nicknames:         | -                                                                                                           |     |
 | Gender & Pronouns: | Any/All                                                                                                     |     |
-| Ancestry:          | [Daelkyr](../Daelkyr.md)                                                                                    |     |
-| Affiliation:       | [Daanvi](../Daanvi.md)                                                                                      |     |
+| Ancestry:          | [Daelkyr](../-Groups/Daelkyr.md)                                                                                    |     |
+| Affiliation:       | [Daanvi](../-Locations--Planes/Daanvi.md)                                                                                      |     |
 | Tarot:             | The Moon                                                                                                    |     |
 | Nationality:       | -                                                                                                           |     |
 ***
 ### Personality & Appearance
-Words about person.
+Horrific geometry and such.
 
 ***
 ### History
@@ -36,8 +36,6 @@ Freaky Daelkyr power.
 ***
 ### Gallery
 
-![FBS1](../../../../../99%20-%20META/attachments/FBS1.png)
-
-![FBS2](../../../../../99%20-%20META/attachments/FBS2.png)
-
+[CREDIT](https://ar.pinterest.com/pin/914230793100240090/)
+![FBS1](-images/FBS1.png)
 ***

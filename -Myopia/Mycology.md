@@ -1,1 +1,0 @@
-A mushroom cult where [Cort](-Characters/Cort.md) originates from

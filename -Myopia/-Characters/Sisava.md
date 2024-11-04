@@ -14,7 +14,7 @@ cssclasses:
 | Nicknames:         | Bastard, The Snake                                                                                                                                     |
 | Gender & Pronouns: | Male-Presenting, They/Them                                                                                                                             |
 | Ancestry:          | Yuan-Ti                                                                                                                                                |
-| Affiliation:       | [Rings-of-Harmony](../Rings-of-Harmony.md), [The-Looking-Glass](../The-Looking-Glass.md)                                                       |
+| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md), [The-Looking-Glass](../-Groups/The-Looking-Glass.md)                                                       |
 | Tarot:             | The Devil                                                                                                                                              |
 | Nationality:       | Xen'drik                                                                                                                                               |
 ***

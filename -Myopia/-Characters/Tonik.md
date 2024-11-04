@@ -14,7 +14,7 @@ cssclasses:
 | Nicknames:         | Tonik                                                                                            |
 | Gender & Pronouns: | Male, He/Him                                                                                     |
 | Ancestry:          | Human                                                                                            |
-| Affiliation:       | [Rings-of-Harmony](../Rings-of-Harmony.md), [The-Looking-Glass](../The-Looking-Glass.md) |
+| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md), [The-Looking-Glass](../-Groups/The-Looking-Glass.md) |
 | Tarot:             | The Emperor                                                                                      |
 | Nationality:       | Cyre                                                                                             |
 ***

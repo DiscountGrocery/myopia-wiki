@@ -14,7 +14,7 @@ cssclasses:
 | Nicknames:         | Lamyla Saraya, Maylyn Saraya                                                                                                                            |
 | Gender & Pronouns: | Female, She/Her                                                                                                                                         |
 | Ancestry:          | Sivis Gnome                                                                                                                                             |
-| Affiliation:       | [The-Looking-Glass](../The-Looking-Glass.md)                                                                                                        |
+| Affiliation:       | [The-Looking-Glass](../-Groups/The-Looking-Glass.md)                                                                                                        |
 | Tarot:             | The Empress                                                                                                                                             |
 | Nationality:       | Zilargo                                                                                                                                                 |
 ***
