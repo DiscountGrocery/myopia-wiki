@@ -35,5 +35,5 @@ Power that person has.
 ***
 ### Gallery
 
-![cort1](/_images/cort1.png)
+![cort1](-images/cort1.png)
 ***
