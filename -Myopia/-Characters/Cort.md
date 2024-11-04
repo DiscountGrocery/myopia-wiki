@@ -9,7 +9,7 @@ cssclasses:
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
 | First Appearance:  | [Session-1--...and-their-shadows-will spread-like-oil](../-Session-Notes/Session-1--...and-their-shadows-will%20spread-like-oil.md) |
 | Based on:          | Zombie Fungus                                                                                                                       |
-| Played by:         | JA                                                                                                                                  |
+| Played by:         | E                                                                                                                                   |
 | Full name:         | Unknown (Former), Cortinarius Orell                                                                                                 |
 | Nicknames:         | Cort, Gort                                                                                                                          |
 | Gender & Pronouns: | Male, He/Him                                                                                                                        |

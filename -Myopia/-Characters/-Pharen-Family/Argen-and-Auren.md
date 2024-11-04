@@ -11,11 +11,11 @@ cssclasses:
 | Based on:          | Silver and Gold                                |
 | Played by:         | J                                              |
 | Full name:         | Argen & Auren Verta                            |
-| Nicknames:         |                                                |
+| Nicknames:         | -                                              |
 | Gender & Pronouns: | Male, He/Him                                   |
 | Ancestry:          | Khoravar                                       |
 | Affiliation:       | [Bloodsails](../../-Groups/Bloodsails.md)      |
-| Tarot:             | N/A                                            |
+| Tarot:             | -                                              |
 | Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md) |
 ***
 ### Personality & Appearance

@@ -11,7 +11,7 @@ cssclasses:
 | Based on:          | Astarion (BG3)                                      |
 | Played by:         | J                                                   |
 | Full name:         | Varliae Sanct                                       |
-| Nicknames:         |                                                     |
+| Nicknames:         | -                                                   |
 | Gender & Pronouns: | Male, He/Him                                        |
 | Ancestry:          | Vampire                                             |
 | Affiliation:       | [Bloodsails](../../-Groups/Bloodsails.md), Karrnath |

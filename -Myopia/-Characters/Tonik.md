@@ -5,18 +5,18 @@ cssclasses:
 # Tonik
 ### Quick Facts
 
-|                    |                                                                                                  |
-| ------------------ | ------------------------------------------------------------------------------------------------ |
-| First Appearance:  | [Session-7--Blood-and-Thunder](../-Session-Notes/Session-7--Blood-and-Thunder.md)] |
-| Based on:          | -                                                                                                |
-| Played by:         | J                                                                                                |
-| Full name:         | Starrin d'Cannith                                                                                |
-| Nicknames:         | Tonik                                                                                            |
-| Gender & Pronouns: | Male, He/Him                                                                                     |
-| Ancestry:          | Human                                                                                            |
+|                    |                                                                                                          |
+| ------------------ | -------------------------------------------------------------------------------------------------------- |
+| First Appearance:  | [Session-7--Blood-and-Thunder](../-Session-Notes/Session-7--Blood-and-Thunder.md)                        |
+| Based on:          | -                                                                                                        |
+| Played by:         | J                                                                                                        |
+| Full name:         | Starrin d'Cannith                                                                                        |
+| Nicknames:         | Tonik                                                                                                    |
+| Gender & Pronouns: | Male, He/Him                                                                                             |
+| Ancestry:          | Human                                                                                                    |
 | Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md), [The-Looking-Glass](../-Groups/The-Looking-Glass.md) |
-| Tarot:             | The Emperor                                                                                      |
-| Nationality:       | Cyre                                                                                             |
+| Tarot:             | The Emperor                                                                                              |
+| Nationality:       | Cyre                                                                                                     |
 ***
 ### Personality & Appearance
 Words about person.

@@ -5,18 +5,18 @@ cssclasses:
 # Vrennan
 ### Quick Facts
 
-|                    |                                                |
-| ------------------ | ---------------------------------------------- |
-| First Appearance:  |                                                |
-| Based on:          |                                                |
-| Played by:         | J                                              |
-| Full name:         |                                                |
-| Nicknames:         |                                                |
-| Gender & Pronouns: | Male, He/Him                                   |
-| Ancestry:          | Drow                                           |
+|                    |                                                    |
+| ------------------ | -------------------------------------------------- |
+| First Appearance:  |                                                    |
+| Based on:          |                                                    |
+| Played by:         | J                                                  |
+| Full name:         |                                                    |
+| Nicknames:         |                                                    |
+| Gender & Pronouns: | Male, He/Him                                       |
+| Ancestry:          | Drow                                               |
 | Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md) |
-| Tarot:             | -                                              |
-| Nationality:       |                                                |
+| Tarot:             | -                                                  |
+| Nationality:       |                                                    |
 ***
 ### Personality & Appearance
 Words about person.

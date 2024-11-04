@@ -35,7 +35,7 @@ Accounting.
 
 ***
 ### Gallery
-
-![tasteOfTapioca](../../../../../99%20-%20META/attachments/tasteOfTapioca.png)
+[CREDIT](https://gabbydarienzo.com/)
+![tasteOfTapioca](-images/tasteOfTapioca.png)
 
 ***

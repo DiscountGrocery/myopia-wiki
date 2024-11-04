@@ -5,18 +5,18 @@ cssclasses:
 # Tu'gaal
 ### Quick Facts
 
-|                    |                                                                                            |
-| ------------------ | ------------------------------------------------------------------------------------------ |
-| First Appearance:  | [Session-50--Good-Samaritan](../-Session-Notes/Session-50--Good-Samaritan.md)] |
-| Based on:          | Nuclear Waste Warning (Spikes)                                                             |
-| Played by:         | A                                                                                          |
-| Full name:         | Tu'Gaal                                                                                    |
-| Nicknames:         |                                                                                            |
-| Gender & Pronouns: | Male, He/Him                                                                               |
-| Ancestry:          | Gal'daar, Half-Orc                                                                         |
-| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md)                                             |
-| Tarot:             | N/A                                                                                        |
-| Nationality:       | Dhakaani Empire                                                                            |
+|                    |                                                                               |
+| ------------------ | ----------------------------------------------------------------------------- |
+| First Appearance:  | [Session-50--Good-Samaritan](../-Session-Notes/Session-50--Good-Samaritan.md) |
+| Based on:          | Nuclear Waste Warning (Spikes)                                                |
+| Played by:         | A                                                                             |
+| Full name:         | Tu'Gaal                                                                       |
+| Nicknames:         | -                                                                             |
+| Gender & Pronouns: | Male, He/Him                                                                  |
+| Ancestry:          | Gal'daar, Half-Orc                                                            |
+| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md)                            |
+| Tarot:             | -                                                                             |
+| Nationality:       | Dhakaani Empire                                                               |
 ***
 ### Personality & Appearance
 Particularly gaunt and thin hobgoblin with deceptively slim muscles.
