@@ -1,6 +1,4 @@
-# myopia-wiki
- A wiki related to an eberron-based pathfinder 2e campaign.
-
+%% Begin Waypoint %%
 - **-Myopia**
 	- **-Characters**
 		- **-Pharen-Family**
@@ -142,4 +140,6 @@
 	- [[The-Flaming-Hoop]]
 - **myopia-wiki**
 	- [[README]]
+
+%% End Waypoint %%
 
