@@ -2,11 +2,12 @@
 cssclasses:
   - pen-gray
 ---
+# Tu'gaal
 ### Quick Facts
 
 |                    |                                                                                            |
 | ------------------ | ------------------------------------------------------------------------------------------ |
-| First Appearance:  | [Session-50--Good-Samaritan](../-Session_Notes/Session-50--Good-Samaritan.md)] |
+| First Appearance:  | [Session-50--Good-Samaritan](../-Session-Notes/Session-50--Good-Samaritan.md)] |
 | Based on:          | Nuclear Waste Warning (Spikes)                                                             |
 | Played by:         | A                                                                                          |
 | Full name:         | Tu'Gaal                                                                                    |

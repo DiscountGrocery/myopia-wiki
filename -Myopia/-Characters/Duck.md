@@ -2,11 +2,12 @@
 cssclasses:
   - pen-light-blue
 ---
+# Duck
 ### Quick Facts
 
 |                    |                                                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--...and-their-shadows-will spread-like-oil](../-Session_Notes/Session-1--...and-their-shadows-will%20spread-like-oil.md) |
+| First Appearance:  | [Session-1--...and-their-shadows-will spread-like-oil](../-Session-Notes/Session-1--...and-their-shadows-will%20spread-like-oil.md) |
 | Based on:          | Staedtler (Inside Job), Duck (TAZ), Invincible (I)                                                                                                      |
 | Played by:         | A                                                                                                                                                       |
 | Full name:         | Duck d'Cannith                                                                                                                                          |

@@ -2,15 +2,16 @@
 cssclasses:
   - pen-red
 ---
+# Alcha
 ### Quick Facts
 
 |                    |                 |
 | ------------------ | --------------- |
 | First Appearance:  |                 |
-| Based on:          |                 |
+| Based on:          | Alchemy         |
 | Played by:         | J               |
 | Full name:         | Alcha Verta     |
-| Nicknames:         |                 |
+| Nicknames:         | -               |
 | Gender & Pronouns: | Female, She/Her |
 | Ancestry:          | Khoravar        |
 | Affiliation:       | Blood Sails     |

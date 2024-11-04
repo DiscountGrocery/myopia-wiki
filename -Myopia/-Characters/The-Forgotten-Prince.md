@@ -2,6 +2,7 @@
 cssclasses:
   - pen-blue
 ---
+# The Forgotten Prince
 ### Quick Facts
 
 |                    |                                                                                                                  |

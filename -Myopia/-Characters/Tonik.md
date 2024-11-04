@@ -2,11 +2,12 @@
 cssclasses:
   - pen-blue
 ---
+# Tonik
 ### Quick Facts
 
 |                    |                                                                                                  |
 | ------------------ | ------------------------------------------------------------------------------------------------ |
-| First Appearance:  | [Session-7--Blood-and-Thunder](../-Session_Notes/Session-7--Blood-and-Thunder.md)] |
+| First Appearance:  | [Session-7--Blood-and-Thunder](../-Session-Notes/Session-7--Blood-and-Thunder.md)] |
 | Based on:          | -                                                                                                |
 | Played by:         | J                                                                                                |
 | Full name:         | Starrin d'Cannith                                                                                |

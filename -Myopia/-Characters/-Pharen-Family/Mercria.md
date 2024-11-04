@@ -2,20 +2,21 @@
 cssclasses:
   - pen-red
 ---
+# Mercria
 ### Quick Facts
 
 |                    |                 |
 | ------------------ | --------------- |
 | First Appearance:  |                 |
-| Based on:          |                 |
+| Based on:          | Mercury         |
 | Played by:         | J               |
 | Full name:         | Mercria Verta   |
-| Nicknames:         |                 |
+| Nicknames:         | -               |
 | Gender & Pronouns: | Female, She/Her |
 | Ancestry:          | Khoravar        |
 | Affiliation:       | Blood Sails     |
-| Tarot:             | N/A             |
-| Nationality:       | Farlnen         |
+| Tarot:             | -               |
+| Nationality:       | [[Farlnen]]     |
 ***
 ### Personality & Appearance
 Direct, prideful, aggressive. Face tattoos like mother, tall and bulky, larger than Pharen.

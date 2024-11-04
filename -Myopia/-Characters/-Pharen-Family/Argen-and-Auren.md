@@ -2,12 +2,13 @@
 cssclasses:
   - pen-red
 ---
+# Argen and Auren
 ### Quick Facts
 
 |                    |                     |
 | ------------------ | ------------------- |
 | First Appearance:  |                     |
-| Based on:          |                     |
+| Based on:          | Silver and Gold     |
 | Played by:         | J                   |
 | Full name:         | Argen & Auren Verta |
 | Nicknames:         |                     |

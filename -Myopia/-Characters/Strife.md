@@ -2,6 +2,7 @@
 cssclasses:
   - pen-red
 ---
+# Strife
 ### Quick Facts
 
 |                    |     |

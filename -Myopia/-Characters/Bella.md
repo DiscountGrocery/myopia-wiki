@@ -2,11 +2,12 @@
 cssclasses:
   - pen-purple
 ---
+# Bella
 ### Quick Facts
 
 |                    |                                                                                       |
 | ------------------ | ------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-17--God-Hates-a-Coward](../-Session_Notes/Session-17--God-Hates-a-Coward.md) |
+| First Appearance:  | [Session-17--God-Hates-a-Coward](../-Session-Notes/Session-17--God-Hates-a-Coward.md) |
 | Based on:          | Eberron Lore                                                                          |
 | Played by:         | J                                                                                     |
 | Full name:         | Belashyra                                                                             |
@@ -35,10 +36,10 @@ Power that person has.
 ***
 ### Gallery
 
-![BELLA5](../../../../../99%20-%20META/attachments/BELLA5.png)
-![BELLA4](../../../../../99%20-%20META/attachments/BELLA4.png)
-![BELLA3](../../../../../99%20-%20META/attachments/BELLA3.png)
-![BELLA2](../../../../../99%20-%20META/attachments/BELLA2.png)
-![BELLA1](../../../../../99%20-%20META/attachments/BELLA1.png)
+CREDIT TO [VOIDFACE](https://www.instagram.com/voidface_entity?igsh=MTR1cDkyYXhsdWlnMA%3D%3D)
+![BELLA1](-images/BELLA1.png)
 
+![BELLA3](-images/BELLA3.png)
+![BELLA4](-images/BELLA4.png)
+![BELLA5](-images/BELLA5.png)
 ***

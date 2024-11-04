@@ -2,6 +2,7 @@
 cssclasses:
   - pen-red
 ---
+# Ferric
 ### Quick Facts
 
 |                    |                                                                                           |
@@ -22,7 +23,7 @@ Words about person.
 
 ***
 ### History
-Loves Varliae.
+Loves Varliae. Got the closest to becoming a lich.
 
 ***
 ### Relations

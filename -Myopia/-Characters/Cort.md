@@ -2,6 +2,7 @@
 cssclasses:
   - pen-green
 ---
+# Cort
 ### Quick Facts
 
 |                    |                                                                                                                                                        |
@@ -34,6 +35,6 @@ Power that person has.
 
 ***
 ### Gallery
-
+![THeLovers1](-images/THeLovers1.png)
 ![cort1](-images/cort1.png)
 ***

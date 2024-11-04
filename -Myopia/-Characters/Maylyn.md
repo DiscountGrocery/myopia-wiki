@@ -2,11 +2,12 @@
 cssclasses:
   - pen-red
 ---
+# Maylyn
 ### Quick Facts
 
 |                    |                                                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--...and-their-shadows-will spread-like-oil](../-Session_Notes/Session-1--...and-their-shadows-will%20spread-like-oil.md) |
+| First Appearance:  | [Session-1--...and-their-shadows-will spread-like-oil](../-Session-Notes/Session-1--...and-their-shadows-will%20spread-like-oil.md) |
 | Based on:          | Gohan (Vaguelly)                                                                                                                                        |
 | Played by:         | J                                                                                                                                                       |
 | Full name:         | Nylyam d'Sivis                                                                                                                                          |

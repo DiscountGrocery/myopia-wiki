@@ -2,20 +2,21 @@
 cssclasses:
   - pen-light-blue
 ---
+# Phoen
 ### Quick Facts
 
-|                    |                                                                                                |
-| ------------------ | ---------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session 36 - Queen of Nothing](../Session%20Notes/Session%2036%20-%20Queen%20of%20Nothing%5C) |
-| Based on:          | Metal Sonic                                                                                    |
-| Played by:         | J                                                                                              |
-| Full name:         | Phoen                                                                                          |
-| Nicknames:         | Bird Bitch, Mecha-Staedtler                                                                    |
-| Gender & Pronouns: | Male, He/Him                                                                                   |
-| Ancestry:          | Kenku (Former)                                                                                 |
-| Affiliation:       | Breland (Former), Making, Himself                                                              |
-| Tarot:             | -                                                                                              |
-| Nationality:       | Thelanis                                                                                       |
+|                    |                                                                                    |
+| ------------------ | ---------------------------------------------------------------------------------- |
+| First Appearance:  | [Session-36--Queen-of-Nothing](../-Session-Notes/Session-36--Queen-of-Nothing.md)] |
+| Based on:          | Metal Sonic                                                                        |
+| Played by:         | J                                                                                  |
+| Full name:         | Phoen                                                                              |
+| Nicknames:         | Bird Bitch, Mecha-Staedtler                                                        |
+| Gender & Pronouns: | Male, He/Him                                                                       |
+| Ancestry:          | Kenku (Former)                                                                     |
+| Affiliation:       | Breland (Former), Making, Himself                                                  |
+| Tarot:             | -                                                                                  |
+| Nationality:       | Thelanis                                                                           |
 ***
 ### Personality & Appearance
 Words about person.
