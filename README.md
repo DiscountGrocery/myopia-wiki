@@ -1,5 +1,6 @@
 # myopia-wiki
  A wiki related to an Eberron-based pathfinder 2e campaign.
+ If anyone wants to help fill out just write the paragraphs for sections and dm them to me lol.
 
 - **-Myopia**
 	- **-Characters**
