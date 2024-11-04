@@ -16,7 +16,7 @@ cssclasses:
 ***
 - [Cort](../-Characters/Cort.md) manipulates his connection with Lharvion, making it more "productive" rather than disturbing. Melts the [Xoriat-Lens](../Xoriat-Lens.md) into a champagne fluke.
 - Talks to [Ghost](../-Characters/Ghost.md), who is overwhelmed with the paperwork required for rebuilding Making, and assists him.
-- Dreams of [Avaash](../-Characters/Avaash.md), who burns, revealing a wax form of the [(The-Feeling-of-Being-Stabbed)](../-Characters/(The-Feeling-of-Being-Stabbed).md), who tears the [Rotten-Heart](../Rotten-Heart.md) out. Cort feels immense elation and is ignited. Swears to see the [Phoenix-Heart](../Phoenix-Heart.md) being shoved inside.
+- Dreams of [Avaash](../-Characters/Avaash.md), who burns, revealing a wax form of the [The-Feeling-of-Being-Stabbed](../-Characters/The-Feeling-of-Being-Stabbed.md), who tears the [Rotten-Heart](../Rotten-Heart.md) out. Cort feels immense elation and is ignited. Swears to see the [Phoenix-Heart](../Phoenix-Heart.md) being shoved inside.
 - Cort speaks to [Rusty](../-Characters/Rusty.md) about [Daelkyr](../Daelkyr.md), invites to the upcoming gala.
 ***
 - Pharen puts in orders to construct a large cannon to the [Rings-of-Harmony](../Rings-of-Harmony.md). 
@@ -52,8 +52,8 @@ cssclasses:
 - Vrennan does not explode on the launch, he is very depressed.
 - Duck dreams and communicates with [Aspectum](../-Characters/Aspectum.md), who says he is the only one with a conscious.
 - Duck talks to Cort.
-- Party talks to [(The-Taste-of-Tapioca)](../-Characters/(The-Taste-of-Tapioca).md).
-- Offers [(The-Feeling-of-Being-Stabbed)](../-Characters/(The-Feeling-of-Being-Stabbed).md) the [Phoenix-Heart](../Phoenix-Heart.md), [Armor-of-Jhazaal-of-Dhakaan](../Armor-of-Jhazaal-of-Dhakaan.md), Cort, and Pharen. It doesn't take them.
+- Party talks to [The-Taste-of-Tapioca](../-Characters/The-Taste-of-Tapioca.md).
+- Offers [The-Feeling-of-Being-Stabbed](../-Characters/The-Feeling-of-Being-Stabbed.md) the [Phoenix-Heart](../Phoenix-Heart.md), [Armor-of-Jhazaal-of-Dhakaan](../Armor-of-Jhazaal-of-Dhakaan.md), Cort, and Pharen. It doesn't take them.
 - Told the next artifacts to collect: **Tome, Crystal, Cube, Empire.** Return after collecting 5th and 6th because we will need help to collect the 7th.
 - Cort tells FBS about the dream. FBS reminds Cort that he will either be a puppet, a weapon, or nothing.
 

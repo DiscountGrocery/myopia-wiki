@@ -1,6 +1,8 @@
 %% Begin Waypoint %%
 - **-Myopia**
 	- **-Characters**
+		- **-images**
+
 		- **-Pharen-Family**
 			- [Alcha](-Myopia/-Characters/-Pharen-Family/Alcha.md)
 			- [Argen-and-Auren](-Myopia/-Characters/-Pharen-Family/Argen-and-Auren.md)
@@ -11,8 +13,6 @@
 			- [Savia](-Myopia/-Characters/-Pharen-Family/Savia.md)
 			- [Varliae](-Myopia/-Characters/-Pharen-Family/Varliae.md)
 			- [Varya](-Myopia/-Characters/-Pharen-Family/Varya.md)
-		- [(The-Feeling-of-Being-Stabbed)](-Myopia/-Characters/(The-Feeling-of-Being-Stabbed).md)
-		- [(The-Taste-of-Tapioca)](-Myopia/-Characters/(The-Taste-of-Tapioca).md)
 		- [Aspectum](-Myopia/-Characters/Aspectum.md)
 		- [Avaash](-Myopia/-Characters/Avaash.md)
 		- [Bella](-Myopia/-Characters/Bella.md)
@@ -46,9 +46,11 @@
 		- [Scalpel](-Myopia/-Characters/Scalpel.md)
 		- [Sisava](-Myopia/-Characters/Sisava.md)
 		- [Strife](-Myopia/-Characters/Strife.md)
+		- [The-Feeling-of-Being-Stabbed](-Myopia/-Characters/The-Feeling-of-Being-Stabbed.md)
 		- [The-Forgotten-Prince](-Myopia/-Characters/The-Forgotten-Prince.md)
 		- [The-Prince-of-Frost](-Myopia/-Characters/The-Prince-of-Frost.md)
 		- [The-Professor](-Myopia/-Characters/The-Professor.md)
+		- [The-Taste-of-Tapioca](-Myopia/-Characters/The-Taste-of-Tapioca.md)
 		- [Tonik](-Myopia/-Characters/Tonik.md)
 		- [Tu'gaal](-Myopia/-Characters/Tu'gaal.md)
 		- [Vrennan](-Myopia/-Characters/Vrennan.md)

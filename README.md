@@ -1,5 +1,5 @@
 # myopia-wiki
- A wiki related to an eberron-based pathfinder 2e campaign.
+ A wiki related to an Eberron-based pathfinder 2e campaign.
 
 - **-Myopia**
 	- **-Characters**
@@ -13,8 +13,8 @@
 			- [Savia](-Myopia/-Characters/-Pharen-Family/Savia.md)
 			- [Varliae](-Myopia/-Characters/-Pharen-Family/Varliae.md)
 			- [Varya](-Myopia/-Characters/-Pharen-Family/Varya.md)
-		- [(The-Feeling-of-Being-Stabbed)](-Myopia/-Characters/(The-Feeling-of-Being-Stabbed).md)
-		- [(The-Taste-of-Tapioca)](-Myopia/-Characters/(The-Taste-of-Tapioca).md)
+		- [The-Feeling-of-Being-Stabbed](-Myopia/-Characters/The-Feeling-of-Being-Stabbed.md)
+		- [The-Taste-of-Tapioca](-Myopia/-Characters/The-Taste-of-Tapioca.md)
 		- [Aspectum](-Myopia/-Characters/Aspectum.md)
 		- [Avaash](-Myopia/-Characters/Avaash.md)
 		- [Bella](-Myopia/-Characters/Bella.md)

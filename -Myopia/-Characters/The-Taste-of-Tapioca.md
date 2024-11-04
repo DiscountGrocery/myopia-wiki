@@ -23,7 +23,7 @@ Bubbly, sweet, sarcastic. Look at the image.
 
 ***
 ### History
-Interacts with the party when they visit [(The-Feeling-of-Being-Stabbed)]((The-Feeling-of-Being-Stabbed).md).
+Interacts with the party when they visit [The-Feeling-of-Being-Stabbed](The-Feeling-of-Being-Stabbed.md).
 
 ***
 ### Relations
