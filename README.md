@@ -131,7 +131,7 @@
 		- [Session-40--First-It-Giveth](-Myopia/-Session-Notes/Session-40--First-It-Giveth.md)
 		- [Session-41--God-is-in-the-Radio](-Myopia/-Session-Notes/Session-41--God-is-in-the-Radio.md)
 		- [Session-42--Suture-up-your-Future](-Myopia/-Session-Notes/Session-42--Suture-up-your-Future.md)
-		- [Session-43--Something-I-Can-Never-Have-(Degenerate-Pt.-2)](-Myopia/-Session-Notes/Session-43--Something-I-Can-Never-Have-(Degenerate-Pt.-2).md)
+		- [Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2](-Myopia/-Session-Notes/Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2.md)
 		- [Session-44--Into-the-Hallow](-Myopia/-Session-Notes/Session-44--Into-the-Hallow.md)
 		- [Session-45--Emotion-Sickness](-Myopia/-Session-Notes/Session-45--Emotion-Sickness.md)
 		- [Session-46--Trust](-Myopia/-Session-Notes/Session-46--Trust.md)

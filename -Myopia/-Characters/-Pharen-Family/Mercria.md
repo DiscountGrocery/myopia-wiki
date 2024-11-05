@@ -7,7 +7,7 @@ cssclasses:
 
 |                    |                                                                                                                                                |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-43--Something-I-Can-Never-Have-(Degenerate-Pt.-2)](../../-Session-Notes/Session-43--Something-I-Can-Never-Have-(Degenerate-Pt.-2).md) |
+| First Appearance:  | [Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2](../../-Session-Notes/Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2.md) |
 | Based on:          | Mercury                                                                                                                                        |
 | Played by:         | J                                                                                                                                              |
 | Full name:         | Mercria Verta                                                                                                                                  |

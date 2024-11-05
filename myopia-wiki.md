@@ -132,7 +132,7 @@
 		- [[Session-40--First-It-Giveth]]
 		- [[Session-41--God-is-in-the-Radio]]
 		- [[Session-42--Suture-up-your-Future]]
-		- [[Session-43--Something-I-Can-Never-Have-(Degenerate-Pt.-2)]]
+		- [[Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2]]
 		- [[Session-44--Into-the-Hallow]]
 		- [[Session-45--Emotion-Sickness]]
 		- [[Session-46--Trust]]
