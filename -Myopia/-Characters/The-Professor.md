@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             |                |
 | Nationality:       |                |
 ***
-### Personality & Appearance
+### General
 Words about person.
 
 ***

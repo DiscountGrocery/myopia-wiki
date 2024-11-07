@@ -7,10 +7,10 @@ cssclasses:
 
 |                    |                                                    |
 | ------------------ | -------------------------------------------------- |
-| First Appearance:  |                                                    |
-| Based on:          |                                                    |
+| First Appearance:  | -                                                  |
+| Based on:          | -                                                  |
 | Played by:         | J                                                  |
-| Full name:         |                                                    |
+| Full name:         | Vrennan                                            |
 | Nicknames:         |                                                    |
 | Gender & Pronouns: | Male, He/Him                                       |
 | Ancestry:          | Drow                                               |
@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | -                                                  |
 | Nationality:       |                                                    |
 ***
-### Personality & Appearance
+### General
 Words about person.
 
 ***

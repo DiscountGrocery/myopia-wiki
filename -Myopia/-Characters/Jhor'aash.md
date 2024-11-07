@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             |                                                |
 | Nationality:       | Kech Hashraac                                  |
 ***
-### Personality & Appearance
+### General
 Words about person.
 
 ***

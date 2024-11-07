@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | -                                                                                     |
 | Nationality:       | Making, Cyre                                                                          |
 ***
-### Personality & Appearance
+### General
 Words about person.
 Southern accent.
 ***

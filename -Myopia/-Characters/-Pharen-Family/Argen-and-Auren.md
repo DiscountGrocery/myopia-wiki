@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | -                                              |
 | Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md) |
 ***
-### Personality & Appearance
+### General
 Identical twins. Argen dresses in silver. Auren dresses in gold.
 "Alive, freaky"
 

@@ -5,20 +5,20 @@ cssclasses:
 # Blade
 ### Quick Facts
 
-|                    |                                                |
-| ------------------ | ---------------------------------------------- |
-| First Appearance:  |                                                |
-| Based on:          | N/A                                            |
-| Played by:         | J                                              |
-| Full name:         | Kor'sharaat (Scarlet Blade)                    |
-| Nicknames:         | Blade, Hubby Wubby                             |
-| Gender & Pronouns: | Male, He/Him                                   |
-| Ancestry:          | Gal'daar                                       |
+|                    |                                                    |
+| ------------------ | -------------------------------------------------- |
+| First Appearance:  |                                                    |
+| Based on:          | -                                                  |
+| Played by:         | J                                                  |
+| Full name:         | Kor'sharaat (Scarlet Blade)                        |
+| Nicknames:         | Blade, Hubby Wubby                                 |
+| Gender & Pronouns: | Male, He/Him                                       |
+| Ancestry:          | Gal'daar                                           |
 | Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md) |
-| Tarot:             | N/A                                            |
-| Nationality:       | Kech Volaar                                    |
+| Tarot:             | -                                                  |
+| Nationality:       | Kech Volaar                                        |
 ***
-### Personality & Appearance
+### General
 Words about person.
 
 ***

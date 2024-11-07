@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | -                       |
 | Nationality:       | Aereni                  |
 ***
-### Personality & Appearance
+### General
 Words about person.
 
 ***

@@ -7,7 +7,7 @@ cssclasses:
 
 |                    |                                                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--...and-their-shadows-will spread-like-oil](../-Session-Notes/Session-1--...and-their-shadows-will%20spread-like-oil.md) |
+| First Appearance:  | [Session-1--And-their-shadows-will spread-like-oil](../-Session-Notes/Session-1--And-their-shadows-will%20spread-like-oil.md) |
 | Based on:          | Gohan (Vaguelly)                                                                                                                                        |
 | Played by:         | J                                                                                                                                                       |
 | Full name:         | Nylyam d'Sivis                                                                                                                                          |
@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | The Empress                                                                                                                                             |
 | Nationality:       | Zilargo                                                                                                                                                 |
 ***
-### Personality & Appearance
+### General
 Words about person.
 
 ***

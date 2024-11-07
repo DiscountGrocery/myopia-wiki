@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | -                                                   |
 | Nationality:       | Karrnath                                            |
 ***
-### Personality & Appearance
+### General
 Long, blonde hair, pale complexion, tall and lanky, angular eyes.
 "Extremely freaky"
 

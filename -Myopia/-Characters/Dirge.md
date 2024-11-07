@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             |                                                |
 | Nationality:       | Kech Volaar                                    |
 ***
-### Personality & Appearance
+### General
 Words about person.
 
 ***

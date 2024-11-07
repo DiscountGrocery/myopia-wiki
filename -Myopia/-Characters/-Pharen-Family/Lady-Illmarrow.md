@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             |                                             |
 | Nationality:       | Irani (Former), [Farlnen](../../-Locations--Planes/Farlnen.md) |
 ***
-### Personality & Appearance
+### General
 Scary.
 
 ***

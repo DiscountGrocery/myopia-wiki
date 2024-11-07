@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | -                |
 | Nationality:       | Breland          |
 ***
-### Personality & Appearance
+### General
 Words about person.
 
 ***

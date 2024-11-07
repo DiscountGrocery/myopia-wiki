@@ -4,6 +4,8 @@
 
 - **-Myopia**
 	- **-Characters**
+		- **-images**
+
 		- **-Pharen-Family**
 			- [Alcha](-Myopia/-Characters/-Pharen-Family/Alcha.md)
 			- [Argen-and-Auren](-Myopia/-Characters/-Pharen-Family/Argen-and-Auren.md)
@@ -15,7 +17,7 @@
 			- [Varliae](-Myopia/-Characters/-Pharen-Family/Varliae.md)
 			- [Varya](-Myopia/-Characters/-Pharen-Family/Varya.md)
 		- [Aspectum](-Myopia/-Characters/Aspectum.md)
-		- [Avaash](-Myopia/-Characters/Avaash.md)
+		- [Avassh](-Myopia/-Characters/Avassh.md)
 		- [Bella](-Myopia/-Characters/Bella.md)
 		- [Blade](-Myopia/-Characters/Blade.md)
 		- [Chance](-Myopia/-Characters/Chance.md)
@@ -37,6 +39,7 @@
 		- [Lorraine](-Myopia/-Characters/Lorraine.md)
 		- [Maeve](-Myopia/-Characters/Maeve.md)
 		- [Maylyn](-Myopia/-Characters/Maylyn.md)
+		- [Oargev](-Myopia/-Characters/Oargev.md)
 		- [Pharen](-Myopia/-Characters/Pharen.md)
 		- [Phel](-Myopia/-Characters/Phel.md)
 		- [Phoen](-Myopia/-Characters/Phoen.md)
@@ -77,8 +80,10 @@
 		- [The-Looking-Glass](-Myopia/-Groups/The-Looking-Glass.md)
 	- **-Items**
 		- [Clock-Hand](-Myopia/-Items/Clock-Hand.md)
+		- [Phil](-Myopia/-Items/Phil.md)
 		- [Xoriat-Lens](-Myopia/-Items/Xoriat-Lens.md)
 	- **-Locations--Planes**
+		- [Blank Space](-Myopia/-Locations--Planes/Blank%20Space.md)
 		- [Daanvi](-Myopia/-Locations--Planes/Daanvi.md)
 		- [Eston](-Myopia/-Locations--Planes/Eston.md)
 		- [Farlnen](-Myopia/-Locations--Planes/Farlnen.md)
@@ -88,7 +93,7 @@
 		- [Sharn](-Myopia/-Locations--Planes/Sharn.md)
 		- [Xoriat](-Myopia/-Locations--Planes/Xoriat.md)
 	- **-Session-Notes**
-		- [Session-1--...and-their-shadows-will spread-like-oil](-Myopia/-Session-Notes/Session-1--...and-their-shadows-will%20spread-like-oil.md)
+		- [Session-1--And-their-shadows-will spread-like-oil](-Myopia/-Session-Notes/Session-1--And-their-shadows-will%20spread-like-oil.md)
 		- [Session-2--First-Blood](-Myopia/-Session-Notes/Session-2--First-Blood.md)
 		- [Session-3--A-Match-to-Light](-Myopia/-Session-Notes/Session-3--A-Match-to-Light.md)
 		- [Session-4--Phantom-of-the-Opera](-Myopia/-Session-Notes/Session-4--Phantom-of-the-Opera.md)
@@ -145,6 +150,7 @@
 		- [Session-54--Escape-From-The-Prison-Planet](-Myopia/-Session-Notes/Session-54--Escape-From-The-Prison-Planet.md)
 		- [Session-55--Schism](-Myopia/-Session-Notes/Session-55--Schism.md)
 		- [Session-56--When-God-Comes-Back](-Myopia/-Session-Notes/Session-56--When-God-Comes-Back.md)
+	- [Second-Deluge](-Myopia/Second-Deluge.md)
 - **-Sacrosanct**
 	- **Characters**
 		- [Aaron](-Sacrosanct/Characters/Aaron.md)
@@ -153,6 +159,8 @@
 		- [Daren](-Sacrosanct/Characters/Daren.md)
 		- [Dent](-Sacrosanct/Characters/Dent.md)
 		- [Evelyn](-Sacrosanct/Characters/Evelyn.md)
+	- [Machine-of-Enchantment](-Sacrosanct/Machine-of-Enchantment.md)
 	- [The-Flaming-Hoop](-Sacrosanct/The-Flaming-Hoop.md)
 - [README](README.md)
+
 

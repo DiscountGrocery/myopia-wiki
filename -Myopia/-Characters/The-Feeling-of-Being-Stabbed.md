@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | The Moon                                                                                                    |     |
 | Nationality:       | -                                                                                                           |     |
 ***
-### Personality & Appearance
+### General
 Horrific geometry and such.
 
 ***

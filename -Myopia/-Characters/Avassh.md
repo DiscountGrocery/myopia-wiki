@@ -2,7 +2,7 @@
 cssclasses:
   - pen-green
 ---
-# Avaash
+# Avassh
 ### Quick Facts
 
 |                    |                                                                                   |
@@ -16,9 +16,9 @@ cssclasses:
 | Ancestry:          | [Daelkyr](../-Groups/Daelkyr.md)                                                  |
 | Affiliation:       | Itself                                                                            |
 | Tarot:             | -                                                                                 |
-| Nationality:       | -                                                                                 |
+| Nationality:       | Eldeen Reaches                                                                    |
 ***
-### Personality & Appearance
+### General
 Freaky.
 
 ***
@@ -28,7 +28,7 @@ History about person.
 ***
 ### Relations
 Controlled the [Mycology](../-Groups/Mycology.md).
-Connected to [Cort](Cort.md) through the [1-Rotten-Heart](../-Elements-of-the-Prophecy/1-Rotten-Heart.md).
+Connected to [Cort](Cort.md) through the [Rotten Heart](../-Elements-of-the-Prophecy/1-Rotten-Heart.md).
 
 ***
 ### Ability

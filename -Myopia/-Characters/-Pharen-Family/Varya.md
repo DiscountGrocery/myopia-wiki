@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | -                                              |
 | Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md) |
 ***
-### Personality & Appearance
+### General
 Burly and roguish. [Pharen](../Pharen.md) but older. Hungry for flesh and needs to eat people.
 
 ***

@@ -5,20 +5,20 @@ cssclasses:
 # Cygnus
 ### Quick Facts
 
-|                    |                                                                                               |
-| ------------------ | --------------------------------------------------------------------------------------------- |
+|                    |                                                                                 |
+| ------------------ | ------------------------------------------------------------------------------- |
 | First Appearance:  | [Session-40--First-It-Giveth](../-Session-Notes/Session-40--First-It-Giveth.md) |
-| Based on:          | Nameless Narrator (Sacrosanct)                                                                |
-| Played by:         | J                                                                                             |
-| Full name:         | Cygnus                                                                                        |
-| Nicknames:         | The Last Couatl                                                                               |
-| Gender & Pronouns: | Any/All                                                                                       |
-| Ancestry:          | Couatl                                                                                        |
-| Affiliation:       | -                                                                                             |
-| Tarot:             | Temperance                                                                                    |
-| Nationality:       | -                                                                                             |
+| Based on:          | Nameless Narrator (Sacrosanct)                                                  |
+| Played by:         | J                                                                               |
+| Full name:         | Cygnus                                                                          |
+| Nicknames:         | The Last Couatl                                                                 |
+| Gender & Pronouns: | Any/All                                                                         |
+| Ancestry:          | Couatl                                                                          |
+| Affiliation:       | -                                                                               |
+| Tarot:             | Temperance                                                                      |
+| Nationality:       | Siberspace                                                                      |
 ***
-### Personality & Appearance
+### General
 Words about person.
 
 ***

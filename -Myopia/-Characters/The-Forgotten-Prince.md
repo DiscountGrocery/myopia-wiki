@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | -                                                                                                                |
 | Nationality:       | Thelanis                                                                                                         |
 ***
-### Personality & Appearance
+### General
 Words about person.
 
 ***

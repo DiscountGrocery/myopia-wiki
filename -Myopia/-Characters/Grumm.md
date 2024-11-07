@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | The Hierophant |
 | Nationality:       |                |
 ***
-### Personality & Appearance
+### General
 Words about person.
 
 ***

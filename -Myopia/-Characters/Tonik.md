@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | The Emperor                                                                                              |
 | Nationality:       | Cyre                                                                                                     |
 ***
-### Personality & Appearance
+### General
 Words about person.
 
 ***

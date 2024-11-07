@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | -                                                                             |
 | Nationality:       | Dhakaani Empire                                                               |
 ***
-### Personality & Appearance
+### General
 Particularly gaunt and thin hobgoblin with deceptively slim muscles.
 His skin is a desaturated dark pink, lacerated in intricate patterns, scarred over with a metallic sheen, accented by burn marks.
 

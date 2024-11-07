@@ -5,20 +5,20 @@ cssclasses:
 # Rime
 ### Quick Facts
 
-|                    |                         |
-| ------------------ | ----------------------- |
-| First Appearance:  |                         |
-| Based on:          |                         |
-| Played by:         | Jonah                   |
-| Full name:         | Rime ir'ciere           |
-| Nicknames:         | Little Prince, Frostboy |
-| Gender & Pronouns: | Male, He/Him            |
-| Ancestry:          | Eladrin                 |
-| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md)    |
-| Tarot:             | N/A                     |
-| Nationality:       | Thelanis                |
+|                    |                                                    |
+| ------------------ | -------------------------------------------------- |
+| First Appearance:  |                                                    |
+| Based on:          | -                                                  |
+| Played by:         | Jonah                                              |
+| Full name:         | Rime ir'ciere                                      |
+| Nicknames:         | Little Prince, Frostboy                            |
+| Gender & Pronouns: | Male, He/Him                                       |
+| Ancestry:          | Eladrin                                            |
+| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md) |
+| Tarot:             | -                                                  |
+| Nationality:       | Thelanis                                           |
 ***
-### Personality & Appearance
+### General
 Cold, emotionless, servile.
 
 ***
@@ -36,6 +36,6 @@ Ice magic and sword fighting. Lowers ambient temperature around him.
 
 ***
 ### Gallery
-Images related to the character.
+
 
 ***

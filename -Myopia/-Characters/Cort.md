@@ -7,7 +7,7 @@ cssclasses:
 
 |                    |                                                                                                                                     |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--...and-their-shadows-will spread-like-oil](../-Session-Notes/Session-1--...and-their-shadows-will%20spread-like-oil.md) |
+| First Appearance:  | [Session-1--And-their-shadows-will spread-like-oil](../-Session-Notes/Session-1--And-their-shadows-will%20spread-like-oil.md) |
 | Based on:          | Zombie Fungus                                                                                                                       |
 | Played by:         | E                                                                                                                                   |
 | Full name:         | Unknown (Former), Cortinarius Orell                                                                                                 |
@@ -18,20 +18,27 @@ cssclasses:
 | Tarot:             | The Lovers                                                                                                                          |
 | Nationality:       | Eldeen Reaches (Former), Mycology                                                                                                   |
 ***
-### Personality & Appearance
-Foolish, awkward, 
+### General
+Foolish, awkward, innocent, naive, gullible.
+1. Human
+2. Goes through cycles of life and death over 5 days.
 
 ***
 ### History
 History about person.
+Sacrificed his knowledge of his former life to [The-Forgotten-Prince](The-Forgotten-Prince.md).
 
 ***
 ### Relations
-Relations with person.
+Manipulated by [Sisava](Sisava.md).
+Influenced by [Avassh](Avassh.md) through the [Rotten Heart](../-Elements-of-the-Prophecy/1-Rotten-Heart.md)
+Friends with [Duck](Duck.md).
+Forgotten human relatives.
+Related to a man who accidentally escalated [The Last War](https://eberron.fandom.com/wiki/Last_War)
 
 ***
 ### Ability
-Power that person has.
+Mushroom abilities.
 
 ***
 ### Gallery

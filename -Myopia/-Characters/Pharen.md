@@ -7,7 +7,7 @@ cssclasses:
 
 |                    |                                                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--...and-their-shadows-will spread-like-oil](../-Session-Notes/Session-1--...and-their-shadows-will%20spread-like-oil.md) |
+| First Appearance:  | [Session-1--And-their-shadows-will spread-like-oil](../-Session-Notes/Session-1--And-their-shadows-will%20spread-like-oil.md) |
 | Based on:          | Goku (DB), Senku (Dr. Stone)                                                                                                                            |
 | Played by:         | L                                                                                                                                                       |
 | Full name:         | Pharen Verta                                                                                                                                            |
@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | Judgement                                                                                                                                               |
 | Nationality:       | Farlnen                                                                                                                                                 |
 ***
-### Personality & Appearance
+### General
 Words about person.
 
 ***

@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | -                                              |
 | Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md) |
 ***
-### Personality & Appearance
+### General
 Nurturing. Pale skinned with black hair. Face tattoos.
 "Alive, acceptably freaky"
 ***

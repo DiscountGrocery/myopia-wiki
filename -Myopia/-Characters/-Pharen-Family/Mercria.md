@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | -                                                                                                                                              |
 | Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md)                                                                                                 |
 ***
-### Personality & Appearance
+### General
 Direct, prideful, aggressive. Face tattoos like mother, tall and bulky, larger than Pharen.
 "Alive, not freaky"
 

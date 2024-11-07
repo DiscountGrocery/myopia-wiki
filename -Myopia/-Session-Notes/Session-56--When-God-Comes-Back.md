@@ -16,7 +16,7 @@ cssclasses:
 ***
 - [Cort](../-Characters/Cort.md) manipulates his connection with Lharvion, making it more "productive" rather than disturbing. Melts the [Xoriat-Lens](../-Items/Xoriat-Lens.md) into a champagne fluke.
 - Talks to [Ghost](../-Characters/Ghost.md), who is overwhelmed with the paperwork required for rebuilding Making, and assists him.
-- Dreams of [Avaash](../-Characters/Avaash.md), who burns, revealing a wax form of the [The-Feeling-of-Being-Stabbed](../-Characters/The-Feeling-of-Being-Stabbed.md), who tears the [1-Rotten-Heart](../-Elements-of-the-Prophecy/1-Rotten-Heart.md) out. Cort feels immense elation and is ignited. Swears to see the [4-Phoenix-Heart](../-Elements-of-the-Prophecy/4-Phoenix-Heart.md) being shoved inside.
+- Dreams of [Avassh](../-Characters/Avassh.md), who burns, revealing a wax form of the [The-Feeling-of-Being-Stabbed](../-Characters/The-Feeling-of-Being-Stabbed.md), who tears the [1-Rotten-Heart](../-Elements-of-the-Prophecy/1-Rotten-Heart.md) out. Cort feels immense elation and is ignited. Swears to see the [4-Phoenix-Heart](../-Elements-of-the-Prophecy/4-Phoenix-Heart.md) being shoved inside.
 - Cort speaks to [Rusty](../-Characters/Rusty.md) about [Daelkyr](../-Groups/Daelkyr.md), invites to the upcoming gala.
 ***
 - Pharen puts in orders to construct a large cannon to the [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md). 

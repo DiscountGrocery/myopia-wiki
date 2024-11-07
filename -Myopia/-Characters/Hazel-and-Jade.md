@@ -5,29 +5,30 @@ cssclasses:
 # Hazel and Jade
 ### Quick Facts
 
-|                    |                                                  |
-| ------------------ | ------------------------------------------------ |
-| First Appearance:  |                                                  |
-| Based on:          | -                                                |
-| Played by:         | J                                                |
-| Full names:        | Hazel & Jade                                     |
-| Nicknames:         | -                                                |
-| Gender & Pronouns: | Both Female, Both She/Her                        |
-| Ancestry:          | Changeling                                       |
+|                    |                                                      |
+| ------------------ | ---------------------------------------------------- |
+| First Appearance:  |                                                      |
+| Based on:          | -                                                    |
+| Played by:         | J                                                    |
+| Full names:        | Hazel & Jade                                         |
+| Nicknames:         | -                                                    |
+| Gender & Pronouns: | Both Female, Both She/Her                            |
+| Ancestry:          | Changeling                                           |
 | Affiliation:       | [The-Looking-Glass](../-Groups/The-Looking-Glass.md) |
-| Tarot:             | -                                                |
-| Nationality:       | Thelanis                                         |
+| Tarot:             | -                                                    |
+| Nationality:       | [Thelanis](https://eberron.fandom.com/wiki/Thelanis) |
+|                    |                                                      |
 ***
-### Personality & Appearance
-Words about person.
+### General
+They appear identical.
 
 ***
 ### History
-History about person.
+Something feywild.
 
 ***
 ### Relations
-Relations with person.
+Both in a marriage with [Phel](Phel.md).
 
 ***
 ### Ability

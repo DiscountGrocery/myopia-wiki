@@ -18,7 +18,7 @@ cssclasses:
 | Tarot:             | -                                                                                                          |
 | Nationality:       | -                                                                                                          |
 ***
-### Personality & Appearance
+### General
 Bubbly, sweet, sarcastic. Look at the image.
 
 ***
