@@ -31,9 +31,6 @@ cssclasses:
 ***
 - Duck talks to Tonik, who is lining their room on the ship with lead to protect against psychic influence.
 - After Tonik leaves, Duck rifles through his stuff finding [Maylyn](../-Characters/Maylyn.md)'s journal. It contains contingency plans to destroy each member of the [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md) written by Tonik.
-
-![ContigencyPlanMyopiaTonik](../-Characters/-images/ContigencyPlanMyopiaTonik.png)
-
 - Does a ritual for the Fury, burning [Aspectum](../-Characters/Aspectum.md)'s name and wax onto arms.
 - Visits [The-Forgotten-Prince](../-Characters/The-Forgotten-Prince.md), confirms that [Rime](../-Characters/Rime.md) is going to Thelanis. Prince says to stay with the ship while Rime retrieves the [Clock-Hand](../-Items/Clock-Hand.md).
 - Visits [Lorraine](../-Characters/Lorraine.md).
