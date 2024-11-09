@@ -19,7 +19,7 @@ cssclasses:
 | Nationality:       | -                                                                                                          |
 ***
 ### General
-Bubbly, sweet, sarcastic. Look at the image.
+Bubbly, sweet, and sarcastic.
 
 ***
 ### History
