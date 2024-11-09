@@ -37,7 +37,9 @@ cssclasses:
 - Visits [Lorraine](../-Characters/Lorraine.md).
 ***
 ## Gala of the Solstice Dawn
-[Gala Invite Image](../../../../../99%20-%20META/attachments/summer-gala-invite.png)
+
+![summer-gala-invite](../-Characters/-images/summer-gala-invite.png)
+
 - Hosted by the Cyran monarchs.
 - Dress:
 	- Cort: Wrapped in thorns.
