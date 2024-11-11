@@ -47,6 +47,7 @@
 		- [[Scalpel]]
 		- [[Sisava]]
 		- [[Strife]]
+		- [[The-Collector]]
 		- [[The-Feeling-of-Being-Stabbed]]
 		- [[The-Forgotten-Prince]]
 		- [[The-Prince-of-Frost]]
@@ -147,6 +148,7 @@
 		- [[Session-54--Escape-From-The-Prison-Planet]]
 		- [[Session-55--Schism]]
 		- [[Session-56--When-God-Comes-Back]]
+		- [[Session-57--Suspended]]
 	- [[Second-Deluge]]
 - **-Sacrosanct**
 	- **Characters**

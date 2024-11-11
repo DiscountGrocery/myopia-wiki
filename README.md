@@ -1,6 +1,5 @@
 # myopia-wiki
- A wiki related to an Eberron-based pathfinder 2e campaign.
- If anyone wants to help fill out just write the paragraphs for sections and dm them to me lol.
+ A wiki that I am filling out rn! It's related to this universe that we built in some table top games. Wondrous! If you want to assist me i would be ever so thankful.
 
 - **-Myopia**
 	- **-Characters**
@@ -8,10 +7,10 @@
 
 		- **-Pharen-Family**
 			- [Alcha](-Myopia/-Characters/-Pharen-Family/Alcha.md)
-			- [Argen and Auren](-Myopia/-Characters/-Pharen-Family/Argen-and-Auren.md)
+			- [Argen-and-Auren](-Myopia/-Characters/-Pharen-Family/Argen-and-Auren.md)
 			- [Ferric](-Myopia/-Characters/-Pharen-Family/Ferric.md)
 			- [Krova](-Myopia/-Characters/-Pharen-Family/Krova.md)
-			- [Lady Illmarrow](-Myopia/-Characters/-Pharen-Family/Lady-Illmarrow.md)
+			- [Lady-Illmarrow](-Myopia/-Characters/-Pharen-Family/Lady-Illmarrow.md)
 			- [Mercria](-Myopia/-Characters/-Pharen-Family/Mercria.md)
 			- [Savia](-Myopia/-Characters/-Pharen-Family/Savia.md)
 			- [Varliae](-Myopia/-Characters/-Pharen-Family/Varliae.md)
@@ -31,7 +30,7 @@
 		- [Ghost](-Myopia/-Characters/Ghost.md)
 		- [Grasp](-Myopia/-Characters/Grasp.md)
 		- [Grumm](-Myopia/-Characters/Grumm.md)
-		- [Hazel and Jade](-Myopia/-Characters/Hazel-and-Jade.md)
+		- [Hazel-and-Jade](-Myopia/-Characters/Hazel-and-Jade.md)
 		- [Jhor'aash](-Myopia/-Characters/Jhor'aash.md)
 		- [Judas](-Myopia/-Characters/Judas.md)
 		- [Lena](-Myopia/-Characters/Lena.md)
@@ -50,11 +49,12 @@
 		- [Scalpel](-Myopia/-Characters/Scalpel.md)
 		- [Sisava](-Myopia/-Characters/Sisava.md)
 		- [Strife](-Myopia/-Characters/Strife.md)
-		- [(The Feeling of Being Stabbed)](-Myopia/-Characters/The-Feeling-of-Being-Stabbed.md)
-		- [The Forgotten Prince](-Myopia/-Characters/The-Forgotten-Prince.md)
-		- [The Prince of Frost](-Myopia/-Characters/The-Prince-of-Frost.md)
-		- [The Professor](-Myopia/-Characters/The-Professor.md)
-		- [(The Taste of Tapioca)](-Myopia/-Characters/The-Taste-of-Tapioca.md)
+		- [The-Collector](-Myopia/-Characters/The-Collector.md)
+		- [The-Feeling-of-Being-Stabbed](-Myopia/-Characters/The-Feeling-of-Being-Stabbed.md)
+		- [The-Forgotten-Prince](-Myopia/-Characters/The-Forgotten-Prince.md)
+		- [The-Prince-of-Frost](-Myopia/-Characters/The-Prince-of-Frost.md)
+		- [The-Professor](-Myopia/-Characters/The-Professor.md)
+		- [The-Taste-of-Tapioca](-Myopia/-Characters/The-Taste-of-Tapioca.md)
 		- [Tonik](-Myopia/-Characters/Tonik.md)
 		- [Tu'gaal](-Myopia/-Characters/Tu'gaal.md)
 		- [Vrennan](-Myopia/-Characters/Vrennan.md)
@@ -150,6 +150,7 @@
 		- [Session-54--Escape-From-The-Prison-Planet](-Myopia/-Session-Notes/Session-54--Escape-From-The-Prison-Planet.md)
 		- [Session-55--Schism](-Myopia/-Session-Notes/Session-55--Schism.md)
 		- [Session-56--When-God-Comes-Back](-Myopia/-Session-Notes/Session-56--When-God-Comes-Back.md)
+		- [Session-57--Suspended](-Myopia/-Session-Notes/Session-57--Suspended.md)
 	- [Second-Deluge](-Myopia/Second-Deluge.md)
 - **-Sacrosanct**
 	- **Characters**
@@ -162,4 +163,3 @@
 	- [Machine-of-Enchantment](-Sacrosanct/Machine-of-Enchantment.md)
 	- [The-Flaming-Hoop](-Sacrosanct/The-Flaming-Hoop.md)
 - [README](.md)
-

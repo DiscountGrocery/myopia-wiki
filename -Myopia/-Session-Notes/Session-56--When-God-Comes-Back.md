@@ -52,11 +52,12 @@ cssclasses:
 - Briefing with Evelyn, party will head to [Nymm](../-Locations--Planes/Nymm.md).
 - Vrennan does not explode on the launch, he is very depressed.
 - Duck dreams and communicates with [Aspectum](../-Characters/Aspectum.md), who says he is the only one with a conscious.
-- Duck talks to Cort.
+- Duck talks to Cort about whether the party is moral.
 - Party talks to [The-Taste-of-Tapioca](../-Characters/The-Taste-of-Tapioca.md).
 - Offers [The-Feeling-of-Being-Stabbed](../-Characters/The-Feeling-of-Being-Stabbed.md) the [4-Phoenix-Heart](../-Elements-of-the-Prophecy/4-Phoenix-Heart.md), [3-Armor-of-Jhazaal-Dhakaan](../-Elements-of-the-Prophecy/3-Armor-of-Jhazaal-Dhakaan.md), Cort, and Pharen. It doesn't take them.
 - Told the next artifacts to collect: **Tome, Crystal, Cube, Empire.** Return after collecting 5th and 6th because we will need help to collect the 7th.
 - Cort tells FBS about the dream. FBS reminds Cort that he will either be a puppet, a weapon, or nothing.
+- Party goes to [Cygnus](../-Characters/Cygnus.md).
 
 #### Theories
 * [5-The-Tome](../-Elements-of-the-Prophecy/5-The-Tome.md) is a grimoire related to Pharen in Dravago

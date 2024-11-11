@@ -9,7 +9,7 @@ cssclasses:
 | ------------------ | -------------------------------------------------- |
 | First Appearance:  |                                                    |
 | Based on:          | -                                                  |
-| Played by:         | Jonah                                              |
+| Played by:         | J                                                  |
 | Full name:         | Rime ir'ciere                                      |
 | Nicknames:         | Little Prince, Frostboy                            |
 | Gender & Pronouns: | Male, He/Him                                       |
@@ -29,6 +29,7 @@ History about person.
 ### Relations
 Servant to [The-Prince-of-Frost](The-Prince-of-Frost.md).
 Loves (?) [Vrennan](Vrennan.md).
+Gets freaky with (?) Vrennan
 
 ***
 ### Ability
