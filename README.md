@@ -3,8 +3,6 @@
 
 - **-Myopia**
 	- **-Characters**
-		- **-images**
-
 		- **-Pharen-Family**
 			- [Alcha](-Myopia/-Characters/-Pharen-Family/Alcha.md)
 			- [Argen-and-Auren](-Myopia/-Characters/-Pharen-Family/Argen-and-Auren.md)
