@@ -7,7 +7,7 @@ cssclasses:
 
 |                    |                                                                               |
 | ------------------ | ----------------------------------------------------------------------------- |
-| First Appearance:  | [Session-50--Good-Samaritan](../-Session-Notes/Session-50--Good-Samaritan.md) |
+| First Appearance:  | [Session-50--Good-Samaritan](../-Session-Notes/-8-War/Session-50--Good-Samaritan.md) |
 | Based on:          | Nuclear Waste Warning (Spikes)                                                |
 | Played by:         | A                                                                             |
 | Full name:         | Tu'Gaal                                                                       |
@@ -36,7 +36,7 @@ He witnessed the destruction of his effort by the Daelkyr and has sworn their de
 
 ***
 ### Relations
-At one point roomed with [Cort](Cort.md) and attempted to learn common.
+At one point roomed with [Cort](-Player/Cort.md) and attempted to learn common.
 Connections to society are from [Dirge](Dirge.md), [Blade](Blade.md), and [Jhor'aash](Jhor'aash.md).
 
 ***

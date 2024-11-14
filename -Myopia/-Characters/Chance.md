@@ -2,7 +2,7 @@
 cssclasses:
   - pen-red
 ---
-# Chance
+# :RaSpadesCard: Chance :RaHeartsCard: 
 ### Quick Facts
 
 |                    |     |

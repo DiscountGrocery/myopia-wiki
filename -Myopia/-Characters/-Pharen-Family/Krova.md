@@ -29,7 +29,7 @@ History about person.
 ### Relations
 Son of [Ferric](Ferric.md).
 Father of [Varya](Varya.md).
-A soul within [Pharen](../Pharen.md)'s *Soulrazor*.
+A soul within [Pharen](../-Player/Pharen.md)'s *Soulrazor*.
 
 ***
 ### Ability

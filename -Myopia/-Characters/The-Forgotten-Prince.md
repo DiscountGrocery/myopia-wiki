@@ -2,7 +2,7 @@
 cssclasses:
   - pen-blue
 ---
-# The Forgotten Prince
+# :RaArcaneMask: The Forgotten Prince :RaArcaneMask:
 ### Quick Facts
 
 |                    |                                                                                                                  |

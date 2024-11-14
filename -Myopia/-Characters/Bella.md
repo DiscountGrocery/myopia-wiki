@@ -7,7 +7,7 @@ cssclasses:
 
 |                    |                                                                                       |
 | ------------------ | ------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-17--God-Hates-a-Coward](../-Session-Notes/Session-17--God-Hates-a-Coward.md) |
+| First Appearance:  | [Session-17--God-Hates-a-Coward](../-Session-Notes/-4-Bees-made-honey-in-the-lions-skull/Session-17--God-Hates-a-Coward.md) |
 | Based on:          | Eberron Lore                                                                          |
 | Played by:         | J                                                                                     |
 | Full name:         | Belashyra                                                                             |

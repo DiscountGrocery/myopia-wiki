@@ -7,7 +7,7 @@ cssclasses:
 
 |                    |                                                                                                          |
 | ------------------ | -------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-7--Blood-and-Thunder](../-Session-Notes/Session-7--Blood-and-Thunder.md)                        |
+| First Appearance:  | [Session-7--Blood-and-Thunder](../-Session-Notes/-1-Gathering-Storms/Session-7--Blood-and-Thunder.md)                        |
 | Based on:          | -                                                                                                        |
 | Played by:         | J                                                                                                        |
 | Full name:         | Starrin d'Cannith                                                                                        |
@@ -27,10 +27,10 @@ History about person.
 
 ***
 ### Relations
-Father of [Duck](Duck.md).
+Father of [Duck](-Player/Duck.md).
 Husband of [Maylyn](Maylyn.md).
 Brother of [Daren](../../-Sacrosanct/Characters/Daren.md).
-Hates [Sisava](Sisava.md).
+Hates [Sisava](-Player/Sisava.md).
 
 ***
 ### Ability

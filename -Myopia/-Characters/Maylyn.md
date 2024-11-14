@@ -2,12 +2,12 @@
 cssclasses:
   - pen-red
 ---
-# Maylyn
+# :RaCandle: Maylyn :RaCandle:
 ### Quick Facts
 
 |                    |                                                                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--And-their-shadows-will spread-like-oil](../-Session-Notes/Session-1--And-their-shadows-will%20spread-like-oil.md) |
+| First Appearance:  | [Session-1--And-their-shadows-will spread-like-oil](../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will%20spread-like-oil.md) |
 | Based on:          | Gohan (Vaguelly)                                                                                                                                        |
 | Played by:         | J                                                                                                                                                       |
 | Full name:         | Nylyam d'Sivis                                                                                                                                          |
@@ -27,7 +27,7 @@ History about person.
 
 ***
 ### Relations
-Mother of [Duck](Duck.md).
+Mother of [Duck](-Player/Duck.md).
 Wife of [Tonik](Tonik.md).
 Friends with [Hazel-and-Jade](Hazel-and-Jade.md).
 

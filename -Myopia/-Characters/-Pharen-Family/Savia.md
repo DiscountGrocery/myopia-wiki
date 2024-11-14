@@ -27,7 +27,7 @@ History about person.
 
 ***
 ### Relations
-Bearing child of and eventual wife of [Pharen](../Pharen.md).
+Bearing child of and eventual wife of [Pharen](../-Player/Pharen.md).
 
 ***
 ### Ability

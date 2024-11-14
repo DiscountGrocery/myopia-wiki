@@ -7,7 +7,7 @@ cssclasses:
 
 |                    |                                                                                    |
 | ------------------ | ---------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-36--Queen-of-Nothing](../-Session-Notes/Session-36--Queen-of-Nothing.md)] |
+| First Appearance:  | [Session-36--Queen-of-Nothing](../-Session-Notes/-6-Hand-me-my-shovel-we-are-going-in/Session-36--Queen-of-Nothing.md)] |
 | Based on:          | Metal Sonic                                                                        |
 | Played by:         | J                                                                                  |
 | Full name:         | Phoen                                                                              |
@@ -27,7 +27,7 @@ Words about person.
 
 ***
 ### Relations
-Really really hates [Duck](Duck.md).
+Really really hates [Duck](-Player/Duck.md).
 Servant for a little bit under [Daren](../../-Sacrosanct/Characters/Daren.md).
 
 ***

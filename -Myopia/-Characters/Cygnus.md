@@ -7,7 +7,7 @@ cssclasses:
 
 |                    |                                                                                 |
 | ------------------ | ------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-40--First-It-Giveth](../-Session-Notes/Session-40--First-It-Giveth.md) |
+| First Appearance:  | [Session-40--First-It-Giveth](../-Session-Notes/-7-Conquest/Session-40--First-It-Giveth.md) |
 | Based on:          | Nameless Narrator (Sacrosanct)                                                  |
 | Played by:         | J                                                                               |
 | Full name:         | Cygnus                                                                          |

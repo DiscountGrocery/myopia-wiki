@@ -1,1 +1,1 @@
-A mushroom cult where [Cort](-Characters/Cort.md) originates from, controlled by [Avassh](../-Characters/Avassh.md).
+A mushroom cult where [Cort](../-Characters/-Player/Cort.md) originates from, controlled by [Avassh](../-Characters/Avassh.md).

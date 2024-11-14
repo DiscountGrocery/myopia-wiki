@@ -23,7 +23,7 @@ Identical to Pharen with kraken tattoos.
 
 ***
 ### History
-Summoned by [Aspectum](Aspectum.md) from another timeline where [Pharen](Pharen.md) joined with 
+Summoned by [Aspectum](Aspectum.md) from another timeline where [Pharen](-Player/Pharen.md) joined with 
 [Leon](Leon.md), killing the party and flooding Sharn. Also summoned by 
 [Bella](Bella.md) on Lharvion in the mouth of hell.
 Fused with fake-Leon at one point.

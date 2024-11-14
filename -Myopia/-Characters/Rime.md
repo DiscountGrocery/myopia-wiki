@@ -2,7 +2,7 @@
 cssclasses:
   - pen-blue
 ---
-# Rime
+# :LiSnowflake: Rime :LiSnowflake:
 ### Quick Facts
 
 |                    |                                                    |
@@ -19,7 +19,7 @@ cssclasses:
 | Nationality:       | Thelanis                                           |
 ***
 ### General
-Cold, emotionless, servile.
+Cold, emotionless, servile, creamy.
 
 ***
 ### History

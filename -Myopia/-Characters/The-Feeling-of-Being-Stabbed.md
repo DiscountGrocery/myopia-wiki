@@ -7,7 +7,7 @@ cssclasses:
 
 |                    |                                                                                                             |     |
 | ------------------ | ----------------------------------------------------------------------------------------------------------- | --- |
-| First Appearance:  | [Session-42--Suture-up-your-Future](../-Session-Notes/Session-42--Suture-up-your-Future.md) |     |
+| First Appearance:  | [Session-42--Suture-up-your-Future](../-Session-Notes/-7-Conquest/Session-42--Suture-up-your-Future.md) |     |
 | Based on:          | -                                                                                                           |     |
 | Played by:         | J                                                                                                           |     |
 | Full name:         | -                                                                                                           |     |

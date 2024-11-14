@@ -7,7 +7,7 @@ cssclasses:
 
 |                    |                                                                                       |
 | ------------------ | ------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-5--Dancing-in-Twilight](../-Session-Notes/Session-5--Dancing-in-Twilight.md) |
+| First Appearance:  | [Session-5--Dancing-in-Twilight](../-Session-Notes/-1-Gathering-Storms/Session-5--Dancing-in-Twilight.md) |
 | Based on:          | -                                                                                     |
 | Played by:         | J                                                                                     |
 | Full name:         | Dynamo                                                                                |

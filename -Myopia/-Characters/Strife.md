@@ -27,7 +27,7 @@ History about person.
 
 ***
 ### Relations
-Weird cultish lover of [Sisava](Sisava.md).
+Weird cultish lover of [Sisava](-Player/Sisava.md).
 
 ***
 ### Ability

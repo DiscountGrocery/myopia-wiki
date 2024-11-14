@@ -28,7 +28,7 @@ Eberron lore is long.
 ***
 ### Relations
 Lots.
-Particular to [Pharen](../Pharen.md).
+Particular to [Pharen](../-Player/Pharen.md).
 
 ***
 ### Ability

@@ -19,7 +19,7 @@ cssclasses:
 | Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md) |
 ***
 ### General
-Burly and roguish. [Pharen](../Pharen.md) but older. Hungry for flesh and needs to eat people.
+Burly and roguish. [Pharen](../-Player/Pharen.md) but older. Hungry for flesh and needs to eat people.
 
 ***
 ### History

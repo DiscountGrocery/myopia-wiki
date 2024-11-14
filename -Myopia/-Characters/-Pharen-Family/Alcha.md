@@ -28,7 +28,7 @@ Had kids and Pharen. Takes care of her family, clerical work in Farlnen also.
 ***
 ### Relations
 Mother of [Argen-and-Auren](Argen-and-Auren.md), and [Mercria](Mercria.md).
-Step-mother of [Pharen](../Pharen.md).
+Step-mother of [Pharen](../-Player/Pharen.md).
 Ex-wife of [Varya](Varya.md).
 
 ***

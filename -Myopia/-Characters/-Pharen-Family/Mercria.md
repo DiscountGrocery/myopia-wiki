@@ -7,7 +7,7 @@ cssclasses:
 
 |                    |                                                                                                                                                |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2](../../-Session-Notes/Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2.md) |
+| First Appearance:  | [Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2](../../-Session-Notes/-7-Conquest/Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2.md) |
 | Based on:          | Mercury                                                                                                                                        |
 | Played by:         | J                                                                                                                                              |
 | Full name:         | Mercria Verta                                                                                                                                  |
@@ -30,7 +30,7 @@ Works for Karrnath as a swashbuckler.
 ### Relations
 Daughter of [Alcha](Alcha.md).
 Sister of [Argen-and-Auren](Argen-and-Auren.md).
-Half-sister of [Pharen](../Pharen.md).
+Half-sister of [Pharen](../-Player/Pharen.md).
 Daughter of [Varya](Varya.md).
 
 

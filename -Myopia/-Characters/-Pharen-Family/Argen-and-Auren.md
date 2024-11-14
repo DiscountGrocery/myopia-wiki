@@ -30,7 +30,7 @@ Work for Farlnen as clerical officers.
 ### Relations
 Sons of [Alcha](Alcha.md)
 Brothers of [Mercria](Mercria.md)
-Half-brothers of [Pharen](../Pharen.md)
+Half-brothers of [Pharen](../-Player/Pharen.md)
 
 ***
 ### Ability

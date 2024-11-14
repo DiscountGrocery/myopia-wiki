@@ -19,7 +19,7 @@ cssclasses:
 | Nationality:       | Kech Volaar                                        |
 ***
 ### General
-Words about person.
+Blade
 
 ***
 ### History

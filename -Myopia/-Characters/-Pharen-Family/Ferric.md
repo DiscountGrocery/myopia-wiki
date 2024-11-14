@@ -29,7 +29,7 @@ Loves Varliae. Got the closest to becoming a lich.
 ### Relations
 Loved [Varliae](Varliae.md).
 Father of [Krova](Krova.md).
-A soul within [Pharen](../Pharen.md)'s *Soulrazor*.
+A soul within [Pharen](../-Player/Pharen.md)'s *Soulrazor*.
 
 ***
 ### Ability

@@ -6,30 +6,30 @@ cssclasses:
 ***
 #### Tarot: The Empress, Reversed
 ***
-- [Cort](../-Characters/Cort.md) dreams of the overgrown chamber of [Avassh](../-Characters/Avassh.md), alone except for it and himself. The scene changes into a large steel chamber, Avassh replaced by [The Feeling of Being Stabbed](../-Characters/The-Feeling-of-Being-Stabbed.md) Changes again into a cylindrical floor with only dust.
+- [Cort](../../-Characters/-Player/Cort.md) dreams of the overgrown chamber of [Avassh](../../-Characters/Avassh.md), alone except for it and himself. The scene changes into a large steel chamber, Avassh replaced by [The Feeling of Being Stabbed](../../-Characters/The-Feeling-of-Being-Stabbed.md) Changes again into a cylindrical floor with only dust.
 	- A metaphor for FBS's speech from the previous session.
-- [Duck](../-Characters/Duck.md) dreams of [Aspectum](../-Characters/Aspectum.md) ripping his heart out in Sharn. Lead panels are up.
-- Party speaks to [Cygnus](../-Characters/Cygnus.md). 
+- [Duck](../../-Characters/-Player/Duck.md) dreams of [Aspectum](../../-Characters/Aspectum.md) ripping his heart out in Sharn. Lead panels are up.
+- Party speaks to [Cygnus](../../-Characters/Cygnus.md). 
 	- Tells Duck to ease his mind, foreshadowing trauma.
-	- Keep close with [Vrennan](../-Characters/Vrennan.md) to stay warm on Dravago.
+	- Keep close with [Vrennan](../../-Characters/Vrennan.md) to stay warm on Dravago.
 	- 8th element is likely on Eberron, an empire within Khyber. (?)
-- Duck talks to [Scalpel](../-Characters/Scalpel.md) about purpose, he is depressed as his makers are now gone.
-- Cort talks to [Vrennan](../-Characters/Vrennan.md) about heat and camaraderie. His crystal turned bright red for a second. (?)
+- Duck talks to [Scalpel](../../-Characters/Scalpel.md) about purpose, he is depressed as his makers are now gone.
+- Cort talks to [Vrennan](../../-Characters/Vrennan.md) about heat and camaraderie. His crystal turned bright red for a second. (?)
 - Arrive on Dravago, an oceanic moon covered in Ice.
 ***
 - It is extraordinarily cold.
-	- [Sisava](../-Characters/Sisava.md) spots large cracks in the ice that is emitting frigid wind, seemingly respiratory.
+	- [Sisava](../../-Characters/-Player/Sisava.md) spots large cracks in the ice that is emitting frigid wind, seemingly respiratory.
 	- Violent snowstorm over actual land, a small bit is not affected.
 	- Rhythmic flowing wind.
 	- Barren snow lands.
-- Vrennan reluctantly agrees to accompany the party to warm them, as [Tu'gaal](../-Characters/Tu'gaal.md) warms the other members on the ship.
+- Vrennan reluctantly agrees to accompany the party to warm them, as [Tu'gaal](../../-Characters/Tu'gaal.md) warms the other members on the ship.
 - Party + Vrennan go towards cloud of snow to find a clue. 
 - Sign pointing to a town of **Misthaven.**
 	- Inhabitants are grayish purplish skinned thin dwarves. Drogaar.
 	- Boreal wood huts.
 	- Frozen lake in the center.
 	- A man using medical tools opening up what looks like a dead elf on his porch.
-- Party approaches a man named Yaltuh, [Pharen](../-Characters/Pharen.md) communicates in Dwarven.
+- Party approaches a man named Yaltuh, [Pharen](../../-Characters/-Player/Pharen.md) communicates in Dwarven.
 	- They do not feel temperature, they live in the snow because of the surrounding forests.
 	- A fisherman was injured last night.
 	- No one leaves and time is hardly tracked.
@@ -61,7 +61,7 @@ cssclasses:
 - "All Alone," the wind whispers. Players are grappled and pulled away one by one.
 - Sisava gunfire followed by real fire in a pattern.
 - Pharen, Cort, and Sisava are knocked unconscious.
-- [The Collector](../-Characters/The-Collector.md) appears.
+- [The Collector](../../-Characters/The-Collector.md) appears.
 - Duck tries to fly into the sky with Vrennan, but is stabbed through the chest.
 ***
 * Wake up in same place afterwards, all fine.
