@@ -19,7 +19,7 @@ cssclasses:
 | Nationality:       | Thelanis                                           |
 ***
 ### General
-Cold, emotionless, servile, creamy.
+Cold, emotionless, servile, creamy, gay.
 
 ***
 ### History

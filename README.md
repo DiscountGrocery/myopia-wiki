@@ -1,3 +1,4 @@
+<script src="https://unpkg.com/lucide@latest"></script>
 # myopia-wiki
  A wiki that I am filling out rn! It's related to this universe that we built in some table top games. Wondrous! If you want to assist me i would be ever so thankful.
 
