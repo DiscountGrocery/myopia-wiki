@@ -35,6 +35,23 @@ Ex-wife of [Varya](Varya.md).
 ### Ability
 Decently good at necromancy.
 
+<!DOCTYPE html>  
+<html>  
+<head>  
+<script src="https://kit.fontawesome.com/_yourcode_.js" crossorigin="anonymous"></script>  
+<!--Get your code at fontawesome.com-->  
+</head>  
+<body>  
+  
+<i class="fas fa-band-aid"></i>  
+<i class="fas fa-cat"></i>  
+<i class="fas fa-dragon"></i>  
+<i class="far fa-clock"></i>  
+<i class="fas fa-clock"></i>  
+  
+</body>  
+</html>
+
 ***
 ### Gallery
 

@@ -41,4 +41,5 @@ Has demonstrated the ability to communicate through dreams and visions. Can open
 ### Gallery
 
 ![Fallya1](-images/Fallya1.png)
+![](../../../../../../Pasted%20image%2020241130103105.png)
 ***
