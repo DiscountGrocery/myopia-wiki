@@ -38,17 +38,10 @@ Decently good at necromancy.
 <!DOCTYPE html>  
 <html>  
 <head>  
-<script src="https://kit.fontawesome.com/_yourcode_.js" crossorigin="anonymous"></script>  
-<!--Get your code at fontawesome.com-->  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rpg-awesome/1.0.0/css/rpg-awesome.min.css">
 </head>  
 <body>  
-  
-<i class="fas fa-band-aid"></i>  
-<i class="fas fa-cat"></i>  
-<i class="fas fa-dragon"></i>  
-<i class="far fa-clock"></i>  
-<i class="fas fa-clock"></i>  
-  
+<i class="ra ra-sword"></i>
 </body>  
 </html>
 
