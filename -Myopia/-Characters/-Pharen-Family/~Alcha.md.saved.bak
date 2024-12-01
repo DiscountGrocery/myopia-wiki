@@ -2,9 +2,9 @@
 cssclasses:
   - pen-red
 ---
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css"> 
 
-# Alcha
+# Alcha <i class="ra ra-sword"></i>
 ### Quick Facts
 
 |                    |                                                |
