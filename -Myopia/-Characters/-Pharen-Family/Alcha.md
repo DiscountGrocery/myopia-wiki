@@ -22,11 +22,7 @@ cssclasses:
 Nurturing. Pale skinned with black hair. Face tattoos.
 "Alive, acceptably freaky"
 
-
-```
 <i class="fab fa-github"></i>
-```
-
 
 ***
 ### History
