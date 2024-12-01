@@ -1,4 +1,9 @@
-<script src="https://unpkg.com/lucide@latest"></script>
+<head>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+</head>
 # myopia-wiki
  A wiki that I am filling out rn! It's related to this universe that we built in some table top games. Wondrous! If you want to assist me i would be ever so thankful.
 
