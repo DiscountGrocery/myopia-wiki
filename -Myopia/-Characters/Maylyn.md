@@ -5,18 +5,18 @@ cssclasses:
 # :RaCandle: Maylyn :RaCandle:
 ### Quick Facts
 
-|                    |                                                                                                                                                         |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                    |                                                                                                                                                   |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | First Appearance:  | [Session-1--And-their-shadows-will spread-like-oil](../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will%20spread-like-oil.md) |
-| Based on:          | Gohan (Vaguelly)                                                                                                                                        |
-| Played by:         | J                                                                                                                                                       |
-| Full name:         | Nylyam d'Sivis                                                                                                                                          |
-| Nicknames:         | Lamyla Saraya, Maylyn Saraya                                                                                                                            |
-| Gender & Pronouns: | Female, She/Her                                                                                                                                         |
-| Ancestry:          | Sivis Gnome                                                                                                                                             |
-| Affiliation:       | [The-Looking-Glass](../-Groups/The-Looking-Glass.md)                                                                                                        |
-| Tarot:             | The Empress                                                                                                                                             |
-| Nationality:       | Zilargo                                                                                                                                                 |
+| Based on:          | Gohan (Vaguelly)                                                                                                                                  |
+| Played by:         | J                                                                                                                                                 |
+| Full name:         | Nylyam d'Sivis                                                                                                                                    |
+| Nicknames:         | Lamyla Saraya, Maylyn Saraya                                                                                                                      |
+| Gender & Pronouns: | Female, She/Her                                                                                                                                   |
+| Ancestry:          | Sivis Gnome                                                                                                                                       |
+| Affiliation:       | [The-Looking-Glass](../-Groups/The-Looking-Glass.md)                                                                                              |
+| Tarot:             | The Empress                                                                                                                                       |
+| Nationality:       | Zilargo                                                                                                                                           |
 ***
 ### General
 Words about person.

@@ -2,7 +2,7 @@
 cssclasses:
   - pen-green
 ---
-# Blade
+# Blade :RaBroadsword:
 ### Quick Facts
 
 |                    |                                                    |

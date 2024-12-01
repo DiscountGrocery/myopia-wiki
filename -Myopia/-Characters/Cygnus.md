@@ -2,7 +2,7 @@
 cssclasses:
   - pen-light-blue
 ---
-# Cygnus
+# Cygnus :RaCrystalBall:
 ### Quick Facts
 
 |                    |                                                                                 |

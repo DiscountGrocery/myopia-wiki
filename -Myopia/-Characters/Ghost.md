@@ -2,7 +2,7 @@
 cssclasses:
   - pen-red
 ---
-# Ghost
+# Ghost 
 ### Quick Facts
 
 |                    |                                                                |

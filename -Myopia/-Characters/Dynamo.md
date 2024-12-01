@@ -2,7 +2,7 @@
 cssclasses:
   - pen-gray
 ---
-# Dynamo
+# Dynamo :RaHospitalCross:
 ### Quick Facts
 
 |                    |                                                                                       |

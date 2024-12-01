@@ -162,6 +162,7 @@
 			- [[Session-57--Suspended]]
 			- [[Session-58-Deaths-Door]]
 			- [[Session-59--Flowers-by-the-door]]
+			- [[Session-60-Will-you-smile-again-for-me]]
 	- [[Second-Deluge]]
 - **-Sacrosanct**
 	- **Characters**

@@ -2,7 +2,7 @@
 cssclasses:
   - pen-gray
 ---
-# :RaCrystals:Tu'gaal
+# Tu'gaal :RaForging:
 ### Quick Facts
 
 |                    |                                                                               |

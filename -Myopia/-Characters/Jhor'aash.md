@@ -2,7 +2,7 @@
 cssclasses:
   - pen-red
 ---
-# Jhor'aash
+# Jhor'aash :RaShotgunShell:
 ### Quick Facts
 
 |                    |                                                |

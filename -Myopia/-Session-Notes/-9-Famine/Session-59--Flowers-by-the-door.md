@@ -22,7 +22,8 @@ cssclasses:
 - A large palace.
 	- Wooden stakes impale many giants and elves. Thousands of them.
 	- Many of those spindly figures surround.
-	- [Duck](../../-Characters/-Player/Duck.md) is very frightened! Followed by the others. They approach the doors
+	- [Duck](../../-Characters/-Player/Duck.md) is very frightened! Followed by the others. They approach the doors.
+	- [Aspectum](../../-Characters/Aspectum.md) is there.
 ***
 * [Rime](../../-Characters/Rime.md) is revealed to be [The-Collector](../../-Characters/The-Collector.md).
 * He fights us willingly, gained power from [Aspectum](../../-Characters/Aspectum.md).
@@ -36,4 +37,5 @@ cssclasses:
 - Collected the minute [Clock-Hand](../../-Items/Clock-Hand.md).
 - Collected the [5-The-Tome](../../-Elements-of-the-Prophecy/5-The-Tome.md).
 - Rime rejoins. ([6-The-Crystal](../../-Elements-of-the-Prophecy/6-The-Crystal.md))
-- 
+- Return the stolen items back to Misthaven.
+- Cort has after death vision with [The-Feeling-of-Being-Stabbed](../../-Characters/The-Feeling-of-Being-Stabbed.md).

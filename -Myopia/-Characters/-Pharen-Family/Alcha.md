@@ -21,6 +21,13 @@ cssclasses:
 ### General
 Nurturing. Pale skinned with black hair. Face tattoos.
 "Alive, acceptably freaky"
+
+
+```
+<i class="fab fa-github"></i>
+```
+
+
 ***
 ### History
 Had kids and Pharen. Takes care of her family, clerical work in Farlnen also.
@@ -34,16 +41,6 @@ Ex-wife of [Varya](Varya.md).
 ***
 ### Ability
 Decently good at necromancy.
-
-<!DOCTYPE html>  
-<html>  
-<head>  
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/rpg-awesome/1.0.0/css/rpg-awesome.min.css">
-</head>  
-<body>  
-<i class="ra ra-sword"></i>
-</body>  
-</html>
 
 ***
 ### Gallery
