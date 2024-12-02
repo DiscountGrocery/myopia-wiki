@@ -9,6 +9,8 @@ Why is making websites this difficult... Can't even get the stupid icon on the l
 
 <link rel="shortcut icon" href="/images/favicon.ico">
 
+<span style="font-size: 48px;"><i class="ra ra-circle-of-circles"></i></span>
+2
 [Characters](-Myopia/Characters/Characters.md)
 
 - **-Myopia**
