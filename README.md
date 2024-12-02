@@ -5,7 +5,7 @@
 
 # Myopia Wiki
 
-Why is making websites this difficult... Can't even get the stupid icon on the left to show up.
+Why is making websites this difficult... Can't even get the stupid icon on the left to show up.Test
 
 <link rel="shortcut icon" href="/images/favicon.ico">
 
