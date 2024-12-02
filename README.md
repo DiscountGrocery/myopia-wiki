@@ -16,7 +16,7 @@ Visit W3Schools.com!
 <br>
 
 <span style="font-size: 48px;">
-<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/Characters.html">
+<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/Characters">
 Characters
 </a>
 </span>
@@ -24,7 +24,7 @@ Characters
 <br>
 
 <link rel="shortcut icon" href="/images/favicon.ico">
-<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Elements-of-the-prophecy/Elements-of-the-prophecy.html">
+<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Elements-of-the-prophecy/Elements-of-the-prophecy">
 <span style="font-size: 48px;"><i class="ra ra-circle-of-circles"></i></i>
 Elements
 </span>
