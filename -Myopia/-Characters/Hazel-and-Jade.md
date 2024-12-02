@@ -2,6 +2,9 @@
 cssclasses:
   - pen-pink
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # Hazel and Jade :LiVenetianMask:
 ### Quick Facts
 
@@ -18,23 +21,23 @@ cssclasses:
 | Nationality:       | [Thelanis](https://eberron.fandom.com/wiki/Thelanis) |
 |                    |                                                      |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 They appear identical.
 
 ***
-### History
+### History <i class="ri-history-line"></i>
 Something feywild.
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Both in a marriage with [Phel](Phel.md).
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Power that person has.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 Images related to the character.
 
 ***

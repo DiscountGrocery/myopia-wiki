@@ -2,6 +2,9 @@
 cssclasses:
   - pen-blue
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # :RaArcaneMask: The Forgotten Prince :RaArcaneMask:
 ### Quick Facts
 
@@ -17,23 +20,23 @@ cssclasses:
 | Tarot:             | -                                                                                                                |
 | Nationality:       | Thelanis                                                                                                         |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Words about person.
 
 ***
-### History
-History about person.
+### History <i class="ri-history-line"></i>
+History <i class="ri-history-line"></i> about person.
 
 ***
-### Relations
-Relations with person.
+### Relations <i class="ri-user-line"></i>
+Relations <i class="ri-user-line"></i> with person.
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Power that person has.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 
 ![forgottenPrince](../../../../../99%20-%20META/attachments/forgottenPrince.png)
 

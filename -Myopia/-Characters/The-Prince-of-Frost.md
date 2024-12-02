@@ -2,6 +2,9 @@
 cssclasses:
   - pen-light-blue
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # The Prince of Frost
 ### Quick Facts
 
@@ -18,23 +21,23 @@ cssclasses:
 | Tarot:             | N/A                 |
 | Nationality:       | Thelanis            |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Words about person.
 
 ***
-### History
-History about person.
+### History <i class="ri-history-line"></i>
+History <i class="ri-history-line"></i> about person.
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Master of [Rime](Rime.md).
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Power that person has.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 Images related to the character.
 
 ***

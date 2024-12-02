@@ -93,7 +93,7 @@
 		- [[Xoriat]]
 	- **-Session-Notes**
 		- **-1-Gathering-Storms**
-			- [[Session-1--And-their-shadows-will spread-like-oil]]
+			- [[Session-1--And-their-shadows-will-spread-like-oil]]
 			- [[Session-2--First-Blood]]
 			- [[Session-3--A-Match-to-Light]]
 			- [[Session-4--Phantom-of-the-Opera]]

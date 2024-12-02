@@ -2,7 +2,10 @@
 cssclasses:
   - pen-green
 ---
-# Avassh :RaDeadTree:
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
+# Avassh <i class="ra ra-dead-tree"></i>
 ### Quick Facts
 
 |                    |                                                                                                                        |
@@ -17,25 +20,25 @@ cssclasses:
 | Tarot:             | -                                                                                                                      |
 | Nationality:       | Eldeen Reaches                                                                                                         |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Avassh is based off of the official Eberron Avassh known as the 'Twister of Roots.' 
 
 
 ***
-### History
-History about person.
+### History <i class="ri-history-line"></i>
+History <i class="ri-history-line"></i> about person.
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Controlled the [Mycology](../-Groups/Mycology.md).
 Connected to [Cort](-Player/Cort.md) through the [Rotten Heart](../-Elements-of-the-Prophecy/1-Rotten-Heart.md).
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Freaky Daelkyr powers, plants.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 
 [CREDIT](https://www.instagram.com/silly_chaotic/)
 ![avaash-one](-images/avaash-one.jpg)

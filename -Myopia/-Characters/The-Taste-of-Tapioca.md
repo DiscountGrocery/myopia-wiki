@@ -2,6 +2,9 @@
 cssclasses:
   - pen-pink
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # The Taste of Tapioca
 ### Quick Facts
 
@@ -17,23 +20,23 @@ cssclasses:
 | Tarot:             | -                                                                                                          |
 | Nationality:       | -                                                                                                          |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Bubbly, sweet, and sarcastic.
 
 ***
-### History
+### History <i class="ri-history-line"></i>
 Interacts with the party when they visit [The-Feeling-of-Being-Stabbed](The-Feeling-of-Being-Stabbed.md).
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Works for {The Feeling of Being Stabbed}.
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Accounting.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 [CREDIT](https://gabbydarienzo.com/)
 ![tasteOfTapioca](-images/tasteOfTapioca.png)
 

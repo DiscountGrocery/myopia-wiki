@@ -2,6 +2,9 @@
 cssclasses:
   - pen-blue
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # :LiSnowflake: Rime :LiSnowflake:
 ### Quick Facts
 
@@ -17,25 +20,25 @@ cssclasses:
 | Tarot:             | -                                                  |
 | Nationality:       | Thelanis                                           |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Cold, emotionless, servile, creamy, gay.
 
 ***
-### History
-History about person.
+### History <i class="ri-history-line"></i>
+History <i class="ri-history-line"></i> about person.
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Servant to [The-Prince-of-Frost](The-Prince-of-Frost.md).
 Loves (?) [Vrennan](Vrennan.md).
 Gets freaky with (?) Vrennan
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Ice magic and sword fighting. Lowers ambient temperature around him.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 
 
 ***

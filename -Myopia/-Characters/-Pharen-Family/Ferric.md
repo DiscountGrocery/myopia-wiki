@@ -2,6 +2,9 @@
 cssclasses:
   - pen-red
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # Ferric
 ### Quick Facts
 
@@ -17,24 +20,24 @@ cssclasses:
 | Tarot:             | -                                                                                         |
 | Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md)                                            |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Words about person.
 
 ***
-### History
+### History <i class="ri-history-line"></i>
 Loves Varliae. Got the closest to becoming a lich.
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Loved [Varliae](Varliae.md).
 Father of [Krova](Krova.md).
 A soul within [Pharen](../-Player/Pharen.md)'s *Soulrazor*.
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 
 ***

@@ -2,6 +2,9 @@
 cssclasses:
   - pen-light-blue
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # Phoen
 ### Quick Facts
 
@@ -17,24 +20,24 @@ cssclasses:
 | Tarot:             | -                                                                                                                       |
 | Nationality:       | Thelanis                                                                                                                |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Words about person.
 
 ***
-### History
+### History <i class="ri-history-line"></i>
 'Studied' in [Daanvi](../-Locations--Planes/Daanvi.md).
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Really really hates [Duck](-Player/Duck.md).
 Servant for a little bit under [Daren](../../-Sacrosanct/Characters/Daren.md).
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Power that person has.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 
 ![Phone1](../../../../../99%20-%20META/attachments/Phone1.png)
 

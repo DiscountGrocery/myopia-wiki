@@ -2,7 +2,10 @@
 cssclasses:
   - pen-purple
 ---
-# Bella :LiEye:
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
+# Bella 
 ### Quick Facts
 
 |                    |                                                                                                                             |
@@ -17,23 +20,23 @@ cssclasses:
 | Tarot:             | The World                                                                                                                   |
 | Nationality:       | -                                                                                                                           |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Words about person.
 
 ***
-### History
-History about person.
+### History <i class="ri-history-line"></i>
+History <i class="ri-history-line"></i> about person.
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Teacher of [Aspectum](Aspectum.md).
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Freaky Daelkyr power.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 
 CREDIT TO [VOIDFACE](https://www.instagram.com/voidface_entity?igsh=MTR1cDkyYXhsdWlnMA%3D%3D)
 ![BELLA1](-images/BELLA1.png)

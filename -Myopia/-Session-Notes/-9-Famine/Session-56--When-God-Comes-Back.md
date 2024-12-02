@@ -10,7 +10,7 @@ cssclasses:
 ## Synopsis
 - Short convo between [Duck](../../-Characters/-Player/Duck.md) and [Tonik](../../-Characters/Tonik.md), another between [Pharen](../../-Characters/-Player/Pharen.md) and [Varliae](../../-Characters/-Pharen-Family/Varliae.md).
 - Dhakaani travel to [Eston](../../-Locations--Planes/Eston.md).
-- Duck notes on Phoen's armor to improve own ability.
+- Duck notes on Phoen's armor to improve own Ability <i class="ri-star-line"></i>.
 - [Sisava](../../-Characters/-Player/Sisava.md) does the ritual with [Phoen](../../-Characters/Phoen.md)'s body.
 - [Vrennan](../../-Characters/Vrennan.md) leaves for the break.
 ***

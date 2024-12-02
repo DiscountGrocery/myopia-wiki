@@ -3,6 +3,8 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css"> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
 
 # Myopia Wiki
  A wiki that I am filling out rn! It's related to this universe that we built in some table top games. Wondrous! If you want to assist me i would be ever so thankful.ggg
@@ -37,7 +39,7 @@
 		- [Ghost](-Myopia/-Characters/Ghost.md)
 		- [Grasp](-Myopia/-Characters/Grasp.md)
 		- [Grumm](-Myopia/-Characters/Grumm.md)
-		- [Hazel-and-Jade](-Myopia/-Characters/Hazel-and-Jade.md)
+		- [Hazel and Jade](-Myopia/-Characters/Hazel-and-Jade.md)
 		- [Jhor'aash](-Myopia/-Characters/Jhor'aash.md)
 		- [Judas](-Myopia/-Characters/Judas.md)
 		- [Lena](-Myopia/-Characters/Lena.md)
@@ -54,29 +56,29 @@
 		- [Rylan](-Myopia/-Characters/Rylan.md)
 		- [Scalpel](-Myopia/-Characters/Scalpel.md)
 		- [Strife](-Myopia/-Characters/Strife.md)
-		- [The-Collector](-Myopia/-Characters/The-Collector.md)
-		- [The-Feeling-of-Being-Stabbed](-Myopia/-Characters/The-Feeling-of-Being-Stabbed.md)
-		- [The-Forgotten-Prince](-Myopia/-Characters/The-Forgotten-Prince.md)
-		- [The-Prince-of-Frost](-Myopia/-Characters/The-Prince-of-Frost.md)
-		- [The-Professor](-Myopia/-Characters/The-Professor.md)
-		- [The-Taste-of-Tapioca](-Myopia/-Characters/The-Taste-of-Tapioca.md)
+		- [The Collector](-Myopia/-Characters/The-Collector.md)
+		- [The Feeling of Being Stabbed](-Myopia/-Characters/The-Feeling-of-Being-Stabbed.md)
+		- [The Forgotten Prince](-Myopia/-Characters/The-Forgotten-Prince.md)
+		- [The Prince of Frost](-Myopia/-Characters/The-Prince-of-Frost.md)
+		- [The Professor](-Myopia/-Characters/The-Professor.md)
+		- [The Taste of Tapioca](-Myopia/-Characters/The-Taste-of-Tapioca.md)
 		- [Tonik](-Myopia/-Characters/Tonik.md)
 		- [Tu'gaal](-Myopia/-Characters/Tu'gaal.md)
 		- [Vrennan](-Myopia/-Characters/Vrennan.md)
-	- **-Elements-of-the-Prophecy**
-		- [1-Rotten-Heart](-Myopia/-Elements-of-the-Prophecy/1-Rotten-Heart.md)
-		- [2-Pharen's-Crown](-Myopia/-Elements-of-the-Prophecy/2-Pharen's-Crown.md)
-		- [3-Armor-of-Jhazaal-Dhakaan](-Myopia/-Elements-of-the-Prophecy/3-Armor-of-Jhazaal-Dhakaan.md)
-		- [4-Phoenix-Heart](-Myopia/-Elements-of-the-Prophecy/4-Phoenix-Heart.md)
-		- [5-The-Tome](-Myopia/-Elements-of-the-Prophecy/5-The-Tome.md)
-		- [6-The-Crystal](-Myopia/-Elements-of-the-Prophecy/6-The-Crystal.md)
-		- [7-The-Cube](-Myopia/-Elements-of-the-Prophecy/7-The-Cube.md)
-		- [8-The-Empire](-Myopia/-Elements-of-the-Prophecy/8-The-Empire.md)
-		- [9-The-Orb](-Myopia/-Elements-of-the-Prophecy/9-The-Orb.md)
-		- [10-The-Blindness](-Myopia/-Elements-of-the-Prophecy/10-The-Blindness.md)
-		- [11-The-Gates](-Myopia/-Elements-of-the-Prophecy/11-The-Gates.md)
-		- [12-The-War](-Myopia/-Elements-of-the-Prophecy/12-The-War.md)
-	- **-Groups**
+	- **-Elements-of-the-Prophecy** <i class="ra ra-circle-of-circles"></i>
+		- [1: Rotten Heart](-Myopia/-Elements-of-the-Prophecy/1-Rotten-Heart.md)
+		- [2: Pharen's Crown](-Myopia/-Elements-of-the-Prophecy/2-Pharen's-Crown.md)
+		- [3: Armor of Jhazaal Dhakaan](-Myopia/-Elements-of-the-Prophecy/3-Armor-of-Jhazaal-Dhakaan.md)
+		- [4: Phoenix Heart](-Myopia/-Elements-of-the-Prophecy/4-Phoenix-Heart.md)
+		- [5: The Tome](-Myopia/-Elements-of-the-Prophecy/5-The-Tome.md)
+		- [6: The Crystal](-Myopia/-Elements-of-the-Prophecy/6-The-Crystal.md)
+		- [7: The Cube](-Myopia/-Elements-of-the-Prophecy/7-The-Cube.md)
+		- [8: The Empire](-Myopia/-Elements-of-the-Prophecy/8-The-Empire.md)
+		- [9: The Orb](-Myopia/-Elements-of-the-Prophecy/9-The-Orb.md)
+		- [10: The Blindness](-Myopia/-Elements-of-the-Prophecy/10-The-Blindness.md)
+		- [11: The Gates](-Myopia/-Elements-of-the-Prophecy/11-The-Gates.md)
+		- [12: The War](-Myopia/-Elements-of-the-Prophecy/12-The-War.md)
+	- **-Groups** <i class="ri-group-line"></i>
 		- [Bloodsails](-Myopia/-Groups/Bloodsails.md)
 		- [Daelkyr](-Myopia/-Groups/Daelkyr.md)
 		- [Mycology](-Myopia/-Groups/Mycology.md)
@@ -87,7 +89,7 @@
 		- [Clock-Hand](-Myopia/-Items/Clock-Hand.md)
 		- [Phil](-Myopia/-Items/Phil.md)
 		- [Xoriat-Lens](-Myopia/-Items/Xoriat-Lens.md)
-	- **-Locations--Planes**
+	- **-Locations**
 		- [Blank Space](-Myopia/-Locations--Planes/Blank%20Space.md)
 		- [Daanvi](-Myopia/-Locations--Planes/Daanvi.md)
 		- [Eston](-Myopia/-Locations--Planes/Eston.md)
@@ -99,7 +101,7 @@
 		- [Xoriat](-Myopia/-Locations--Planes/Xoriat.md)
 	- **-Session-Notes**
 		- **-1-Gathering-Storms**
-			- [Session-1--And-their-shadows-will spread-like-oil](-Myopia/-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will%20spread-like-oil.md)
+			- [Session-1--And-their-shadows-will-spread-like-oil](-Myopia/-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md)
 			- [Session-2--First-Blood](-Myopia/-Session-Notes/-1-Gathering-Storms/Session-2--First-Blood.md)
 			- [Session-3--A-Match-to-Light](-Myopia/-Session-Notes/-1-Gathering-Storms/Session-3--A-Match-to-Light.md)
 			- [Session-4--Phantom-of-the-Opera](-Myopia/-Session-Notes/-1-Gathering-Storms/Session-4--Phantom-of-the-Opera.md)

@@ -2,6 +2,9 @@
 cssclasses:
   - pen-red
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # Varliae
 ### Quick Facts
 
@@ -17,24 +20,24 @@ cssclasses:
 | Tarot:             | -                                                   |
 | Nationality:       | Karrnath                                            |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Long, blonde hair, pale complexion, tall and lanky, angular eyes.
 "Extremely freaky"
 
 ***
-### History
+### History <i class="ri-history-line"></i>
 Controls Karrnath.
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Loves [Ferric](Ferric.md).
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Being gay + vampirism.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 
 ![variliae](../../../../../../99%20-%20META/attachments/variliae.png)
 

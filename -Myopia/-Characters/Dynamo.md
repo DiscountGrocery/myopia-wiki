@@ -2,6 +2,9 @@
 cssclasses:
   - pen-gray
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # Dynamo :RaHospitalCross:
 ### Quick Facts
 
@@ -17,23 +20,23 @@ cssclasses:
 | Tarot:             | -                                                                                                         |
 | Nationality:       | Making, Cyre                                                                                              |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Words about person.
 Southern accent.
 ***
-### History
+### History <i class="ri-history-line"></i>
 Dead.
 
 ***
-### Relations
-Relations with person.
+### Relations <i class="ri-user-line"></i>
+Relations <i class="ri-user-line"></i> with person.
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Religious. Axe really hard.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 
 CREDIT UNKNOWN
 ![DYNAMO](-images/DYNAMO.png)

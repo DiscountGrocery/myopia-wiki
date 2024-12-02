@@ -2,6 +2,9 @@
 cssclasses:
   - pen-red
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # Chance :RaHeartsCard: 
 ### Quick Facts
 
@@ -17,23 +20,23 @@ cssclasses:
 | Tarot:             |     |
 | Nationality:       |     |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Words about person.
 
 ***
-### History
+### History <i class="ri-history-line"></i>
 Dead
 
 ***
-### Relations
-Relations with person.
+### Relations <i class="ri-user-line"></i>
+Relations <i class="ri-user-line"></i> with person.
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Duplication and misdirection.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 Images related to the character.
 
 ***

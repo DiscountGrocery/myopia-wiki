@@ -2,6 +2,9 @@
 cssclasses:
   - pen-green
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # Lady Illmarrow
 ### Quick Facts
 
@@ -17,24 +20,24 @@ cssclasses:
 | Tarot:             |                                                                |
 | Nationality:       | Irani (Former), [Farlnen](../../-Locations--Planes/Farlnen.md) |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Scary.
 
 ***
-### History
+### History <i class="ri-history-line"></i>
 Eberron lore is long.
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Lots.
 Particular to [Pharen](../-Player/Pharen.md).
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Extraordinary necromancy.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 
 ![ladyIllmarow](../../../../../../99%20-%20META/attachments/ladyIllmarow.png)
 ![ladyIllmarow2](../../../../../../99%20-%20META/attachments/ladyIllmarow2.png)

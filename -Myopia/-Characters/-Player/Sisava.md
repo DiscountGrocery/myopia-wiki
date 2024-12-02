@@ -2,6 +2,9 @@
 cssclasses:
   - pen-red
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # :RaSnake: Sisava :RaSnake:
 ### Quick Facts
 
@@ -17,7 +20,7 @@ cssclasses:
 | Tarot:             | The Devil                                                                                                                                                                  |
 | Nationality:       | Xen'drik                                                                                                                                                                   |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Cold, threatening, serious, scary. 
 An avatar of the Mockery, a deity of the Dark Six. Divinely assigned to assassinate other 'avatars' of other Dark Six deities. Upon killing them, a ritual is performed which increases Sisava's power.
 * [Leon](Leon.md): The Devourer
@@ -27,20 +30,20 @@ An avatar of the Mockery, a deity of the Dark Six. Divinely assigned to assassin
 * -: The Shadow
 
 ***
-### History
+### History <i class="ri-history-line"></i>
 
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Weird cult thing with [Strife](Strife.md).
 Work-friends with [Jhor'aash](Jhor'aash.md).
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Real good at shooting. Resistant to poison, emotional, and mental effects.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 
 ![sisavaHeroForge](-images/sisavaHeroForge.png)
 

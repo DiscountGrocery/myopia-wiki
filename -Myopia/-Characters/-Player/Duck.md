@@ -2,12 +2,15 @@
 cssclasses:
   - pen-light-blue
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # :LiMusic: Duck :LiMusic:
 ### Quick Facts
 
 |                    |                                                                                                                                                      |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--And-their-shadows-will spread-like-oil](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will%20spread-like-oil.md) |
+| First Appearance:  | [Session-1--And-their-shadows-will-spread-like-oil](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md) |
 | Inspiration:          | Staedtler (Inside Job), Invincible                                                                                                                   |
 | Full name:         | Duck d'Cannith                                                                                                                                       |
 | Nicknames:         | Staedtler Fischer, Prince Boy                                                                                                                        |
@@ -17,7 +20,7 @@ cssclasses:
 | Tarot:             | The Sun                                                                                                                                              |
 | Nationality:       | -                                                                                                                                                    |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Duck, a player character in Myopia, is a naive yet charming changeling, with extraordinary performance abilities.
 
 While in his true changeling form, Duck is average height, with somewhat lanky proportions. His skin is snow white and his hair is curly and ash-gray. His eyes often lack pupils. However, his form is subject to the desire of his shape-shifting abilities.
@@ -27,7 +30,7 @@ Duck's attire is a ['shiftweave'](https://eberron.fandom.com/wiki/Shiftweave) to
 Duck is empathetic yet egotistical, in the same vein as that to a child. This reflects the fact that his memory only stretches back 5 years.
 
 ***
-### History
+### History <i class="ri-history-line"></i>
 #### **Pre:**
 
 Currently, not much is known about Duck's past. 
@@ -36,16 +39,16 @@ Duck gained consciousness in 1007 YK, and gained the affection of a struggling m
 
 Duck learned the ins and outs of the music scene in [Sharn](https://eberron.fandom.com/wiki/Sharn.) and learned to stay hidden using personas sustained through his shape-shifting abilities. 
 
-After garnering large audiences, some of Duck's popular elven personas caught the attention of [House Phiarlan](https://eberron.fandom.com/wiki/House_Phiarlan). Parasitical relationships formed with the naive Duck until local conflict escalated between House Phiarlan and [House Thuranni](https://eberron.fandom.com/wiki/House_Thuranni). Duck's mentor was accidentally killed in the crossfire, and Duck presumed his identity to withdraw and protect himself.
+After garnering large audiences, some of Duck's popular elven personas caught the attention of [House Phiarlan](https://eberron.fandom.com/wiki/House_Phiarlan). Parasitical Relations <i class="ri-user-line"></i>hips formed with the naive Duck until local conflict escalated between House Phiarlan and [House Thuranni](https://eberron.fandom.com/wiki/House_Thuranni). Duck's mentor was accidentally killed in the crossfire, and Duck presumed his identity to withdraw and protect himself.
 
 Years passed and Duck subsisted on low-paying gigs and worship of [the Traveler](https://eberron.fandom.com/wiki/The_Traveler).
 
 #### **Story:**
 
 Duck is introduced as Staedtler.
-In [Session 1](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will%20spread-like-oil.md), Duck stumbles across Maylyn (neither recognize each other due to memory suppression by powerful [enchantment magic](../../../-Sacrosanct/Machine-of-Enchantment.md)) She offers a job as an agent for the Looking Glass, which Duck accepts out of boredom and beliefs related to the Traveler.
+In [Session 1](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md), Duck stumbles across Maylyn (neither recognize each other due to memory suppression by powerful [enchantment magic](../../../-Sacrosanct/Machine-of-Enchantment.md)) She offers a job as an agent for the Looking Glass, which Duck accepts out of boredom and beliefs related to the Traveler.
 
-Duck learns to fight, incorporating his musical ability into inspiration for his peers.
+Duck learns to fight, incorporating his musical Ability <i class="ri-star-line"></i> into inspiration for his peers.
 
 In [Session 4](../../-Session-Notes/-1-Gathering-Storms/Session-4--Phantom-of-the-Opera.md), Duck finds a powerful musical artifact, [Phil](../../-Items/Phil.md), that responds only to his touch.
 
@@ -58,10 +61,10 @@ Duck manifests an [aberrant mark](https://eberron.fandom.com/wiki/Aberrant_drago
 Duck's mask is permanently scarred by Phoen [Session 55](../../-Session-Notes/-8-War/Session-55--Schism.md)
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 
 - Son of [Maylyn](Maylyn.md) and [Tonik](Tonik.md). (Revealed in [Session 43](../../-Session-Notes/-7-Conquest/Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2.md))
-- In a relationship with [Lorraine](Lorraine.md).
+- In a Relations <i class="ri-user-line"></i>hip with [Lorraine](Lorraine.md).
 - Pupil of [The Forgotten Prince](The-Forgotten-Prince.md).
 - Hated on by [Phoen](Phoen.md).
 
@@ -70,7 +73,7 @@ Duck's mask is permanently scarred by Phoen [Session 55](../../-Session-Notes/-8
 - Respects [Pharen](Pharen.md).
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 
 As a changeling, Duck can take the form of any humanoid.
 
@@ -78,11 +81,11 @@ Duck has demonstrated proficiency in occult magic, which he uses to heal and sup
 
 Duck's primary weapon of choice is Remembrance, a powerful scythe granted to him by the Forgotten Prince.
 
-The Forgotten Prince protects Duck from death by taking control of his body (represented by an ethereal mask), as well as enhancing his magic ability.
+The Forgotten Prince protects Duck from death by taking control of his body (represented by an ethereal mask), as well as enhancing his magic Ability <i class="ri-star-line"></i>.
 
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 
 ![](-images/duck1.png)
 ![](-images/duckMark1.png)

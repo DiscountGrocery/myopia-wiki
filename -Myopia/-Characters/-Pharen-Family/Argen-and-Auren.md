@@ -2,6 +2,9 @@
 cssclasses:
   - pen-red
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # Argen and Auren
 ### Quick Facts
 
@@ -17,25 +20,25 @@ cssclasses:
 | Tarot:             | -                                              |
 | Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md) |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Identical twins. Argen dresses in silver. Auren dresses in gold.
 "Alive, freaky"
 
 ***
-### History
+### History <i class="ri-history-line"></i>
 Work for Farlnen as clerical officers.
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Sons of [Alcha](Alcha.md)
 Brothers of [Mercria](Mercria.md)
 Half-brothers of [Pharen](../-Player/Pharen.md)
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Delivers news.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 
 ***

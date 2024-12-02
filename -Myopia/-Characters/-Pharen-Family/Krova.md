@@ -2,6 +2,9 @@
 cssclasses:
   - pen-red
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # Krova
 ### Quick Facts
 
@@ -21,21 +24,21 @@ cssclasses:
 Words about person.
 
 ***
-### History
-History about person.
+### History <i class="ri-history-line"></i>
+History <i class="ri-history-line"></i> about person.
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Son of [Ferric](Ferric.md).
 Father of [Varya](Varya.md).
 A soul within [Pharen](../-Player/Pharen.md)'s *Soulrazor*.
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Power that person has.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 Images related to the character.
 
 ***

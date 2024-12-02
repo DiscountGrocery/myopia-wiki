@@ -2,6 +2,9 @@
 cssclasses:
   - pen-red
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # Mercria
 ### Quick Facts
 
@@ -17,16 +20,16 @@ cssclasses:
 | Tarot:             | -                                                                                                                                                      |
 | Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md)                                                                                                         |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Direct, prideful, aggressive. Face tattoos like mother, tall and bulky, larger than Pharen.
 "Alive, not freaky"
 
 ***
-### History
+### History <i class="ri-history-line"></i>
 Works for Karrnath as a swashbuckler.
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Daughter of [Alcha](Alcha.md).
 Sister of [Argen-and-Auren](Argen-and-Auren.md).
 Half-sister of [Pharen](../-Player/Pharen.md).
@@ -34,11 +37,11 @@ Daughter of [Varya](Varya.md).
 
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Archery.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 
 ![Mercria](../../../../../../99%20-%20META/attachments/Mercria.png)
 

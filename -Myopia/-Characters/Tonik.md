@@ -2,6 +2,9 @@
 cssclasses:
   - pen-blue
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+
 # Tonik :LiBrainCog:
 ### Quick Facts
 
@@ -17,26 +20,26 @@ cssclasses:
 | Tarot:             | The Emperor                                                                                              |
 | Nationality:       | Cyre                                                                                                     |
 ***
-### General
+### General <i class="ri-checkbox-blank-line"></i>
 Words about person.
 
 ***
-### History
-History about person.
+### History <i class="ri-history-line"></i>
+History <i class="ri-history-line"></i> about person.
 
 ***
-### Relations
+### Relations <i class="ri-user-line"></i>
 Father of [Duck](-Player/Duck.md).
 Husband of [Maylyn](Maylyn.md).
 Brother of [Daren](../../-Sacrosanct/Characters/Daren.md).
 Hates [Sisava](-Player/Sisava.md).
 
 ***
-### Ability
+### Ability <i class="ri-star-line"></i>
 Extraordinary artifice.
 
 ***
-### Gallery
+### Gallery <i class="ri-image-line"></i>
 Images related to the character.
 
 ***
