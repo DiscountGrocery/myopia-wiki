@@ -8,10 +8,11 @@
 Why is making websites this difficult... Can't even get the stupid icon on the left to show up.
 
 <link rel="shortcut icon" href="/images/favicon.ico">
-
-<span style="font-size: 48px;"><i class="ra ra-circle-of-circles"></i></span>
-2
-[Characters](-Myopia/Characters/Characters.md)
+<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/Characters.html">
+<span style="font-size: 48px;"><i class="ri-user-line"></i></i>
+Characters
+</span>
+</a>
 
 - **-Myopia**
 	- **-Elements-of-the-Prophecy** <i class="ra ra-circle-of-circles"></i>
