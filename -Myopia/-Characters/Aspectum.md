@@ -2,7 +2,8 @@
 cssclasses:
   - pen-red
 ---
-# Aspectum :RaBleedingEye:
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css"> 
+# Aspectum <i class="ra ra-bleeding-eye"></i>
 ### Quick Facts
 
 |                    |                                                                                                                                                         |

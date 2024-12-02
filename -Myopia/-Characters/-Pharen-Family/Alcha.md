@@ -24,13 +24,6 @@ cssclasses:
 Nurturing. Pale skinned with black hair. Face tattoos.
 "Alive, acceptably freaky"
 
-HHH
-
-<i class="fab fa-github"></i>
-<i class="fab fa-github fa-spin fa-2x" style="color: firebrick"></i>
-
-HHH
-
 ***
 ### History
 Had kids and Pharen. Takes care of her family, clerical work in Farlnen also.
