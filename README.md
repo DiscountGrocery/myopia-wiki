@@ -6,11 +6,10 @@
 # Myopia Wiki
 
 Why is making websites this difficult...
-Icon please...
 
 <head>
   <title>My Page Title</title>
-  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+  <link rel="shortcut icon" href="/images/favicon.ico">
 </head>
 
 - **-Myopia**
