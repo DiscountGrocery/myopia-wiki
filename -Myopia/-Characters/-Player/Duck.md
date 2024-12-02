@@ -32,8 +32,9 @@ Duck is empathetic yet egotistical, in the same vein as that to a child. This re
 ***
 ### History <i class="ri-history-line"></i>
 
-<details>
-	<summary><i class="ri-arrow-drop-right-line"></i> 976 - 994 YK</summary>
+<details> 
+	<style type="text/css">
+	<summary>976 - 994 YK</summary></style>
 	<p><br><hr>
 	Duck is stupid<br>
 	AA<br>
@@ -44,7 +45,7 @@ Duck is empathetic yet egotistical, in the same vein as that to a child. This re
 
 
 <details>
-	<summary><i class="ri-arrow-drop-right-line"></i> 1010 - 1015 YK</summary>
+	<summary>1010 - 1015 YK</summary>
 	<p><br><hr>
 	Duck regained consciousness, with no memory but his nickname, in 1010 YK, and gained the affection of a struggling music-store owner, Staedtler Fischer. The two became close friends, and Duck began to support the store in exchange for a place to stay.
 
@@ -58,7 +59,7 @@ Years passed and Duck subsisted on low-paying gigs and worship of [the Traveler]
 
 
 <details>
-	<summary><i class="ri-arrow-drop-right-line"></i> Present</summary>
+	<summary>Present</summary>
 	<p><br><hr>
 
 Duck is introduced as Staedtler. 
