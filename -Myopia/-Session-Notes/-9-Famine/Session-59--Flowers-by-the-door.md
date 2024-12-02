@@ -35,7 +35,7 @@ cssclasses:
 * [Sisava](../../Characters/-Player/Sisava.md) destroys the fusion, they are separated.
 ***
 - Collected the minute [Clock-Hand](../../-Items/Clock-Hand.md).
-- Collected the [5-The-Tome](../../-Elements-of-the-Prophecy/5-The-Tome.md).
-- Rime rejoins. ([6-The-Crystal](../../-Elements-of-the-Prophecy/6-The-Crystal.md))
+- Collected the [5-The-Tome](../../Elements-of-the-Prophecy/5-The-Tome.md).
+- Rime rejoins. ([6-The-Crystal](../../Elements-of-the-Prophecy/6-The-Crystal.md))
 - Return the stolen items back to Misthaven.
 - Cort has after death vision with [The-Feeling-of-Being-Stabbed](../../Characters/The-Feeling-of-Being-Stabbed.md).

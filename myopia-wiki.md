@@ -1,18 +1,5 @@
 %% Begin Waypoint %%
 - **-Myopia**
-	- **-Elements-of-the-Prophecy**
-		- [[1-Rotten-Heart]]
-		- [[2-Pharen's-Crown]]
-		- [[3-Armor-of-Jhazaal-Dhakaan]]
-		- [[4-Phoenix-Heart]]
-		- [[5-The-Tome]]
-		- [[6-The-Crystal]]
-		- [[7-The-Cube]]
-		- [[8-The-Empire]]
-		- [[9-The-Orb]]
-		- [[10-The-Blindness]]
-		- [[11-The-Gates]]
-		- [[12-The-War]]
 	- **-Groups**
 		- [[Bloodsails]]
 		- [[Daelkyr]]
@@ -162,6 +149,19 @@
 		- [[Tonik]]
 		- [[Tu'gaal]]
 		- [[Vrennan]]
+	- **[[Elements-of-the-Prophecy]]**
+		- [[1-Rotten-Heart]]
+		- [[2-Pharen's-Crown]]
+		- [[3-Armor-of-Jhazaal-Dhakaan]]
+		- [[4-Phoenix-Heart]]
+		- [[5-The-Tome]]
+		- [[6-The-Crystal]]
+		- [[7-The-Cube]]
+		- [[8-The-Empire]]
+		- [[9-The-Orb]]
+		- [[10-The-Blindness]]
+		- [[11-The-Gates]]
+		- [[12-The-War]]
 	- [[Second-Deluge]]
 - **-Sacrosanct**
 	- **Characters**

@@ -1,0 +1,15 @@
+
+Keys relevant to the Elder Sign, given by [The-Feeling-of-Being-Stabbed](../Characters/The-Feeling-of-Being-Stabbed.md)
+
+- [1-Rotten-Heart](1-Rotten-Heart.md)
+- [2-Pharen's-Crown](2-Pharen's-Crown.md)
+- [3-Armor-of-Jhazaal-Dhakaan](3-Armor-of-Jhazaal-Dhakaan.md)
+- [4-Phoenix-Heart](4-Phoenix-Heart.md)
+- [5-The-Tome](5-The-Tome.md)
+- [6-The-Crystal](6-The-Crystal.md)
+- [7-The-Cube](7-The-Cube.md)
+- [8-The-Empire](8-The-Empire.md)
+- [9-The-Orb](9-The-Orb.md)
+- [10-The-Blindness](10-The-Blindness.md)
+- [11-The-Gates](11-The-Gates.md)
+- [12-The-War](12-The-War.md)

@@ -14,20 +14,29 @@ Characters
 </span>
 </a>
 
+<br>
+
+<link rel="shortcut icon" href="/images/favicon.ico">
+<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Elements-of-the-prophecy/Elements-of-the-prophecy.html">
+<span style="font-size: 48px;"><i class="ra ra-circle-of-circles"></i></i>
+Elements
+</span>
+</a>
+
 - **-Myopia**
 	- **-Elements-of-the-Prophecy** <i class="ra ra-circle-of-circles"></i>
-		- [1: Rotten Heart](-Myopia/-Elements-of-the-Prophecy/1-Rotten-Heart.md)
-		- [2: Pharen's Crown](-Myopia/-Elements-of-the-Prophecy/2-Pharen's-Crown.md)
-		- [3: Armor of Jhazaal Dhakaan](-Myopia/-Elements-of-the-Prophecy/3-Armor-of-Jhazaal-Dhakaan.md)
-		- [4: Phoenix Heart](-Myopia/-Elements-of-the-Prophecy/4-Phoenix-Heart.md)
-		- [5: The Tome](-Myopia/-Elements-of-the-Prophecy/5-The-Tome.md)
-		- [6: The Crystal](-Myopia/-Elements-of-the-Prophecy/6-The-Crystal.md)
-		- [7: The Cube](-Myopia/-Elements-of-the-Prophecy/7-The-Cube.md)
-		- [8: The Empire](-Myopia/-Elements-of-the-Prophecy/8-The-Empire.md)
-		- [9: The Orb](-Myopia/-Elements-of-the-Prophecy/9-The-Orb.md)
-		- [10: The Blindness](-Myopia/-Elements-of-the-Prophecy/10-The-Blindness.md)
-		- [11: The Gates](-Myopia/-Elements-of-the-Prophecy/11-The-Gates.md)
-		- [12: The War](-Myopia/-Elements-of-the-Prophecy/12-The-War.md)
+		- [1: Rotten Heart](-Myopia/Elements-of-the-Prophecy/1-Rotten-Heart.md)
+		- [2: Pharen's Crown](-Myopia/Elements-of-the-Prophecy/2-Pharen's-Crown.md)
+		- [3: Armor of Jhazaal Dhakaan](-Myopia/Elements-of-the-Prophecy/3-Armor-of-Jhazaal-Dhakaan.md)
+		- [4: Phoenix Heart](-Myopia/Elements-of-the-Prophecy/4-Phoenix-Heart.md)
+		- [5: The Tome](-Myopia/Elements-of-the-Prophecy/5-The-Tome.md)
+		- [6: The Crystal](-Myopia/Elements-of-the-Prophecy/6-The-Crystal.md)
+		- [7: The Cube](-Myopia/Elements-of-the-Prophecy/7-The-Cube.md)
+		- [8: The Empire](-Myopia/Elements-of-the-Prophecy/8-The-Empire.md)
+		- [9: The Orb](-Myopia/Elements-of-the-Prophecy/9-The-Orb.md)
+		- [10: The Blindness](-Myopia/Elements-of-the-Prophecy/10-The-Blindness.md)
+		- [11: The Gates](-Myopia/Elements-of-the-Prophecy/11-The-Gates.md)
+		- [12: The War](-Myopia/Elements-of-the-Prophecy/12-The-War.md)
 	- **-Groups** <i class="ri-group-line"></i>
 		- [Bloodsails](-Myopia/-Groups/Bloodsails.md)
 		- [Daelkyr](-Myopia/-Groups/Daelkyr.md)

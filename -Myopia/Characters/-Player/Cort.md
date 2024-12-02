@@ -33,7 +33,7 @@ Sacrificed his knowledge of his former life to [The-Forgotten-Prince](../The-For
 ***
 ### Relations <i class="ri-user-line"></i>
 Manipulated by [Sisava](Sisava.md).
-Influenced by [Avassh](../Avassh.md) through the [Rotten Heart](../../-Elements-of-the-Prophecy/1-Rotten-Heart.md)
+Influenced by [Avassh](../Avassh.md) through the [Rotten Heart](../../Elements-of-the-Prophecy/1-Rotten-Heart.md)
 Friends with [Duck](Duck.md).
 Forgotten human relatives.
 Related to a man who accidentally escalated [The Last War](https://eberron.fandom.com/wiki/Last_War)

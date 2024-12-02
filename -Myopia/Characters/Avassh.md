@@ -32,7 +32,7 @@ History <i class="ri-history-line"></i> about person.
 ***
 ### Relations <i class="ri-user-line"></i>
 Controlled the [Mycology](../-Groups/Mycology.md).
-Connected to [Cort](-Player/Cort.md) through the [Rotten Heart](../-Elements-of-the-Prophecy/1-Rotten-Heart.md).
+Connected to [Cort](-Player/Cort.md) through the [Rotten Heart](../Elements-of-the-Prophecy/1-Rotten-Heart.md).
 
 ***
 ### Ability <i class="ri-star-line"></i>

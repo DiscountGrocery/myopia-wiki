@@ -33,7 +33,7 @@ Has sharp steel earrings.
 Aggressive, direct, unempathetic, conservative and coarse.
 ***
 ### History <i class="ri-history-line"></i>
-Originating from the past, Tu'gaal assisted the Dhakaani from the Rings of Harmony in retrieving the [Armor](../-Elements-of-the-Prophecy/3-Armor-of-Jhazaal-Dhakaan.md).
+Originating from the past, Tu'gaal assisted the Dhakaani from the Rings of Harmony in retrieving the [Armor](../Elements-of-the-Prophecy/3-Armor-of-Jhazaal-Dhakaan.md).
 He witnessed the destruction of his effort by the Daelkyr and has sworn their destruction.
 
 ***
