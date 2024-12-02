@@ -5,18 +5,18 @@
 
 # Myopia Wiki
 
-Why is making websites this difficult... Can't even get the stupid icon on the left to show up.Test
+Getting better at it...
 
 <link rel="shortcut icon" href="/images/favicon.ico">
 
 
 <br>
 
-<span style="font-size: 48px;">
+
 <a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/Characters">
-<i class="ri-user-line"></i></i> Characters
+<img border="0" alt="CharacterImage" src="logo_cha.jpg" width="100" height="100">
+Characters
 </a>
-</span>
 
 <br>
 <span style="font-size: 48px;">
