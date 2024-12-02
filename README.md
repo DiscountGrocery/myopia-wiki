@@ -9,26 +9,26 @@ Why is making websites this difficult... Can't even get the stupid icon on the l
 
 <link rel="shortcut icon" href="/images/favicon.ico">
 
-<a href="https://www.w3schools.com">
-Visit W3Schools.com!
-</a>
 
 <br>
 
 <span style="font-size: 48px;">
-<a href="https://discountgrocery.github.io">
-Characters
+<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/Characters">
+<i class="ri-user-line"></i></i> Characters
+</a>
+</span>
+
+<br>
+<span style="font-size: 48px;">
+<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Elements-of-the-prophecy/Elements-of-the-prophecy">
+<i class="ra ra-circle-of-circles"></i></i></i> Elements
 </a>
 </span>
 
 <br>
 
 <link rel="shortcut icon" href="/images/favicon.ico">
-<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Elements-of-the-prophecy/Elements-of-the-prophecy">
-<span style="font-size: 48px;"><i class="ra ra-circle-of-circles"></i></i>
-Elements
-</span>
-</a>
+
 
 - **-Myopia**
 	- **-Elements-of-the-Prophecy** <i class="ra ra-circle-of-circles"></i>
