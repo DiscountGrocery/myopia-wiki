@@ -1,6 +1,6 @@
 
 <head>
-<link rel="icon" href="/favicon.ico">
+<link rel="shortcut icon" type="image/png" href="{{ 'favicon.png' | . }}">
 </head>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css"> 
