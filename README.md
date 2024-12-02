@@ -9,7 +9,7 @@
 # Myopia Wiki
 
 Why is making websites this difficult...
-Icon please... PLEASE PPPPEPEPEP
+Icon please...
 
 - **-Myopia**
 	- **-Characters**
