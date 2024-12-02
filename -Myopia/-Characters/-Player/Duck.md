@@ -34,7 +34,7 @@ Duck is empathetic yet egotistical, in the same vein as that to a child. This re
 
 <details>
 	<summary><i class="ri-arrow-drop-right-line"></i> 980 - 994 YK</summary>
-	<p>
+	<p><br>
 	Duck is stupid<br>
 	AA<br>
 	write br after every line <br>
