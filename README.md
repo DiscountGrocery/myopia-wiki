@@ -15,11 +15,12 @@ Visit W3Schools.com!
 
 <br>
 
+<span style="font-size: 48px;">
 <a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/Characters.html">
-<span style="font-size: 48px;"><i class="ri-user-line"></i></i>
+<i class="ri-user-line"></i></i>
 Characters
-</span>
 </a>
+</span>
 
 <br>
 
