@@ -8,17 +8,17 @@ cssclasses:
 # Phoen
 ### Quick Facts
 
-|                    |                                                                                                                         |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-36--Queen-of-Nothing](../-Session-Notes/-6-Hand-me-my-shovel-we-are-going-in/Session-36--Queen-of-Nothing.md)] |
-| Inspiration:          | Metal Sonic                                                                                                             |
-| Full name:         | Phoen                                                                                                                   |
-| Nicknames:         | Bird Bitch, Mecha-Staedtler                                                                                             |
-| Gender & Pronouns: | Male, He/Him                                                                                                            |
-| Ancestry:          | Kenku (Former)                                                                                                          |
-| Affiliation:       | Breland (Former), Making, Himself                                                                                       |
-| Tarot:             | -                                                                                                                       |
-| Nationality:       | Thelanis                                                                                                                |
+|                    |                                                                                                                        |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| First Appearance:  | [Session-36--Queen-of-Nothing](../-Session-Notes/-6-Hand-me-my-shovel-we-are-going-in/Session-36--Queen-of-Nothing.md) |
+| Inspiration:       | Metal Sonic                                                                                                            |
+| Full name:         | Phoen                                                                                                                  |
+| Nicknames:         | Match, Bird Bitch, Mecha-Staedtler                                                                                     |
+| Gender & Pronouns: | Male, He/Him                                                                                                           |
+| Ancestry:          | Kenku (Former)                                                                                                         |
+| Affiliation:       | Breland (Former), Making, Himself                                                                                      |
+| Tarot:             | -                                                                                                                      |
+| Nationality:       | Thelanis                                                                                                               |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
 Words about person.
