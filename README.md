@@ -5,12 +5,9 @@
 
 # Myopia Wiki
 
-Why is making websites this difficult...
+Why is making websites this difficult... Can't even get the stupid icon on the left to show up.
 
-<head>
-  <title>My Page Title</title>
-  <link rel="shortcut icon" href="/images/favicon.ico">
-</head>
+<link rel="shortcut icon" href="/images/favicon.ico">
 
 - **-Myopia**
 	- **-Characters**
