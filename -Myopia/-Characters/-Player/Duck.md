@@ -33,7 +33,7 @@ Duck is empathetic yet egotistical, in the same vein as that to a child. This re
 ### History <i class="ri-history-line"></i>
 
 <details>
-	<summary>980 - 994 YK</summary>
+	<summary><i class="ri-arrow-drop-right-line"></i> 980 - 994 YK</summary>
 	<p>
 	Duck is stupid<br>
 	AA<br>
@@ -41,9 +41,8 @@ Duck is empathetic yet egotistical, in the same vein as that to a child. This re
 	The events of Session 60
 	</p>
 </details>
-
 <details>
-	<summary>1010 - 1015 YK</summary>
+	<summary><i class="ri-arrow-drop-right-line"></i> 1010 - 1015 YK</summary>
 	<p>
 	Duck regained consciousness, with no memory but his nickname, in 1010 YK, and gained the affection of a struggling music-store owner, Staedtler Fischer. The two became close friends, and Duck began to support the store in exchange for a place to stay.
 
@@ -54,9 +53,8 @@ After garnering large audiences, some of Duck's popular elven personas caught th
 Years passed and Duck subsisted on low-paying gigs and worship of [the Traveler](https://eberron.fandom.com/wiki/The_Traveler).
 	</p>
 </details>
-
 <details>
-	<summary>Story</summary>
+	<summary><i class="ri-arrow-drop-right-line"></i> Present</summary>
 	<p>
 Duck is introduced as Staedtler. 
 
