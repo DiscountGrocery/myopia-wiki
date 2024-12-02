@@ -1,7 +1,4 @@
 
-<head>
-<link rel="shortcut icon" type="image/png" href="/favicon.png">
-</head>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css"> 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
@@ -10,6 +7,11 @@
 
 Why is making websites this difficult...
 Icon please...G
+
+<head>
+  <title>My Page Title</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+</head>
 
 - **-Myopia**
 	- **-Characters**
