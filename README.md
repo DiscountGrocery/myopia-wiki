@@ -8,6 +8,13 @@
 Why is making websites this difficult... Can't even get the stupid icon on the left to show up.
 
 <link rel="shortcut icon" href="/images/favicon.ico">
+
+<a href="https://www.w3schools.com">
+Visit W3Schools.com!
+</a>
+
+<br>
+
 <a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/Characters.html">
 <span style="font-size: 48px;"><i class="ri-user-line"></i></i>
 Characters
