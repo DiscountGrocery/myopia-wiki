@@ -2,7 +2,9 @@
 cssclasses:
   - pen-red
 ---
-# Alcha
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css"> 
+
+# Alcha <i class="ra ra-sword"></i>
 ### Quick Facts
 
 |                    |                                                |
@@ -22,7 +24,12 @@ cssclasses:
 Nurturing. Pale skinned with black hair. Face tattoos.
 "Alive, acceptably freaky"
 
+HHH
+
 <i class="fab fa-github"></i>
+<i class="fab fa-github fa-spin fa-2x" style="color: firebrick"></i>
+
+HHH
 
 ***
 ### History
