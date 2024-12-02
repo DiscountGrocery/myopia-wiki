@@ -43,7 +43,7 @@ Duck is empathetic yet egotistical, in the same vein as that to a child. This re
 </details>
 <details>
 	<summary><i class="ri-arrow-drop-right-line"></i> 1010 - 1015 YK</summary>
-	<p>
+	<p><br>
 	Duck regained consciousness, with no memory but his nickname, in 1010 YK, and gained the affection of a struggling music-store owner, Staedtler Fischer. The two became close friends, and Duck began to support the store in exchange for a place to stay.
 
 Duck learned the ins and outs of the music scene in [Sharn](https://eberron.fandom.com/wiki/Sharn.) and learned to stay hidden using personas sustained through his shape-shifting abilities. 
@@ -55,7 +55,7 @@ Years passed and Duck subsisted on low-paying gigs and worship of [the Traveler]
 </details>
 <details>
 	<summary><i class="ri-arrow-drop-right-line"></i> Present</summary>
-	<p>
+	<p><br>
 Duck is introduced as Staedtler. 
 
 In [Session 1](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md), Duck stumbles across Maylyn (neither recognize each other due to memory suppression by powerful [enchantment magic.](../../../-Sacrosanct/Machine-of-Enchantment.md)) 
@@ -74,7 +74,7 @@ Duck manifests an [aberrant mark](https://eberron.fandom.com/wiki/Aberrant_drago
 
 Duck's mask is permanently scarred by Phoen [Session 55](../../-Session-Notes/-8-War/Session-55--Schism.md)
     </p>
-</details>
+</details><br>
 
 ***
 ### Relations <i class="ri-user-line"></i>
