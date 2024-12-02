@@ -6,7 +6,7 @@
 # Myopia Wiki
 
 Why is making websites this difficult...
-Icon please...G
+Icon please...
 
 <head>
   <title>My Page Title</title>
