@@ -11,6 +11,7 @@
 # Myopia Wiki
 
 Why is making websites this difficult...
+Icon please...
 
 - **-Myopia**
 	- **-Characters**
