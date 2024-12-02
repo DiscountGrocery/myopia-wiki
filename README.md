@@ -16,7 +16,7 @@ Visit W3Schools.com!
 <br>
 
 <span style="font-size: 48px;">
-<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/Characters">
+<a href="https://discountgrocery.github.io">
 Characters
 </a>
 </span>
