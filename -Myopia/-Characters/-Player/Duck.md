@@ -4,6 +4,11 @@ cssclasses:
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
+<style> 
+summary {
+    display: list-item;
+}
+</style>
 
 # Duck <i class="ri-music-2-line"></i>
 ### Quick Facts
@@ -33,8 +38,8 @@ Duck is empathetic yet egotistical, in the same vein as that to a child. This re
 ### History <i class="ri-history-line"></i>
 
 <details> 
-	<style type="text/css">
-	<summary>976 - 994 YK</summary></style>
+	<summary>
+	976 - 994 YK</summary>
 	<p><br><hr>
 	Duck is stupid<br>
 	AA<br>
