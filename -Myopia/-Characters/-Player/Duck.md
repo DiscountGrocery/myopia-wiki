@@ -34,16 +34,18 @@ Duck is empathetic yet egotistical, in the same vein as that to a child. This re
 
 <details>
 	<summary><i class="ri-arrow-drop-right-line"></i> 976 - 994 YK</summary>
-	<p><br>
+	<p><br><hr>
 	Duck is stupid<br>
 	AA<br>
 	write br after every line <br>
 	The events of Session 60
-	</p>
+	</p><hr>
 </details>
+
+
 <details>
 	<summary><i class="ri-arrow-drop-right-line"></i> 1010 - 1015 YK</summary>
-	<p><br>
+	<p><br><hr>
 	Duck regained consciousness, with no memory but his nickname, in 1010 YK, and gained the affection of a struggling music-store owner, Staedtler Fischer. The two became close friends, and Duck began to support the store in exchange for a place to stay.
 
 Duck learned the ins and outs of the music scene in [Sharn](https://eberron.fandom.com/wiki/Sharn.) and learned to stay hidden using personas sustained through his shape-shifting abilities. 
@@ -51,11 +53,14 @@ Duck learned the ins and outs of the music scene in [Sharn](https://eberron.fand
 After garnering large audiences, some of Duck's popular elven personas caught the attention of [House Phiarlan](https://eberron.fandom.com/wiki/House_Phiarlan). Parasitical Relationships formed with the naive Duck until local conflict escalated between House Phiarlan and [House Thuranni](https://eberron.fandom.com/wiki/House_Thuranni). Duck's mentor was accidentally killed in the crossfire, and Duck presumed his identity to withdraw and protect himself.
 
 Years passed and Duck subsisted on low-paying gigs and worship of [the Traveler](https://eberron.fandom.com/wiki/The_Traveler).
-	</p>
+	</p><hr>
 </details>
+
+
 <details>
 	<summary><i class="ri-arrow-drop-right-line"></i> Present</summary>
-	<p><br>
+	<p><br><hr>
+
 Duck is introduced as Staedtler. 
 
 In [Session 1](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md), Duck stumbles across Maylyn (neither recognize each other due to memory suppression by powerful [enchantment magic.](../../../-Sacrosanct/Machine-of-Enchantment.md)) 
@@ -74,7 +79,7 @@ Duck manifests an [aberrant mark](https://eberron.fandom.com/wiki/Aberrant_drago
 
 Duck's mask is permanently scarred by Phoen [Session 55](../../-Session-Notes/-8-War/Session-55--Schism.md)
     </p>
-</details><br>
+</details><br><hr>
 
 ***
 ### Relations <i class="ri-user-line"></i>
