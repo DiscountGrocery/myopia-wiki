@@ -26,7 +26,7 @@ summary {
 | Nationality:       | -                                                                                                                                                  |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
-Duck, a player character in Myopia, is a naive yet charming changeling, with extraordinary performance abilities.
+Duck is a naive yet charming changeling, with extraordinary performance abilities.
 
 While in his true changeling form, Duck is average height, with somewhat lanky proportions. His skin is snow white and his hair is curly and ash-gray. His eyes often lack pupils. However, his form is subject to the desire of his shape-shifting abilities.
 
