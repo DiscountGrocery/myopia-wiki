@@ -24,11 +24,11 @@ cssclasses:
 ### General <i class="ri-checkbox-blank-line"></i>
 Duck is a naive yet charming changeling, with extraordinary performance abilities.
 
+Duck is empathetic yet egotistical, in the same vein as that to a child. This reflects the fact that his memory only stretches back 5 years. (Until the events of [Session 60](../../-Session-Notes/-9-Famine/Session-60-Will-you-smile-again-for-me.md))
+
 While in his true changeling form, Duck is average height, with somewhat lanky proportions. His skin is snow white and his hair is curly and ash-gray. His eyes often lack pupils. However, his form is subject to the desire of his shape-shifting abilities.
 
 Duck's attire is a ['shiftweave'](https://eberron.fandom.com/wiki/Shiftweave) toga and waist cape, usually colored a deep Saxe blue. Duck's fashion sense is gaudy and extravagant, always manipulating his shiftweave to dress the part. Other accessories include: a golden cape, sandals, and under-armor.
-
-Duck is empathetic yet egotistical, in the same vein as that to a child. This reflects the fact that his memory only stretches back 5 years. (Until the events of [Session 60](../../-Session-Notes/-9-Famine/Session-60-Will-you-smile-again-for-me.md))
 
 ***
 ### History <i class="ri-history-line"></i>
