@@ -21,7 +21,7 @@ It's slightly improving I think. Should I use images instead of icons and put th
 
 <br>
 <span style="font-size: 48px;">
-<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Elements-of-the-prophecy/Elements-of-the-prophecy">
+<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Elements-of-the-Prophecy/Elements-of-the-Prophecy">
 <i class="ra ra-circle-of-circles"></i></i></i> Elements
 </a>
 </span>
@@ -29,8 +29,6 @@ It's slightly improving I think. Should I use images instead of icons and put th
 <br>
 
 <link rel="shortcut icon" href="/images/favicon.ico">
-
-[Elements-of-the-Prophecy](-Myopia/Elements-of-the-Prophecy/Elements-of-the-Prophecy.md)
 
 - **-Myopia**
 	- **-Groups** <i class="ri-group-line"></i>
