@@ -5,7 +5,7 @@ cssclasses:
 <head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
-<link rel="stylesheet" href="normalize.css">
+<link rel="stylesheet" href="/normalize.css">
 </head>
 
 # Duck <i class="ri-music-2-line"></i>
@@ -26,7 +26,7 @@ cssclasses:
 ### General <i class="ri-checkbox-blank-line"></i>
 Duck is a naive yet charming changeling, with extraordinary performance abilities.
 
-HTEST
+HTESTGG
 
 He is empathetic yet self-absorbed, in the same vein as that to a child. reflecting the fact that his memory only stretches back 5 years. (Until the events of [Session 60](../../-Session-Notes/-9-Famine/Session-60-Will-you-smile-again-for-me.md))
 
@@ -40,18 +40,18 @@ Duck's attire is a ['shiftweave'](https://eberron.fandom.com/wiki/Shiftweave) to
 <details> 
 	<summary>
 	976 - 994 YK</summary>
-	<p><br><hr>
+	<p><br>
 	Duck is stupid<br>
 	AA<br>
 	write br after every line <br>
 	The events of Session 60
-	</p><hr>
+	</p>
 </details>
 
 
 <details>
 	<summary>1010 - 1015 YK</summary>
-	<p><br><hr>
+	<p><br>
 	Duck regained consciousness, with no memory but his nickname, in 1010 YK, and gained the affection of a struggling music-store owner, Staedtler Fischer. The two became close friends, and Duck began to support the store in exchange for a place to stay.
 
 Duck learned the ins and outs of the music scene in [Sharn](https://eberron.fandom.com/wiki/Sharn.) and learned to stay hidden using personas sustained through his shape-shifting abilities. 
@@ -59,13 +59,13 @@ Duck learned the ins and outs of the music scene in [Sharn](https://eberron.fand
 After garnering large audiences, some of Duck's popular elven personas caught the attention of [House Phiarlan](https://eberron.fandom.com/wiki/House_Phiarlan). Parasitical Relationships formed with the naive Duck until local conflict escalated between House Phiarlan and [House Thuranni](https://eberron.fandom.com/wiki/House_Thuranni). Duck's mentor was accidentally killed in the crossfire, and Duck presumed his identity to withdraw and protect himself.
 
 Years passed and Duck subsisted on low-paying gigs and worship of [the Traveler](https://eberron.fandom.com/wiki/The_Traveler).
-	</p><hr>
+	</p>
 </details>
 
 
 <details>
 	<summary>Present</summary>
-	<p><br><hr>
+	<p><br>
 
 Duck is introduced as Staedtler. 
 
@@ -85,7 +85,7 @@ Duck manifests an [aberrant mark](https://eberron.fandom.com/wiki/Aberrant_drago
 
 Duck's mask is permanently scarred by Phoen [Session 55](../../-Session-Notes/-8-War/Session-55--Schism.md)
     </p>
-</details><br><hr>
+</details><br>
 
 ***
 ### Relations <i class="ri-user-line"></i>
