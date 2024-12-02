@@ -1,4 +1,10 @@
 
+# Characters
+
+| [Cort](-Player/Cort.md) | [Duck](-Player/Duck.md) | [Pharen](-Player/Pharen.md) | [Sisava](-Player/Sisava.md) |
+| ----------------------- | ----------------------- | --------------------------- | --------------------------- |
+|                         |                         |                             |                             |
+
 - **-Pharen-Family**
 	- [Alcha](-Pharen-Family/Alcha.md)
 	- [Argen-and-Auren](-Pharen-Family/Argen-and-Auren.md)
@@ -9,11 +15,6 @@
 	- [Savia](-Pharen-Family/Savia.md)
 	- [Varliae](-Pharen-Family/Varliae.md)
 	- [Varya](-Pharen-Family/Varya.md)
-- **-Player**
-	- [Cort](-Player/Cort.md)
-	- [Duck](-Player/Duck.md)
-	- [Pharen](-Player/Pharen.md)
-	- [Sisava](-Player/Sisava.md)
 - [Aspectum](Aspectum.md)
 - [Avassh](Avassh.md)
 - [Bella](Bella.md)
