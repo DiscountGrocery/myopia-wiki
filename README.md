@@ -9,7 +9,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
 
 # Myopia Wiki
- A wiki that I am filling out rn! It's related to this universe that we built in some table top games. Wondrous! If you want to assist me i would be ever so thankful.ggg
+
+Why is making websites this difficult...
 
 - **-Myopia**
 	- **-Characters**
