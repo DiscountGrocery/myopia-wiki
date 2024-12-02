@@ -1,1 +1,1 @@
-An artifact belonging to [The-Forgotten-Prince](-Characters/The-Forgotten-Prince.md).
+An artifact belonging to [The-Forgotten-Prince](../Characters/The-Forgotten-Prince.md).

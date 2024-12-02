@@ -23,10 +23,10 @@ cssclasses:
 ### General <i class="ri-checkbox-blank-line"></i>
 Cold, threatening, serious, scary. 
 An avatar of the Mockery, a deity of the Dark Six. Divinely assigned to assassinate other 'avatars' of other Dark Six deities. Upon killing them, a ritual is performed which increases Sisava's power.
-* [Leon](Leon.md): The Devourer
-* [Chance](Chance.md): The Traveler
-* [Maylyn](Maylyn.md): The Fury
-* [Phoen](Phoen.md): The Keeper
+* [Leon](../Leon.md): The Devourer
+* [Chance](../Chance.md): The Traveler
+* [Maylyn](../Maylyn.md): The Fury
+* [Phoen](../Phoen.md): The Keeper
 * -: The Shadow
 
 ***
@@ -35,8 +35,8 @@ An avatar of the Mockery, a deity of the Dark Six. Divinely assigned to assassin
 
 ***
 ### Relations <i class="ri-user-line"></i>
-Weird cult thing with [Strife](Strife.md).
-Work-friends with [Jhor'aash](Jhor'aash.md).
+Weird cult thing with [Strife](../Strife.md).
+Work-friends with [Jhor'aash](../Jhor'aash.md).
 
 ***
 ### Ability <i class="ri-star-line"></i>
@@ -45,6 +45,6 @@ Real good at shooting. Resistant to poison, emotional, and mental effects.
 ***
 ### Gallery <i class="ri-image-line"></i>
 
-![sisavaHeroForge](-images/sisavaHeroForge.png)
+![sisavaHeroForge](../-images/sisavaHeroForge.png)
 
 ***

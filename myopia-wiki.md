@@ -1,62 +1,5 @@
 %% Begin Waypoint %%
 - **-Myopia**
-	- **-Characters**
-		- **-images**
-
-		- **-Pharen-Family**
-			- [[Alcha]]
-			- [[Argen-and-Auren]]
-			- [[Ferric]]
-			- [[Krova]]
-			- [[Lady-Illmarrow]]
-			- [[Mercria]]
-			- [[Savia]]
-			- [[Varliae]]
-			- [[Varya]]
-		- **-Player**
-			- [[Cort]]
-			- [[Duck]]
-			- [[Pharen]]
-			- [[Sisava]]
-		- [[Aspectum]]
-		- [[Avassh]]
-		- [[Bella]]
-		- [[Blade]]
-		- [[Chance]]
-		- [[Cygnus]]
-		- [[Dirge]]
-		- [[Duul]]
-		- [[Dynamo]]
-		- [[Elar]]
-		- [[Ghost]]
-		- [[Grasp]]
-		- [[Grumm]]
-		- [[Hazel-and-Jade]]
-		- [[Jhor'aash]]
-		- [[Judas]]
-		- [[Lena]]
-		- [[Leon]]
-		- [[Lorraine]]
-		- [[Maeve]]
-		- [[Maylyn]]
-		- [[Oargev]]
-		- [[Phel]]
-		- [[Phoen]]
-		- [[Raiden]]
-		- [[Rime]]
-		- [[Rusty]]
-		- [[Rylan]]
-		- [[Scalpel]]
-		- [[Strife]]
-		- [[The-Collector]]
-		- [[The-Feeling-of-Being-Stabbed]]
-		- [[The-Forgotten-Prince]]
-		- [[The-Prince-of-Frost]]
-		- [[The-Professor]]
-		- [[The-Taste-of-Tapioca]]
-		- [[Tonik]]
-		- [[Tu'gaal]]
-		- [[Vrennan]]
 	- **-Elements-of-the-Prophecy**
 		- [[1-Rotten-Heart]]
 		- [[2-Pharen's-Crown]]
@@ -162,6 +105,7 @@
 			- [[Session-58-Deaths-Door]]
 			- [[Session-59--Flowers-by-the-door]]
 			- [[Session-60-Will-you-smile-again-for-me]]
+	- **[[Characters]]**
 	- [[Second-Deluge]]
 - **-Sacrosanct**
 	- **Characters**
@@ -173,6 +117,8 @@
 		- [[Evelyn]]
 	- [[Machine-of-Enchantment]]
 	- [[The-Flaming-Hoop]]
+- **images**
+
 - [[README]]
 
 %% End Waypoint %%

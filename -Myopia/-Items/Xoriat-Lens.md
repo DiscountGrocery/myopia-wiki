@@ -1,1 +1,1 @@
-A magic item held by [Cort](../-Characters/-Player/Cort.md)
+A magic item held by [Cort](../Characters/-Player/Cort.md)

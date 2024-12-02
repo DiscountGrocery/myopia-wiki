@@ -30,8 +30,8 @@ History <i class="ri-history-line"></i> about person.
 ***
 ### Relations <i class="ri-user-line"></i>
 Adopted into the Verta family.
-Half-brother of [Argen-and-Auren](-Pharen-Family/Argen-and-Auren.md) and [Mercria](-Pharen-Family/Mercria.md).
-Daughter of [Varya](-Pharen-Family/Varya.md) and [Alcha](-Pharen-Family/Alcha.md).
+Half-brother of [Argen-and-Auren](../-Pharen-Family/Argen-and-Auren.md) and [Mercria](../-Pharen-Family/Mercria.md).
+Daughter of [Varya](../-Pharen-Family/Varya.md) and [Alcha](../-Pharen-Family/Alcha.md).
 
 ***
 ### Ability <i class="ri-star-line"></i>

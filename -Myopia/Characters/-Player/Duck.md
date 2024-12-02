@@ -90,10 +90,10 @@ Duck's mask is permanently scarred by Phoen [Session 55](../../-Session-Notes/-8
 ***
 ### Relations <i class="ri-user-line"></i>
 
-- Son of [Maylyn](Maylyn.md) and [Tonik](Tonik.md). (Revealed in [Session 43](../../-Session-Notes/-7-Conquest/Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2.md))
-- In a Relationship with [Lorraine](Lorraine.md).
-- Pupil of [The Forgotten Prince](The-Forgotten-Prince.md).
-- Hated on by [Phoen](Phoen.md).
+- Son of [Maylyn](../Maylyn.md) and [Tonik](../Tonik.md). (Revealed in [Session 43](../../-Session-Notes/-7-Conquest/Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2.md))
+- In a Relationship with [Lorraine](../Lorraine.md).
+- Pupil of [The Forgotten Prince](../The-Forgotten-Prince.md).
+- Hated on by [Phoen](../Phoen.md).
 	- Formerly best friends, unbeknownst to them.
 
 - Pities [Cort](Cort.md).
@@ -115,6 +115,6 @@ The Forgotten Prince protects Duck from death by taking control of his body (rep
 ***
 ### Gallery <i class="ri-image-line"></i>
 
-![](-images/duck1.png)
-![](-images/duckMark1.png)
+![](../-images/duck1.png)
+![](../-images/duckMark1.png)
 ***

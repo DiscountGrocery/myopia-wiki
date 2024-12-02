@@ -21,7 +21,9 @@ cssclasses:
 | Nationality:       | Cyre                                                                                                     |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
-Words about person.
+Tonik is a late middle-aged mark of making human with various prosthetic augmentations.
+
+
 
 ***
 ### History <i class="ri-history-line"></i>

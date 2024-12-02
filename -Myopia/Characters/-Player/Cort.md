@@ -28,12 +28,12 @@ Foolish, awkward, innocent, naive, gullible.
 ***
 ### History <i class="ri-history-line"></i>
 History <i class="ri-history-line"></i> about person.
-Sacrificed his knowledge of his former life to [The-Forgotten-Prince](The-Forgotten-Prince.md).
+Sacrificed his knowledge of his former life to [The-Forgotten-Prince](../The-Forgotten-Prince.md).
 
 ***
 ### Relations <i class="ri-user-line"></i>
 Manipulated by [Sisava](Sisava.md).
-Influenced by [Avassh](Avassh.md) through the [Rotten Heart](../../-Elements-of-the-Prophecy/1-Rotten-Heart.md)
+Influenced by [Avassh](../Avassh.md) through the [Rotten Heart](../../-Elements-of-the-Prophecy/1-Rotten-Heart.md)
 Friends with [Duck](Duck.md).
 Forgotten human relatives.
 Related to a man who accidentally escalated [The Last War](https://eberron.fandom.com/wiki/Last_War)
@@ -44,6 +44,6 @@ Mushroom abilities.
 
 ***
 ### Gallery <i class="ri-image-line"></i>
-![THeLovers1](-images/THeLovers1.png)
-![cort1](-images/cort1.png)
+![THeLovers1](../-images/THeLovers1.png)
+![cort1](../-images/cort1.png)
 ***

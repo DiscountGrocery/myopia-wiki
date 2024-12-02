@@ -21,7 +21,8 @@ cssclasses:
 | Nationality:       | Eldeen Reaches                                                                                                         |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
-Avassh is based off of the official Eberron Avassh known as the 'Twister of Roots.' 
+Avassh is based off of official Eberron Lore.
+Avassh is known as the 'Twister of Roots,' and controls the 
 
 
 ***

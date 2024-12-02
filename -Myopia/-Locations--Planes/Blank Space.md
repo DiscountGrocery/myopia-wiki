@@ -1,1 +1,1 @@
-A store owned by [Maylyn](../-Characters/Maylyn.md)
+A store owned by [Maylyn](../Characters/Maylyn.md)

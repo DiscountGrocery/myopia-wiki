@@ -21,21 +21,25 @@ cssclasses:
 | Nationality:       | Thelanis                                           |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
-Cold, emotionless, servile, creamy, gay.
+Rime is a winter eladrin and a servant of the [The-Prince-of-Frost](The-Prince-of-Frost.md) (Pre [Session 60](../-Session-Notes/-9-Famine/Session-60-Will-you-smile-again-for-me.md)).
 
+He is callous, reserved, and cold.
+
+His presence is noted by a cold breeze upon the shoulder, due to his innate ability to decrease ambient temperature.
 ***
 ### History <i class="ri-history-line"></i>
-History <i class="ri-history-line"></i> about person.
+
 
 ***
 ### Relations <i class="ri-user-line"></i>
-Servant to [The-Prince-of-Frost](The-Prince-of-Frost.md).
-Loves (?) [Vrennan](Vrennan.md).
-Gets freaky with (?) Vrennan
+- Servant to [The-Prince-of-Frost](The-Prince-of-Frost.md).
+- Loves  [Vrennan](Vrennan.md).
+- 
 
 ***
 ### Ability <i class="ri-star-line"></i>
 Ice magic and sword fighting. Lowers ambient temperature around him.
+Can fuse with Vrennan to form Rinnan, a powerful combatant.
 
 ***
 ### Gallery <i class="ri-image-line"></i>

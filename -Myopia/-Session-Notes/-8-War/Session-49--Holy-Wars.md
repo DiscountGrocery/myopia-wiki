@@ -12,4 +12,4 @@ icon: LiGhost
 - 2
 - 3
 - 4
-- [Pharen](../../-Characters/-Player/Pharen.md) becomes a beast.
+- [Pharen](../../Characters/-Player/Pharen.md) becomes a beast.
