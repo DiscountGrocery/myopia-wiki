@@ -4,11 +4,7 @@ cssclasses:
 ---
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
-<style> 
-summary {
-    display: list-item;
-}
-</style>
+<link rel="stylesheet" href="normalize.css">
 
 # Duck <i class="ri-music-2-line"></i>
 ### Quick Facts
