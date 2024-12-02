@@ -2,9 +2,11 @@
 cssclasses:
   - pen-light-blue
 ---
+<head>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
 <link rel="stylesheet" href="normalize.css">
+</head>
 
 # Duck <i class="ri-music-2-line"></i>
 ### Quick Facts
@@ -23,6 +25,8 @@ cssclasses:
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
 Duck is a naive yet charming changeling, with extraordinary performance abilities.
+
+HTEST
 
 Duck is empathetic yet egotistical, in the same vein as that to a child. This reflects the fact that his memory only stretches back 5 years. (Until the events of [Session 60](../../-Session-Notes/-9-Famine/Session-60-Will-you-smile-again-for-me.md))
 
