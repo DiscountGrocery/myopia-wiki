@@ -33,7 +33,7 @@ Duck is empathetic yet egotistical, in the same vein as that to a child. This re
 ### History <i class="ri-history-line"></i>
 
 <details>
-	<summary><i class="ri-arrow-drop-right-line"></i> 980 - 994 YK</summary>
+	<summary><i class="ri-arrow-drop-right-line"></i> 976 - 994 YK</summary>
 	<p><br>
 	Duck is stupid<br>
 	AA<br>
