@@ -3,6 +3,7 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png?">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png?">
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" sizes="16x16" />
 <link rel="manifest" href="/site.webmanifest">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css"> 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
