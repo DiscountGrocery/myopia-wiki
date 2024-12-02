@@ -5,18 +5,17 @@ cssclasses:
 # Tu'gaal :RaForging:
 ### Quick Facts
 
-|                    |                                                                               |
-| ------------------ | ----------------------------------------------------------------------------- |
+|                    |                                                                                      |
+| ------------------ | ------------------------------------------------------------------------------------ |
 | First Appearance:  | [Session-50--Good-Samaritan](../-Session-Notes/-8-War/Session-50--Good-Samaritan.md) |
-| Based on:          | Nuclear Waste Warning (Spikes)                                                |
-| Played by:         | A                                                                             |
-| Full name:         | Tu'Gaal                                                                       |
-| Nicknames:         | -                                                                             |
-| Gender & Pronouns: | Male, He/Him                                                                  |
-| Ancestry:          | Gal'daar, Half-Orc                                                            |
-| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md)                            |
-| Tarot:             | -                                                                             |
-| Nationality:       | Dhakaani Empire                                                               |
+| Inspiration:          | Nuclear Waste Warning (Spikes)                                                       |
+| Full name:         | Tu'Gaal                                                                              |
+| Nicknames:         | -                                                                                    |
+| Gender & Pronouns: | Male, He/Him                                                                         |
+| Ancestry:          | Gal'daar, Half-Orc                                                                   |
+| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md)                                   |
+| Tarot:             | -                                                                                    |
+| Nationality:       | Dhakaani Empire                                                                      |
 ***
 ### General
 Particularly gaunt and thin hobgoblin with deceptively slim muscles.

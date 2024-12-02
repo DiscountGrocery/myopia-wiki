@@ -8,8 +8,7 @@ cssclasses:
 |                    |                                                      |
 | ------------------ | ---------------------------------------------------- |
 | First Appearance:  |                                                      |
-| Based on:          | -                                                    |
-| Played by:         | J                                                    |
+| Inspiration:          | -                                                    |
 | Full names:        | Hazel & Jade                                         |
 | Nicknames:         | -                                                    |
 | Gender & Pronouns: | Both Female, Both She/Her                            |

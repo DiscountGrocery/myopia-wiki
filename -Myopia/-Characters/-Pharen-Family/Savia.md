@@ -8,8 +8,7 @@ cssclasses:
 |                    |                 |
 | ------------------ | --------------- |
 | First Appearance:  |                 |
-| Based on:          | -               |
-| Played by:         | J               |
+| Inspiration:          | -               |
 | Full name:         | Savia           |
 | Nicknames:         | -               |
 | Gender & Pronouns: | Female, She/Her |

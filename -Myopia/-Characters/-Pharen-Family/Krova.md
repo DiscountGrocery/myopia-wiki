@@ -8,8 +8,7 @@ cssclasses:
 |                    |                                                                                                 |
 | ------------------ | ----------------------------------------------------------------------------------------------- |
 | First Appearance:  | [Session 26 - Heaven and Hell](../../Session%20Notes/Session%2026%20-%20Heaven%20and%20Hell%5C) |
-| Based on:          | -                                                                                               |
-| Played by:         | J                                                                                               |
+| Inspiration:          | -                                                                                               |
 | Full name:         | Krova Valya                                                                                     |
 | Nicknames:         | -                                                                                               |
 | Gender & Pronouns: | Male, He/Him                                                                                    |

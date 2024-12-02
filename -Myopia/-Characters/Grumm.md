@@ -8,8 +8,7 @@ cssclasses:
 |                    |                |
 | ------------------ | -------------- |
 | First Appearance:  |                |
-| Based on:          |                |
-| Played by:         |                |
+| Inspiration:          |                |
 | Full name:         |                |
 | Nicknames:         |                |
 | Gender & Pronouns: |                |

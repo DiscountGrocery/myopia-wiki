@@ -8,8 +8,7 @@ cssclasses:
 |                    |                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | First Appearance:  | [Session-28--Head-Like-a-Hole](../-Session-Notes/-6-Hand-me-my-shovel-we-are-going-in/Session-28--Head-Like-a-Hole.md) |
-| Based on:          | [Eberron: Avassh](https://eberron.fandom.com/wiki/Avassh)                                                              |
-| Played by:         | J                                                                                                                      |
+| Inspiration:          | [Eberron: Avassh](https://eberron.fandom.com/wiki/Avassh)                                                              |
 | Full name:         | -                                                                                                                      |
 | Nicknames:         | -                                                                                                                      |
 | Gender & Pronouns: | Any/All                                                                                                                |

@@ -8,8 +8,7 @@ cssclasses:
 |                    |                         |
 | ------------------ | ----------------------- |
 | First Appearance:  |                         |
-| Based on:          | Vegeta (DB)             |
-| Played by:         | J                       |
+| Inspiration:          | Vegeta (DB)             |
 | Full name:         | Elar                    |
 | Nicknames:         | -                       |
 | Gender & Pronouns: | Male, He/Him            |

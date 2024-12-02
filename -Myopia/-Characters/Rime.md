@@ -8,8 +8,7 @@ cssclasses:
 |                    |                                                    |
 | ------------------ | -------------------------------------------------- |
 | First Appearance:  |                                                    |
-| Based on:          | -                                                  |
-| Played by:         | J                                                  |
+| Inspiration:          | -                                                  |
 | Full name:         | Rime ir'ciere                                      |
 | Nicknames:         | Little Prince, Frostboy                            |
 | Gender & Pronouns: | Male, He/Him                                       |

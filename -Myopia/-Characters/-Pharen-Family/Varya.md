@@ -8,8 +8,7 @@ cssclasses:
 |                    |                                                |
 | ------------------ | ---------------------------------------------- |
 | First Appearance:  |                                                |
-| Based on:          | -                                              |
-| Played by:         | J                                              |
+| Inspiration:          | -                                              |
 | Full name:         | Varya d'Vol                                    |
 | Nicknames:         | -                                              |
 | Gender & Pronouns: | Male, He/Him                                   |

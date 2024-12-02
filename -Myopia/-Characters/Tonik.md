@@ -7,9 +7,8 @@ cssclasses:
 
 |                    |                                                                                                          |
 | ------------------ | -------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-7--Blood-and-Thunder](../-Session-Notes/-1-Gathering-Storms/Session-7--Blood-and-Thunder.md)                        |
-| Based on:          | -                                                                                                        |
-| Played by:         | J                                                                                                        |
+| First Appearance:  | [Session-7--Blood-and-Thunder](../-Session-Notes/-1-Gathering-Storms/Session-7--Blood-and-Thunder.md)    |
+| Inspiration:          | -                                                                                                        |
 | Full name:         | Starrin d'Cannith                                                                                        |
 | Nicknames:         | Tonik                                                                                                    |
 | Gender & Pronouns: | Male, He/Him                                                                                             |

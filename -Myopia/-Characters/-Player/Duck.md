@@ -5,18 +5,17 @@ cssclasses:
 # :LiMusic: Duck :LiMusic:
 ### Quick Facts
 
-|                    |                                                                                                                               |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+|                    |                                                                                                                                                      |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | First Appearance:  | [Session-1--And-their-shadows-will spread-like-oil](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will%20spread-like-oil.md) |
-| Based on:          | Staedtler (Inside Job), Invincible                                                                                            |
-| Played by:         | A                                                                                                                             |
-| Full name:         | Duck d'Cannith                                                                                                                |
-| Nicknames:         | Staedtler Fischer, Prince Boy                                                                                                 |
-| Gender & Pronouns: | Male, Variable                                                                                                                |
-| Ancestry:          | [Changeling](https://eberron.fandom.com/wiki/Changeling)                                                                      |
-| Affiliation:       | [Rings-of-Harmony](../../-Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../-Groups/The-Looking-Glass.md)                      |
-| Tarot:             | The Sun                                                                                                                       |
-| Nationality:       | -                                                                                                                             |
+| Inspiration:          | Staedtler (Inside Job), Invincible                                                                                                                   |
+| Full name:         | Duck d'Cannith                                                                                                                                       |
+| Nicknames:         | Staedtler Fischer, Prince Boy                                                                                                                        |
+| Gender & Pronouns: | Male, Variable                                                                                                                                       |
+| Ancestry:          | [Changeling](https://eberron.fandom.com/wiki/Changeling)                                                                                             |
+| Affiliation:       | [Rings-of-Harmony](../../-Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../-Groups/The-Looking-Glass.md)                                       |
+| Tarot:             | The Sun                                                                                                                                              |
+| Nationality:       | -                                                                                                                                                    |
 ***
 ### General
 Duck, a player character in Myopia, is a naive yet charming changeling, with extraordinary performance abilities.

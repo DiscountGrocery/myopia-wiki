@@ -8,8 +8,7 @@ cssclasses:
 |                    |                                                                                                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | First Appearance:  | [Session 1 - ...and their shadows will spread like oil](../Session%20Notes/Session%201%20-%20...and%20their%20shadows%20will%20spread%20like%20oil%5C)                     |
-| Based on:          | Reading of the Yuan-Ti lore                                                                                                                                                |
-| Played by:         | M                                                                                                                                                                          |
+| Inspiration:          | Reading of the Yuan-Ti lore                                                                                                                                                |
 | Full name:         | Sisava                                                                                                                                                                     |
 | Nicknames:         | Bastard, The Snake                                                                                                                                                         |
 | Gender & Pronouns: | Male-Presenting, They/Them                                                                                                                                                 |

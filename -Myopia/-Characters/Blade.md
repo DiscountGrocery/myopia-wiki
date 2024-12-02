@@ -8,8 +8,7 @@ cssclasses:
 |                    |                                                    |
 | ------------------ | -------------------------------------------------- |
 | First Appearance:  |                                                    |
-| Based on:          | -                                                  |
-| Played by:         | J                                                  |
+| Inspiration:          | -                                                  |
 | Full name:         | Kor'sharaat (Scarlet Blade)                        |
 | Nicknames:         | Blade, Hubby Wubby                                 |
 | Gender & Pronouns: | Male, He/Him                                       |

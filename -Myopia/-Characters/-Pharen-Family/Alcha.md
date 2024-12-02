@@ -10,8 +10,7 @@ cssclasses:
 |                    |                                                |
 | ------------------ | ---------------------------------------------- |
 | First Appearance:  |                                                |
-| Based on:          | Alchemy                                        |
-| Played by:         | J                                              |
+| Inspiration:          | Alchemy                                        |
 | Full name:         | Alcha Verta                                    |
 | Nicknames:         | -                                              |
 | Gender & Pronouns: | Female, She/Her                                |

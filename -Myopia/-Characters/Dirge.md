@@ -5,18 +5,17 @@ cssclasses:
 # Dirge :RaHornCall:
 ### Quick Facts
 
-|                    |                                                |
-| ------------------ | ---------------------------------------------- |
-| First Appearance:  |                                                |
-| Based on:          |                                                |
-| Played by:         | J                                              |
-| Full name:         | Skaimuur (Great Horn)                          |
-| Nicknames:         | Dirge                                          |
-| Gender & Pronouns: | Female, She/Her                                |
-| Ancestry:          | Golin'daar                                     |
+|                    |                                                    |
+| ------------------ | -------------------------------------------------- |
+| First Appearance:  |                                                    |
+| Inspiration:          |                                                    |
+| Full name:         | Skaimuur (Great Horn)                              |
+| Nicknames:         | Dirge                                              |
+| Gender & Pronouns: | Female, She/Her                                    |
+| Ancestry:          | Golin'daar                                         |
 | Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md) |
-| Tarot:             |                                                |
-| Nationality:       | Kech Volaar                                    |
+| Tarot:             |                                                    |
+| Nationality:       | Kech Volaar                                        |
 ***
 ### General
 Words about person.

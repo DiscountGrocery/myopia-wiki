@@ -5,18 +5,17 @@ cssclasses:
 # Phoen
 ### Quick Facts
 
-|                    |                                                                                    |
-| ------------------ | ---------------------------------------------------------------------------------- |
+|                    |                                                                                                                         |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------- |
 | First Appearance:  | [Session-36--Queen-of-Nothing](../-Session-Notes/-6-Hand-me-my-shovel-we-are-going-in/Session-36--Queen-of-Nothing.md)] |
-| Based on:          | Metal Sonic                                                                        |
-| Played by:         | J                                                                                  |
-| Full name:         | Phoen                                                                              |
-| Nicknames:         | Bird Bitch, Mecha-Staedtler                                                        |
-| Gender & Pronouns: | Male, He/Him                                                                       |
-| Ancestry:          | Kenku (Former)                                                                     |
-| Affiliation:       | Breland (Former), Making, Himself                                                  |
-| Tarot:             | -                                                                                  |
-| Nationality:       | Thelanis                                                                           |
+| Inspiration:          | Metal Sonic                                                                                                             |
+| Full name:         | Phoen                                                                                                                   |
+| Nicknames:         | Bird Bitch, Mecha-Staedtler                                                                                             |
+| Gender & Pronouns: | Male, He/Him                                                                                                            |
+| Ancestry:          | Kenku (Former)                                                                                                          |
+| Affiliation:       | Breland (Former), Making, Himself                                                                                       |
+| Tarot:             | -                                                                                                                       |
+| Nationality:       | Thelanis                                                                                                                |
 ***
 ### General
 Words about person.

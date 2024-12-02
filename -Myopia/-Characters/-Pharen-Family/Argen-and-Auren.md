@@ -8,8 +8,7 @@ cssclasses:
 |                    |                                                |
 | ------------------ | ---------------------------------------------- |
 | First Appearance:  |                                                |
-| Based on:          | Silver and Gold                                |
-| Played by:         | J                                              |
+| Inspiration:          | Silver and Gold                                |
 | Full name:         | Argen & Auren Verta                            |
 | Nicknames:         | -                                              |
 | Gender & Pronouns: | Male, He/Him                                   |

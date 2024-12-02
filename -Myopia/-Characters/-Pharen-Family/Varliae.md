@@ -8,8 +8,7 @@ cssclasses:
 |                    |                                                     |
 | ------------------ | --------------------------------------------------- |
 | First Appearance:  |                                                     |
-| Based on:          | Astarion (BG3)                                      |
-| Played by:         | J                                                   |
+| Inspiration:          | Astarion (BG3)                                      |
 | Full name:         | Varliae Sanct                                       |
 | Nicknames:         | -                                                   |
 | Gender & Pronouns: | Male, He/Him                                        |

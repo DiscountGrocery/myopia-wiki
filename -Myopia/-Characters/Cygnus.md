@@ -5,18 +5,17 @@ cssclasses:
 # Cygnus :RaCrystalBall:
 ### Quick Facts
 
-|                    |                                                                                 |
-| ------------------ | ------------------------------------------------------------------------------- |
+|                    |                                                                                             |
+| ------------------ | ------------------------------------------------------------------------------------------- |
 | First Appearance:  | [Session-40--First-It-Giveth](../-Session-Notes/-7-Conquest/Session-40--First-It-Giveth.md) |
-| Based on:          | Nameless Narrator (Sacrosanct)                                                  |
-| Played by:         | J                                                                               |
-| Full name:         | Cygnus                                                                          |
-| Nicknames:         | The Last Couatl                                                                 |
-| Gender & Pronouns: | Any/All                                                                         |
-| Ancestry:          | Couatl                                                                          |
-| Affiliation:       | -                                                                               |
-| Tarot:             | Temperance                                                                      |
-| Nationality:       | Siberspace                                                                      |
+| Inspiration:          | Nameless Narrator (Sacrosanct)                                                              |
+| Full name:         | Cygnus                                                                                      |
+| Nicknames:         | The Last Couatl                                                                             |
+| Gender & Pronouns: | Any/All                                                                                     |
+| Ancestry:          | Couatl                                                                                      |
+| Affiliation:       | -                                                                                           |
+| Tarot:             | Temperance                                                                                  |
+| Nationality:       | Siberspace                                                                                  |
 ***
 ### General
 Words about person.

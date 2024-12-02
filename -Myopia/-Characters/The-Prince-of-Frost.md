@@ -8,7 +8,7 @@ cssclasses:
 |                    |                     |
 | ------------------ | ------------------- |
 | First Appearance:  |                     |
-| Based on:          | Eberron Lore        |
+| Inspiration:          | Eberron Lore        |
 | Played by:         | J                   |
 | Full name:         | The Prince of Frost |
 | Nicknames:         | N/A                 |

@@ -5,17 +5,16 @@ cssclasses:
 # Lady Illmarrow
 ### Quick Facts
 
-|                    |                                             |
-| ------------------ | ------------------------------------------- |
-| First Appearance:  |                                             |
-| Based on:          | Eberron Lore                                |
-| Played by:         | J                                           |
-| Full name:         | Erandis Vol                                 |
-| Nicknames:         | Lady Illmarrow, the Lich Queen              |
-| Gender & Pronouns: | Female, She/Her                             |
-| Ancestry:          | Lich                                        |
-| Affiliation:       |                                             |
-| Tarot:             |                                             |
+|                    |                                                                |
+| ------------------ | -------------------------------------------------------------- |
+| First Appearance:  |                                                                |
+| Inspiration:          | Eberron Lore                                                   |
+| Full name:         | Erandis Vol                                                    |
+| Nicknames:         | Lady Illmarrow, the Lich Queen                                 |
+| Gender & Pronouns: | Female, She/Her                                                |
+| Ancestry:          | Lich                                                           |
+| Affiliation:       |                                                                |
+| Tarot:             |                                                                |
 | Nationality:       | Irani (Former), [Farlnen](../../-Locations--Planes/Farlnen.md) |
 ***
 ### General

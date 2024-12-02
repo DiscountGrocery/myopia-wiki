@@ -8,9 +8,8 @@ cssclasses:
 |                    |                                                                                                                                                   |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | First Appearance:  | [Session-1--And-their-shadows-will spread-like-oil](../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will%20spread-like-oil.md) |
-| Based on:          | Gohan (Vaguelly)                                                                                                                                  |
-| Played by:         | J                                                                                                                                                 |
-| Full name:         | Nylyam d'Sivis                                                                                                                                    |
+| Inspiration:          | Gohan (Vaguelly)                                                                                                                                  |
+| Full name:         | Nylam d'Sivis                                                                                                                                     |
 | Nicknames:         | Lamyla Saraya, Maylyn Saraya                                                                                                                      |
 | Gender & Pronouns: | Female, She/Her                                                                                                                                   |
 | Ancestry:          | Sivis Gnome                                                                                                                                       |

@@ -7,9 +7,8 @@ cssclasses:
 
 |                    |                                                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--And-their-shadows-will spread-like-oil](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will%20spread-like-oil.md)                          |
-| Based on:          | Goku (DB), Senku (Dr. Stone)                                                                                                                              |
-| Played by:         | L                                                                                                                                                         |
+| First Appearance:  | [Session-1--And-their-shadows-will spread-like-oil](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will%20spread-like-oil.md)      |
+| Inspiration:          | Goku (DB), Senku (Dr. Stone)                                                                                                                              |
 | Full name:         | Pharen Verta                                                                                                                                              |
 | Nicknames:         | The Bloodsail                                                                                                                                             |
 | Gender & Pronouns: | Male, He/Him                                                                                                                                              |

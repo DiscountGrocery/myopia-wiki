@@ -5,18 +5,17 @@ cssclasses:
 # Jhor'aash :RaShotgunShell:
 ### Quick Facts
 
-|                    |                                                |
-| ------------------ | ---------------------------------------------- |
-| First Appearance:  |                                                |
-| Based on:          |                                                |
-| Played by:         | J                                              |
-| Full name:         | Jhor'aash                                      |
-| Nicknames:         |                                                |
-| Gender & Pronouns: | Male, He/Him                                   |
-| Ancestry:          | Gal'daar                                       |
+|                    |                                                    |
+| ------------------ | -------------------------------------------------- |
+| First Appearance:  |                                                    |
+| Inspiration:          |                                                    |
+| Full name:         | Jhor'aash                                          |
+| Nicknames:         |                                                    |
+| Gender & Pronouns: | Male, He/Him                                       |
+| Ancestry:          | Gal'daar                                           |
 | Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md) |
-| Tarot:             |                                                |
-| Nationality:       | Kech Hashraac                                  |
+| Tarot:             |                                                    |
+| Nationality:       | Kech Hashraac                                      |
 ***
 ### General
 Words about person.

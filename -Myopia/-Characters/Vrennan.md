@@ -8,8 +8,7 @@ cssclasses:
 |                    |                                                    |
 | ------------------ | -------------------------------------------------- |
 | First Appearance:  | -                                                  |
-| Based on:          | -                                                  |
-| Played by:         | J                                                  |
+| Inspiration:          | -                                                  |
 | Full name:         | Vrennan                                            |
 | Nicknames:         |                                                    |
 | Gender & Pronouns: | Male, He/Him                                       |
