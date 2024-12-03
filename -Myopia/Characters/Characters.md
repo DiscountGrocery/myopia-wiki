@@ -9,6 +9,7 @@
 | ----------------------- | ----------------------- | --------------------------- | --------------------------- |
 
 <hr>
+
 ## Allies
 
 
@@ -34,6 +35,7 @@
 | -------------------------------------------------- | ----------------- | ----------------------------------------------- | ----------------- |
 | [Lady-Illmarrow](-Pharen-Family/Lady-Illmarrow.md) | [Maeve](Maeve.md) | [The-Taste-of-Tapioca](The-Taste-of-Tapioca.md) |                   |
 <hr>
+
 ## Antagonists
 
 
@@ -42,12 +44,14 @@
 | [Leon](Leon.md)         | [Lena](Lena.md)     | [Elar](Elar.md)   | [Bella](Bella.md)   |
 | [Dynamo](Dynamo.md)     | [Judas](Judas.md)   |                   |                     |
 <hr>
+
 ## Former Antagonists
 
 
 | [Phel](Phel.md) | [Duul](Duul.md) | [Rime](Rime.md) | [Strife](Strife.md) |
 | --------------- | --------------- | --------------- | ------------------- |
 <hr>
+
 ## Sacrosanct (Campaign 1)
 
 
@@ -56,6 +60,7 @@
 | Dent   | Evelyn  | Anathia | Harlen |
 | Bootes | Guy     |         |        |
 <hr>
+
 
 [Return](../../README.md)
 
