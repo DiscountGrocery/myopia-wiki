@@ -51,7 +51,7 @@
 ## Sacrosanct (Campaign 1)
 <hr>
 
-| Aarpm  | Braxius | Chris   | Daren  |
+| Aaron  | Braxius | Chris   | Daren  |
 | ------ | ------- | ------- | ------ |
 | Dent   | Evelyn  | Anathia | Harlen |
 | Bootes | Guy     |         |        |
