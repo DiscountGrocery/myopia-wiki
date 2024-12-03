@@ -3,12 +3,13 @@
 # Characters
 
 ## Player Characters
+<br>
 
 | [Cort](-Player/Cort.md) | [Duck](-Player/Duck.md) | [Pharen](-Player/Pharen.md) | [Sisava](-Player/Sisava.md) |
 | ----------------------- | ----------------------- | --------------------------- | --------------------------- |
 
 ## Allies
-
+<br>
 
 | [Blade](Blade.md)                                               | [Cygnus](Cygnus.md)                             | [Dirge](Dirge.md)                 | [Ghost](Ghost.md)       |
 | --------------------------------------------------------------- | ----------------------------------------------- | --------------------------------- | ----------------------- |
@@ -26,14 +27,14 @@
 | [Varya](-Pharen-Family/Varya.md) | [Mercria](-Pharen-Family/Mercria.md)                 | [Savia](-Pharen-Family/Savia.md)   | [Varliae](-Pharen-Family/Varliae.md) |
 
 ## Neutral / Unaligned
-
+<br>
 
 | [Avassh](Avassh.md)                                | [Grumm](Grumm.md) | [The-Prince-of-Frost](The-Prince-of-Frost.md)   | [Rylan](Rylan.md) |
 | -------------------------------------------------- | ----------------- | ----------------------------------------------- | ----------------- |
 | [Lady-Illmarrow](-Pharen-Family/Lady-Illmarrow.md) | [Maeve](Maeve.md) | [The-Taste-of-Tapioca](The-Taste-of-Tapioca.md) |                   |
 
 ## Antagonists
-
+<br>
 
 | [Aspectum](Aspectum.md) | [Chance](Chance.md) | [Phoen](Phoen.md) | [Raiden](Raiden.md) |
 | ----------------------- | ------------------- | ----------------- | ------------------- |
@@ -41,13 +42,13 @@
 | [Dynamo](Dynamo.md)     | [Judas](Judas.md)   |                   |                     |
 
 ## Former Antagonists
-
+<br>
 
 | [Phel](Phel.md) | [Duul](Duul.md) | [Rime](Rime.md) | [Strife](Strife.md) |
 | --------------- | --------------- | --------------- | ------------------- |
 
 ## Sacrosanct (Campaign 1)
-
+<br>
 
 | Aarpm  | Braxius | Chris   | Daren  |
 | ------ | ------- | ------- | ------ |
