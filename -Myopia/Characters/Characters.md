@@ -5,8 +5,8 @@
 
 ## Player Characters
 
-| [Cort](-Player/Cort.md) | [Duck](-Player/Duck.md) | [Pharen](-Player/Pharen.md) | [Sisava](-Player/Sisava.md) |
-| ----------------------- | ----------------------- | --------------------------- | --------------------------- |
+| [Cort](-Player/Cort.md) <i class="ra ra-super-mushroom"></i>  | [Duck](-Player/Duck.md) <i class="ri-music-2-line"></i> | [Pharen](-Player/Pharen.md) <i class="ra ra-lightning-bolt"></i>  | [Sisava](-Player/Sisava.md) <i class="ra ra-snake"></i> |
+| ----------------------------------------------------------- | ----------------------- | --------------------------- | --------------------------- |
 
 <hr>
 
@@ -15,34 +15,34 @@
 
 | [Blade](Blade.md)                                               | [Cygnus](Cygnus.md)                             | [Dirge](Dirge.md)                 | [Ghost](Ghost.md)       |
 | --------------------------------------------------------------- | ----------------------------------------------- | --------------------------------- | ----------------------- |
-| [Grasp](Grasp.md)                                               | [Hazel-and-Jade](Hazel-and-Jade.md)             | [Jhor'aash](Jhor'aash.md)         | [Lorraine](Lorraine.md) |
-| [Maylyn](Maylyn.md)                                             | [Oargev](Oargev.md)                             | [Rusty](Rusty.md)                 | [Scalpel](Scalpel.md)   |
-| [The Feeling of Being Stabbed](The-Feeling-of-Being-Stabbed.md) | [The Forgotten Prince](The-Forgotten-Prince.md) | [The Professor](The-Professor.md) | [Tonik](Tonik.md)       |
-| [Tu'gaal](Tu'gaal.md)                                           | [Vrennan](Vrennan.md)                           |                                   |                         |
+| [Grasp](Grasp.md) <i class="ri-hand"></i>                                               | [Hazel & Jade](Hazel-and-Jade.md) <i class="ra ra-two-hearts"></i>              | [Jhor'aash](Jhor'aash.md) <i class="ra ra-shotgun-shell"></i>          | [Lorraine](Lorraine.md) <i class="ra ra-feather-wing"></i>|
+| [Maylyn](Maylyn.md)  <i class="ra ra-candle"></i>                                             | [Oargev](Oargev.md) <i class="ra ra-crown"></i>                              | [Rusty](Rusty.md) <i class="ra ra-tentacle"></i>                  | [Scalpel](Scalpel.md) <i class="ri-syringe-line"></i>   |
+| [The Feeling of Being Stabbed](The-Feeling-of-Being-Stabbed.md) <i class="ri-triangle-line"></i> | [The Forgotten Prince](The-Forgotten-Prince.md) <i class="ra ra-arcane-mask"></i> | [The Professor](The-Professor.md) <i class="ri-glasses-line"></i> | [Tonik](Tonik.md) <i class="ri-settings-4-line"></i>       |
+| [Tu'gaal](Tu'gaal.md) <i class="ri-eth-line"></i>                                           | [Vrennan](Vrennan.md) <i class="ra ra-fire"></i>                           |                                   |                         |
 <hr>
 
 ### Pharen's Family
 
 
-| [Alcha](-Pharen-Family/Alcha.md) | [Argen-and-Auren](-Pharen-Family/Argen-and-Auren.md) | [Ferric](-Pharen-Family/Ferric.md) | [Krova](-Pharen-Family/Krova.md)     |
+| [Alcha](-Pharen-Family/Alcha.md) | [Argen & Auren](-Pharen-Family/Argen-and-Auren.md) | [Ferric](-Pharen-Family/Ferric.md) | [Krova](-Pharen-Family/Krova.md)     |
 | -------------------------------- | ---------------------------------------------------- | ---------------------------------- | ------------------------------------ |
 | [Varya](-Pharen-Family/Varya.md) | [Mercria](-Pharen-Family/Mercria.md)                 | [Savia](-Pharen-Family/Savia.md)   | [Varliae](-Pharen-Family/Varliae.md) |
 
 ## Neutral / Unaligned
 
 
-| [Avassh](Avassh.md)                                | [Grumm](Grumm.md) | [The-Prince-of-Frost](The-Prince-of-Frost.md)   | [Rylan](Rylan.md) |
+| [Avassh](Avassh.md) <i class="ra ra-dead-tree"></i>                               | [Grumm](Grumm.md) <i class="ri-candle-line"></i> | [The-Prince-of-Frost](The-Prince-of-Frost.md) <i class="ra ra-frost-emblem"></i>  | [Rylan](Rylan.md) <i class="ri-eye-off-line"></i> |
 | -------------------------------------------------- | ----------------- | ----------------------------------------------- | ----------------- |
-| [Lady-Illmarrow](-Pharen-Family/Lady-Illmarrow.md) | [Maeve](Maeve.md) | [The-Taste-of-Tapioca](The-Taste-of-Tapioca.md) |                   |
+| [Lady Illmarrow](-Pharen-Family/Lady-Illmarrow.md) <i class="ra ra-death-skull"></i> | [Maeve](Maeve.md) | [The-Taste-of-Tapioca](The-Taste-of-Tapioca.md) <i class="ri-cup-line"></i> |                   |
 <hr>
 
 ## Antagonists
 
 
-| [Aspectum](Aspectum.md) | [Chance](Chance.md) | [Phoen](Phoen.md) | [Raiden](Raiden.md) |
+| [Aspectum](Aspectum.md) <i class="ra ra-bleeding-eye"></i> | [Chance](Chance.md) <i class="ra ra-hearts-card"></i> | [Phoen](Phoen.md) <i class="ra ra-feathered-wing"></i> | [Raiden](Raiden.md) <i class="ra ra-lightning-trio"></i> |
 | ----------------------- | ------------------- | ----------------- | ------------------- |
-| [Leon](Leon.md)         | [Lena](Lena.md)     | [Elar](Elar.md)   | [Bella](Bella.md)   |
-| [Dynamo](Dynamo.md)     | [Judas](Judas.md)   |                   |                     |
+| [Leon](Leon.md) <i class="ra ra-lightning-sword"></i>         | [Lena](Lena.md) <i class="ra ra-venomous-snake"></i>     | [Elar](Elar.md)   | [Bella](Bella.md) <i class="ri-eye-line"></i>   |
+| [Dynamo](Dynamo.md) <i class="ri-shield-cross-line"></i>     | [Judas](Judas.md)   |                   |                     |
 <hr>
 
 ## Former Antagonists
