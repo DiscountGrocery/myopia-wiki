@@ -140,7 +140,6 @@
 		- [[Rylan]]
 		- [[Scalpel]]
 		- [[Strife]]
-		- [[The-Collector]]
 		- [[The-Feeling-of-Being-Stabbed]]
 		- [[The-Forgotten-Prince]]
 		- [[The-Prince-of-Frost]]
