@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
-- [[Clock-Hand]]
-- [[Phil]]
-- [[Xoriat-Lens]]
+- [Clock-Hand](Clock-Hand.md)
+- [Phil](Phil.md)
+- [Xoriat-Lens](Xoriat-Lens.md)
 
 %% End Waypoint %%
