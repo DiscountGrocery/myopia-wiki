@@ -14,25 +14,23 @@ cssclasses:
 |                    |                                                                                                                                                    |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | First Appearance:  | [Session-1--And-their-shadows-will-spread-like-oil](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md) |
-| Inspiration:       | Staedtler (Inside Job), Invincible                                                                                                                 |
+| Inspiration:       | Invincible                                                                                                                                         |
 | Full name:         | Lydian d'Cannith                                                                                                                                   |
 | Nicknames:         | Duck, Prince Boy, Staedtler Fischer,                                                                                                               |
-| Gender & Pronouns: | Male, Variable                                                                                                                                     |
+| Gender & Pronouns: | Male, He/Him (Variable)                                                                                                                            |
 | Ancestry:          | [Changeling](https://eberron.fandom.com/wiki/Changeling)                                                                                           |
 | Affiliation:       | [Rings-of-Harmony](../../-Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../-Groups/The-Looking-Glass.md)                                     |
 | Tarot:             | The Sun                                                                                                                                            |
-| Nationality:       | -                                                                                                                                                  |
+| Nationality:       | Cyran                                                                                                                                              |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
 Duck is a naive yet charming changeling, with extraordinary performance abilities.
 
-HTESTGG
+He is empathetic yet self-absorbed, and usually very impulsive. He is obsessed with impressing other people.
 
-He is empathetic yet self-absorbed, in the same vein as that to a child. reflecting the fact that his memory only stretches back 5 years. (Until the events of [Session 60](../../-Session-Notes/-9-Famine/Session-60-Will-you-smile-again-for-me.md))
+While in his changeling form, Duck is average height, with somewhat lanky proportions. His skin is snow white and his hair is curly and ash-gray. His eyes often lack pupils. However, his form is subject to the desire of his shape-shifting abilities.
 
-While in his true changeling form, Duck is average height, with somewhat lanky proportions. His skin is snow white and his hair is curly and ash-gray. His eyes often lack pupils. However, his form is subject to the desire of his shape-shifting abilities.
-
-Duck's attire is a ['shiftweave'](https://eberron.fandom.com/wiki/Shiftweave) toga and waist cape, usually colored a deep Saxe blue. Duck's fashion sense is gaudy and extravagant, always manipulating his shiftweave to dress the part. Other accessories include: a golden cape, sandals, and under-armor.
+Duck's attire is a ['shiftweave'](https://eberron.fandom.com/wiki/Shiftweave) toga and waist cape, usually colored a deep Saxe blue. Duck's fashion sense is gaudy and extravagant, always manipulating his shiftweave to dress the part. Other common accessories include: a golden cape and sandals.
 
 ***
 ### History <i class="ri-history-line"></i>
@@ -95,7 +93,6 @@ Duck's mask is permanently scarred by Phoen [Session 55](../../-Session-Notes/-8
 - Pupil of [The Forgotten Prince](../The-Forgotten-Prince.md).
 - Hated on by [Phoen](../Phoen.md).
 	- Formerly best friends, unbeknownst to them.
-
 - Pities [Cort](Cort.md).
 - Is wary of [Sisava](Sisava.md).
 - Respects [Pharen](Pharen.md).
@@ -103,14 +100,27 @@ Duck's mask is permanently scarred by Phoen [Session 55](../../-Session-Notes/-8
 ***
 ### Ability <i class="ri-star-line"></i>
 
+#### Shapeshifting 
 As a changeling, Duck can take the form of any humanoid.
+#### Magic 
+Proficient in the occult, supporting allies with inspiration and healing while hindering opponents.
+#### Maneuverability
+Nimble, agile, and reflexive, Duck can move across the battlefield extremely quickly.
+- Rocket sandals designed by Tonik allow quickened movement and the ability to fly for a short while.
+- A golden scarf allows Duck to distract and reposition opponents, while granting him even more mobility.
+#### Weapons
+Duck is a graceful fighter, using finesse melee weapons.
+* A magical spear that returns when thrown.
+* Remembrance, a majestic scythe granted to him by the Forgotten Prince.
+* Silence, a sentimental sword given to him by Rime, granted to him by the Prince of Frost.
 
-Duck has demonstrated proficiency in occult magic, which he uses to heal and support in combat.
+#### Fey Influence
+The Forgotten Prince protects Duck from death by taking control of his body in dire circumstances (represented by an ethereal mask).
 
-Duck's primary weapon of choice is Remembrance, a powerful scythe granted to him by the Forgotten Prince.
+The Forgotten Prince provides other supporting magic, indicated by tendril-like smoke.
 
-The Forgotten Prince protects Duck from death by taking control of his body (represented by an ethereal mask), as well as enhancing his magic ability.
-
+#### Aberrant Mark
+Caused due to being the child of a Sivis and Cannith, the mark indirectly channels Maylyn and her relation to The Fury. The mark is fuelled by feelings of rage and is satiated by retribution.
 
 ***
 ### Gallery <i class="ri-image-line"></i>

@@ -8,22 +8,23 @@ cssclasses:
 # Cort <i class="ra ra-super-mushroom"></i>
 ### Quick Facts
 
-|                    |                                                                                                                                                      |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+|                    |                                                                                                                                                    |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | First Appearance:  | [Session-1--And-their-shadows-will-spread-like-oil](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md) |
-| Inspiration:          | Zombie Fungus                                                                                                                                        |
-| Full name:         | Unknown (Former), Cortinarius Orell                                                                                                                  |
-| Nicknames:         | Cort, Gort                                                                                                                                           |
-| Gender & Pronouns: | Male, He/Him                                                                                                                                         |
-| Ancestry:          | Human (Former), Mushroom Thing                                                                                                                       |
-| Affiliation:       | [Rings-of-Harmony](../../-Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../-Groups/The-Looking-Glass.md)                                       |
-| Tarot:             | The Lovers                                                                                                                                           |
-| Nationality:       | Eldeen Reaches (Former), Mycology                                                                                                                    |
+| Inspiration:       | Zombie Fungus                                                                                                                                      |
+| Full name:         | Cortinarius Orell                                                                                                                                  |
+| Nicknames:         | Cort, Gort                                                                                                                                         |
+| Gender & Pronouns: | Male, He/Him                                                                                                                                       |
+| Ancestry:          | Human (Former), Mycanid                                                                                                                            |
+| Affiliation:       | [Rings-of-Harmony](../../-Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../-Groups/The-Looking-Glass.md)                                     |
+| Tarot:             | The Lovers                                                                                                                                         |
+| Nationality:       | Eldeen Reaches (Former), Mycology                                                                                                                  |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
-Foolish, awkward, innocent, naive, gullible.
-1. Human
-2. Goes through cycles of life and death over 5 days.
+Cort is a naive mycanid manipulated and influenced by Daelkyr. He is kind but ruthless and often gullible.
+
+He is bald and frail
+His body surrounds the [Rotten Heart](../../Elements-of-the-Prophecy/1-Rotten-Heart.md). 
 
 ***
 ### History <i class="ri-history-line"></i>
@@ -36,11 +37,20 @@ Manipulated by [Sisava](Sisava.md).
 Influenced by [Avassh](../Avassh.md) through the [Rotten Heart](../../Elements-of-the-Prophecy/1-Rotten-Heart.md)
 Friends with [Duck](Duck.md).
 Forgotten human relatives.
-Related to a man who accidentally escalated [The Last War](https://eberron.fandom.com/wiki/Last_War)
+His grandfather indirectly caused [The Last War](https://eberron.fandom.com/wiki/Last_War)
 
 ***
 ### Ability <i class="ri-star-line"></i>
-Mushroom abilities.
+
+#### Weapons
+Cort is the heaviest melee hitter in the main party, fighting up-close and brutally.
+- Battle-axe given to him by Rusty.
+- Psionic blade that appears like a longsword.
+#### Daelkyr Influence
+The Rotten Heart renders Cort effectively immortal, regrowing into a new form every few centuries after death.
+
+#### Xoriat Influence
+Xoriat
 
 ***
 ### Gallery <i class="ri-image-line"></i>
