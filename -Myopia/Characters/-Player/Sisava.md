@@ -5,13 +5,13 @@ cssclasses:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
 
-# :RaSnake: Sisava :RaSnake:
+# Sisava <i class="ra ra-snake"></i>
 ### Quick Facts
 
 |                    |                                                                                                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session 1 - ...and their shadows will spread like oil](../Session%20Notes/Session%201%20-%20...and%20their%20shadows%20will%20spread%20like%20oil%5C)                     |
-| Inspiration:          | Reading of the Yuan-Ti lore                                                                                                                                                |
+| First Appearance:  | [Session 1](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md)                                                                 |
+| Inspiration:       | Yuan-Ti lore                                                                                                                                                               |
 | Full name:         | Sisava                                                                                                                                                                     |
 | Nicknames:         | Bastard, The Snake                                                                                                                                                         |
 | Gender & Pronouns: | Male-Presenting, They/Them                                                                                                                                                 |
@@ -21,13 +21,17 @@ cssclasses:
 | Nationality:       | Xen'drik                                                                                                                                                                   |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
-Cold, threatening, serious, scary. 
-An avatar of the Mockery, a deity of the Dark Six. Divinely assigned to assassinate other 'avatars' of other Dark Six deities. Upon killing them, a ritual is performed which increases Sisava's power.
+
+Sisava is a threatening and ruthless Yuan-ti assassin, accorded by a divine purpose.
+
+They are cold, self-serving, and manipulative, often acting without regard to morality or empathy.
+
+They are an avatar of the Mockery, a deity of the Dark Six, and assigned to assassinate other 'avatars' of other Dark Six deities. A ritual is performed with their corpse which increases Sisava's power.
 * [Leon](../Leon.md): The Devourer
 * [Chance](../Chance.md): The Traveler
 * [Maylyn](../Maylyn.md): The Fury
 * [Phoen](../Phoen.md): The Keeper
-* -: The Shadow
+* unknown: The Shadow
 
 ***
 ### History <i class="ri-history-line"></i>
@@ -41,6 +45,13 @@ Work-friends with [Jhor'aash](../Jhor'aash.md).
 ***
 ### Ability <i class="ri-star-line"></i>
 Real good at shooting. Resistant to poison, emotional, and mental effects.
+
+#### Weapons
+K
+
+#### Resistances
+A psychopathic mind reduces the power of emotional and mental effects on Sisava.
+Their Yuan-Ti heritage also provides a natural resistance to poison.
 
 ***
 ### Gallery <i class="ri-image-line"></i>
