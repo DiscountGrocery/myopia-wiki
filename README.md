@@ -15,7 +15,7 @@ It's slightly improving I think. Should I use images instead of icons and put th
 
 <a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/Characters">
 <span style="font-size: 48px;">
-<i class="ri-user-line"></i></i>Characters
+<i class="ri-user-line"></i></i> Characters
 </span>
 </a>
 
@@ -28,7 +28,35 @@ It's slightly improving I think. Should I use images instead of icons and put th
 
 <br>
 
-<link rel="shortcut icon" href="/images/favicon.ico">
+<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/Characters">
+<span style="font-size: 48px;">
+<i class="ri-user-line"></i></i> Session Notes
+</span>
+</a>
+
+<br>
+<span style="font-size: 48px;">
+<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Elements-of-the-Prophecy/Elements-of-the-Prophecy">
+<i class="ra ra-circle-of-circles"></i></i></i> Groups
+</a>
+</span>
+
+<br>
+
+<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/Characters">
+<span style="font-size: 48px;">
+<i class="ri-user-line"></i></i> Objects
+</span>
+</a>
+
+<br>
+<span style="font-size: 48px;">
+<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Elements-of-the-Prophecy/Elements-of-the-Prophecy">
+<i class="ra ra-circle-of-circles"></i></i></i> Locations
+</a>
+</span>
+
+<br>
 
 [Session-Notes](-Myopia/Session-Notes/Session-Notes.md)
 [Groups](-Myopia/Groups/Groups.md)
