@@ -10,13 +10,13 @@ cssclasses:
 
 |                    |                                                                                                                                                   |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--And-their-shadows-will-spread-like-oil](../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md) |
+| First Appearance:  | [Session-1--And-their-shadows-will-spread-like-oil](../Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md) |
 | Inspiration:          | Gohan (Vaguelly)                                                                                                                                  |
 | Full name:         | Nylam d'Sivis                                                                                                                                     |
 | Nicknames:         | Lamyla Saraya, Maylyn Saraya                                                                                                                      |
 | Gender & Pronouns: | Female, She/Her                                                                                                                                   |
 | Ancestry:          | Sivis Gnome                                                                                                                                       |
-| Affiliation:       | [The-Looking-Glass](../-Groups/The-Looking-Glass.md)                                                                                              |
+| Affiliation:       | [The-Looking-Glass](../Groups/The-Looking-Glass.md)                                                                                              |
 | Tarot:             | The Empress                                                                                                                                       |
 | Nationality:       | Zilargo                                                                                                                                           |
 ***

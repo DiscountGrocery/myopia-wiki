@@ -10,13 +10,13 @@ cssclasses:
 
 |                    |                                                                                                                             |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-17--God-Hates-a-Coward](../-Session-Notes/-4-Bees-made-honey-in-the-lions-skull/Session-17--God-Hates-a-Coward.md) |
+| First Appearance:  | [Session-17--God-Hates-a-Coward](../Session-Notes/-4-Bees-made-honey-in-the-lions-skull/Session-17--God-Hates-a-Coward.md) |
 | Inspiration:          | Eberron Lore                                                                                                                |
 | Full name:         | Belashyra                                                                                                                   |
 | Nicknames:         | Bella, Beller, Bell end                                                                                                     |
 | Gender & Pronouns: | Any/All                                                                                                                     |
-| Ancestry:          | [Daelkyr](../-Groups/Daelkyr.md)                                                                                            |
-| Affiliation:       | [Xoriat](../-Locations--Planes/Xoriat.md)                                                                                   |
+| Ancestry:          | [Daelkyr](../Groups/Daelkyr.md)                                                                                            |
+| Affiliation:       | [Xoriat](../Locations/Xoriat.md)                                                                                   |
 | Tarot:             | The World                                                                                                                   |
 | Nationality:       | -                                                                                                                           |
 ***

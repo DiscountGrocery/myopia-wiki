@@ -16,7 +16,7 @@ cssclasses:
 | Nicknames:         |                                                    |
 | Gender & Pronouns: | Male, He/Him                                       |
 | Ancestry:          | Drow                                               |
-| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md) |
+| Affiliation:       | [Rings-of-Harmony](../Groups/Rings-of-Harmony.md) |
 | Tarot:             | -                                                  |
 | Nationality:       |                                                    |
 ***

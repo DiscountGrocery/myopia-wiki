@@ -10,15 +10,15 @@ cssclasses:
 
 |                    |                                                                                                                                                           |
 | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--And-their-shadows-will-spread-like-oil](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md)      |
+| First Appearance:  | [Session-1--And-their-shadows-will-spread-like-oil](../../Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md)      |
 | Inspiration:          | Goku (DB), Senku (Dr. Stone)                                                                                                                              |
 | Full name:         | Pharen Verta                                                                                                                                              |
 | Nicknames:         | The Bloodsail                                                                                                                                             |
 | Gender & Pronouns: | Male, He/Him                                                                                                                                              |
 | Ancestry:          | Khoravar                                                                                                                                                  |
-| Affiliation:       | [Rings-of-Harmony](../../-Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../-Groups/The-Looking-Glass.md), [Bloodsails](../../-Groups/Bloodsails.md) |
+| Affiliation:       | [Rings-of-Harmony](../../Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../Groups/The-Looking-Glass.md), [Bloodsails](../../Groups/Bloodsails.md) |
 | Tarot:             | Judgement                                                                                                                                                 |
-| Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md)                                                                                                            |
+| Nationality:       | [Farlnen](../../Locations/Farlnen.md)                                                                                                            |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
 Pharen

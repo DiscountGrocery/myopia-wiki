@@ -10,13 +10,13 @@ cssclasses:
 
 |                    |                                                                                      |
 | ------------------ | ------------------------------------------------------------------------------------ |
-| First Appearance:  | [Session-50--Good-Samaritan](../-Session-Notes/-8-War/Session-50--Good-Samaritan.md) |
+| First Appearance:  | [Session-50--Good-Samaritan](../Session-Notes/-8-War/Session-50--Good-Samaritan.md) |
 | Inspiration:          | Nuclear Waste Warning (Spikes)                                                       |
 | Full name:         | Tu'Gaal                                                                              |
 | Nicknames:         | -                                                                                    |
 | Gender & Pronouns: | Male, He/Him                                                                         |
 | Ancestry:          | Gal'daar, Half-Orc                                                                   |
-| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md)                                   |
+| Affiliation:       | [Rings-of-Harmony](../Groups/Rings-of-Harmony.md)                                   |
 | Tarot:             | -                                                                                    |
 | Nationality:       | Dhakaani Empire                                                                      |
 ***

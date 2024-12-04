@@ -16,9 +16,9 @@ cssclasses:
 | Nicknames:         | -                                              |
 | Gender & Pronouns: | Male, He/Him                                   |
 | Ancestry:          | Khoravar                                       |
-| Affiliation:       | [Bloodsails](../../-Groups/Bloodsails.md)      |
+| Affiliation:       | [Bloodsails](../../Groups/Bloodsails.md)      |
 | Tarot:             | -                                              |
-| Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md) |
+| Nationality:       | [Farlnen](../../Locations/Farlnen.md) |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
 Identical twins. Argen dresses in silver. Auren dresses in gold.

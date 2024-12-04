@@ -10,13 +10,13 @@ cssclasses:
 
 |                    |                                                                                                         |
 | ------------------ | ------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-42--Suture-up-your-Future](../-Session-Notes/-7-Conquest/Session-42--Suture-up-your-Future.md) |
+| First Appearance:  | [Session-42--Suture-up-your-Future](../Session-Notes/-7-Conquest/Session-42--Suture-up-your-Future.md) |
 | Inspiration:       | -                                                                                                       |
 | Full name:         | -                                                                                                       |
 | Nicknames:         | -                                                                                                       |
 | Gender & Pronouns: | Any/All                                                                                                 |
-| Ancestry:          | [Daelkyr](../-Groups/Daelkyr.md)                                                                        |
-| Affiliation:       | [Daanvi](../-Locations--Planes/Daanvi.md)                                                               |
+| Ancestry:          | [Daelkyr](../Groups/Daelkyr.md)                                                                        |
+| Affiliation:       | [Daanvi](../Locations/Daanvi.md)                                                               |
 | Tarot:             | The Moon                                                                                                |
 | Nationality:       | -                                                                                                       |
 ***

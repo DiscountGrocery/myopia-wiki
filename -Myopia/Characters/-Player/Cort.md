@@ -10,13 +10,13 @@ cssclasses:
 
 |                    |                                                                                                                                                    |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--And-their-shadows-will-spread-like-oil](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md) |
+| First Appearance:  | [Session-1--And-their-shadows-will-spread-like-oil](../../Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md) |
 | Inspiration:       | Zombie Fungus                                                                                                                                      |
 | Full name:         | Cortinarius Orell                                                                                                                                  |
 | Nicknames:         | Cort, Gort                                                                                                                                         |
 | Gender & Pronouns: | Male, He/Him                                                                                                                                       |
 | Ancestry:          | Human (Former), Mycanid                                                                                                                            |
-| Affiliation:       | [Rings-of-Harmony](../../-Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../-Groups/The-Looking-Glass.md)                                     |
+| Affiliation:       | [Rings-of-Harmony](../../Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../Groups/The-Looking-Glass.md)                                     |
 | Tarot:             | The Lovers                                                                                                                                         |
 | Nationality:       | Eldeen Reaches (Former), Mycology                                                                                                                  |
 ***

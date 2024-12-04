@@ -8,7 +8,7 @@ cssclasses:
 ***
 ## Synopsis
 - 
-- Player character's introduced inside the [Blank Space](../../-Locations--Planes/Blank%20Space.md).
+- Player character's introduced inside the [Blank Space](../../Locations/Blank%20Space.md).
 	- [Sisava](../../Characters/-Player/Sisava.md)
 	- [Grumm](../../Characters/Grumm.md)
 	- [Cort](../../Characters/-Player/Cort.md)

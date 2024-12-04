@@ -18,7 +18,7 @@ cssclasses:
 | Ancestry:          | Khoravar (Former), Wight                       |
 | Affiliation:       | Blood Sails                                    |
 | Tarot:             | -                                              |
-| Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md) |
+| Nationality:       | [Farlnen](../../Locations/Farlnen.md) |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
 Burly and roguish. [Pharen](../-Player/Pharen.md) but older. Hungry for flesh and needs to eat people.

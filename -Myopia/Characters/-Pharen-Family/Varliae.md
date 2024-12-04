@@ -16,7 +16,7 @@ cssclasses:
 | Nicknames:         | -                                                   |
 | Gender & Pronouns: | Male, He/Him                                        |
 | Ancestry:          | Vampire                                             |
-| Affiliation:       | [Bloodsails](../../-Groups/Bloodsails.md), Karrnath |
+| Affiliation:       | [Bloodsails](../../Groups/Bloodsails.md), Karrnath |
 | Tarot:             | -                                                   |
 | Nationality:       | Karrnath                                            |
 ***

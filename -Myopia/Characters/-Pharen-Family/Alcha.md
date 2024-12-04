@@ -16,9 +16,9 @@ cssclasses:
 | Nicknames:         | -                                              |
 | Gender & Pronouns: | Female, She/Her                                |
 | Ancestry:          | Khoravar                                       |
-| Affiliation:       | [Bloodsails](../../-Groups/Bloodsails.md)      |
+| Affiliation:       | [Bloodsails](../../Groups/Bloodsails.md)      |
 | Tarot:             | -                                              |
-| Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md) |
+| Nationality:       | [Farlnen](../../Locations/Farlnen.md) |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
 Nurturing. Pale skinned with black hair. Face tattoos.

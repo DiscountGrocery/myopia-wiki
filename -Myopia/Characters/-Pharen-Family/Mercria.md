@@ -10,15 +10,15 @@ cssclasses:
 
 |                    |                                                                                                                                                        |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| First Appearance:  | [Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2](../../-Session-Notes/-7-Conquest/Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2.md) |
+| First Appearance:  | [Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2](../../Session-Notes/-7-Conquest/Session-43--Something-I-Can-Never-Have-Degenerate-Pt.-2.md) |
 | Inspiration:          | Mercury                                                                                                                                                |
 | Full name:         | Mercria Verta                                                                                                                                          |
 | Nicknames:         | -                                                                                                                                                      |
 | Gender & Pronouns: | Female, She/Her                                                                                                                                        |
 | Ancestry:          | Khoravar                                                                                                                                               |
-| Affiliation:       | [Bloodsails](../../-Groups/Bloodsails.md)                                                                                                              |
+| Affiliation:       | [Bloodsails](../../Groups/Bloodsails.md)                                                                                                              |
 | Tarot:             | -                                                                                                                                                      |
-| Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md)                                                                                                         |
+| Nationality:       | [Farlnen](../../Locations/Farlnen.md)                                                                                                         |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
 Direct, prideful, aggressive. Face tattoos like mother, tall and bulky, larger than Pharen.

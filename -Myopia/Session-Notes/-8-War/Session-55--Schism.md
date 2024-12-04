@@ -9,8 +9,8 @@ icon: LiBird
 ***
 ## Synopsis
 - A civil war has broken out in Cyre between Making and the Cyran government.
-- [Rime](../../Characters/Rime.md) promises to leave the [Rings-of-Harmony](../../-Groups/Rings-of-Harmony.md) to more effectively complete his mission from the [The-Prince-of-Frost](../../Characters/The-Prince-of-Frost.md).
-- [Rings-of-Harmony](../../-Groups/Rings-of-Harmony.md) returns to Eston, Cyre; Another ship, [The-Flaming-Hoop](../../../-Sacrosanct/The-Flaming-Hoop.md) is docked.
+- [Rime](../../Characters/Rime.md) promises to leave the [Rings-of-Harmony](../../Groups/Rings-of-Harmony.md) to more effectively complete his mission from the [The-Prince-of-Frost](../../Characters/The-Prince-of-Frost.md).
+- [Rings-of-Harmony](../../Groups/Rings-of-Harmony.md) returns to Eston, Cyre; Another ship, [The-Flaming-Hoop](../../../-Sacrosanct/The-Flaming-Hoop.md) is docked.
 - Players and [Tonik](../../Characters/Tonik.md) are briefed by [Evelyn](../../../-Sacrosanct/Characters/Evelyn.md)  and meet [Chris](../../../-Sacrosanct/Characters/Chris.md) and [Aaron](../../../-Sacrosanct/Characters/Aaron.md). Evelyn will 1 on 1 [Dent](../../../-Sacrosanct/Characters/Dent.md) while the party takes down [Phoen](../../Characters/Phoen.md) and [Dynamo](../../Characters/Dynamo.md). Chris and Aaron will deal with other threats.
 - Travel to Making towards the palace.
 ***

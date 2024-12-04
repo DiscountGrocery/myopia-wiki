@@ -10,7 +10,7 @@ cssclasses:
 
 |                    |                                                                                             |
 | ------------------ | ------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-40--First-It-Giveth](../-Session-Notes/-7-Conquest/Session-40--First-It-Giveth.md) |
+| First Appearance:  | [Session-40--First-It-Giveth](../Session-Notes/-7-Conquest/Session-40--First-It-Giveth.md) |
 | Inspiration:          | Nameless Narrator (Sacrosanct)                                                              |
 | Full name:         | Cygnus                                                                                      |
 | Nicknames:         | The Last Couatl                                                                             |

@@ -10,12 +10,12 @@ cssclasses:
 
 |                    |                                                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-28--Head-Like-a-Hole](../-Session-Notes/-6-Hand-me-my-shovel-we-are-going-in/Session-28--Head-Like-a-Hole.md) |
+| First Appearance:  | [Session-28--Head-Like-a-Hole](../Session-Notes/-6-Hand-me-my-shovel-we-are-going-in/Session-28--Head-Like-a-Hole.md) |
 | Inspiration:          | [Eberron: Avassh](https://eberron.fandom.com/wiki/Avassh)                                                              |
 | Full name:         | -                                                                                                                      |
 | Nicknames:         | -                                                                                                                      |
 | Gender & Pronouns: | Any/All                                                                                                                |
-| Ancestry:          | [Daelkyr](../-Groups/Daelkyr.md)                                                                                       |
+| Ancestry:          | [Daelkyr](../Groups/Daelkyr.md)                                                                                       |
 | Affiliation:       | Itself                                                                                                                 |
 | Tarot:             | -                                                                                                                      |
 | Nationality:       | Eldeen Reaches                                                                                                         |
@@ -31,7 +31,7 @@ History <i class="ri-history-line"></i> about person.
 
 ***
 ### Relations <i class="ri-user-line"></i>
-Controlled the [Mycology](../-Groups/Mycology.md).
+Controlled the [Mycology](../Groups/Mycology.md).
 Connected to [Cort](-Player/Cort.md) through the [Rotten Heart](../Elements-of-the-Prophecy/1-Rotten-Heart.md).
 
 ***

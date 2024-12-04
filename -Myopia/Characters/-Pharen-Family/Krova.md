@@ -16,9 +16,9 @@ cssclasses:
 | Nicknames:         | -                                                                                               |
 | Gender & Pronouns: | Male, He/Him                                                                                    |
 | Ancestry:          | Khoravar (Former), Ghost                                                                        |
-| Affiliation:       | [Bloodsails](../../-Groups/Bloodsails.md)                                                       |
+| Affiliation:       | [Bloodsails](../../Groups/Bloodsails.md)                                                       |
 | Tarot:             | -                                                                                               |
-| Nationality:       | [Farlnen](../../-Locations--Planes/Farlnen.md)                                                  |
+| Nationality:       | [Farlnen](../../Locations/Farlnen.md)                                                  |
 ***
 ### Personality
 Words about person.

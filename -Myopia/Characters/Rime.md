@@ -16,12 +16,12 @@ cssclasses:
 | Nicknames:         | Little Prince, Frostboy                            |
 | Gender & Pronouns: | Male, He/Him                                       |
 | Ancestry:          | Eladrin                                            |
-| Affiliation:       | [Rings-of-Harmony](../-Groups/Rings-of-Harmony.md) |
+| Affiliation:       | [Rings-of-Harmony](../Groups/Rings-of-Harmony.md) |
 | Tarot:             | -                                                  |
 | Nationality:       | Thelanis                                           |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
-Rime is a winter eladrin and a servant of the [The-Prince-of-Frost](The-Prince-of-Frost.md) (Pre [Session 60](../-Session-Notes/-9-Famine/Session-60-Will-you-smile-again-for-me.md)).
+Rime is a winter eladrin and a servant of the [The-Prince-of-Frost](The-Prince-of-Frost.md) (Pre [Session 60](../Session-Notes/-9-Famine/Session-60-Will-you-smile-again-for-me.md)).
 
 He is callous, reserved, and cold.
 

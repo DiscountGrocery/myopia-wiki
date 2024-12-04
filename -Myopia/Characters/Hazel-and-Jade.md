@@ -16,7 +16,7 @@ cssclasses:
 | Nicknames:         | -                                                    |
 | Gender & Pronouns: | Both Female, Both She/Her                            |
 | Ancestry:          | Changeling                                           |
-| Affiliation:       | [The-Looking-Glass](../-Groups/The-Looking-Glass.md) |
+| Affiliation:       | [The-Looking-Glass](../Groups/The-Looking-Glass.md) |
 | Tarot:             | -                                                    |
 | Nationality:       | [Thelanis](https://eberron.fandom.com/wiki/Thelanis) |
 |                    |                                                      |

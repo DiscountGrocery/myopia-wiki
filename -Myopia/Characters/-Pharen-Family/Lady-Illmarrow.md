@@ -18,7 +18,7 @@ cssclasses:
 | Ancestry:          | Lich                                                           |
 | Affiliation:       |                                                                |
 | Tarot:             |                                                                |
-| Nationality:       | Irani (Former), [Farlnen](../../-Locations--Planes/Farlnen.md) |
+| Nationality:       | Irani (Former), [Farlnen](../../Locations/Farlnen.md) |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
 Scary.

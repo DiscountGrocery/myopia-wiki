@@ -13,13 +13,13 @@ cssclasses:
 
 |                    |                                                                                                                                                                   |
 | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session 5: Dancing in Twilight](../-Session-Notes/-1-Gathering-Storms/Session-5--Dancing-in-Twilight.md)                                                         |
+| First Appearance:  | [Session 5: Dancing in Twilight](../Session-Notes/-1-Gathering-Storms/Session-5--Dancing-in-Twilight.md)                                                         |
 | Inspiration:       | -                                                                                                                                                                 |
 | Full name:         | Faalya d'Medani                                                                                                                                                   |
 | Nicknames:         | Aspectum, The Lord of Eyes                                                                                                                                        |
 | Gender & Pronouns: | Female, She/Her                                                                                                                                                   |
 | Ancestry:          | [Khoravar](https://eberron.fandom.com/wiki/Half-elf)                                                                                                              |
-| Affiliation:       | [House Medani](https://eberron.fandom.com/wiki/House_Medani) (Former), <br> [The-Looking-Glass](../-Groups/The-Looking-Glass.md) (Former), <br> [Bella](Bella.md) |
+| Affiliation:       | [House Medani](https://eberron.fandom.com/wiki/House_Medani) (Former), <br> [The-Looking-Glass](../Groups/The-Looking-Glass.md) (Former), <br> [Bella](Bella.md) |
 | Tarot:             | The Fool                                                                                                                                                          |
 | Nationality:       | [Brelish](https://eberron.fandom.com/wiki/Breland) (Former)                                                                                                       |
 ***
@@ -34,7 +34,7 @@ She tricked the party into collecting a powerful artifact, the hand of the lady 
 ***
 ### Relations <i class="ri-user-line"></i>
 Had an affair with [Rylan](Rylan.md) as a political stunt, both in the Arcanist political party.
-Worked with [The Looking Glass](../-Groups/The-Looking-Glass.md). (Former)
+Worked with [The Looking Glass](../Groups/The-Looking-Glass.md). (Former)
 Student of [Bella](Bella.md).
 
 ***

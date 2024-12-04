@@ -10,13 +10,13 @@ cssclasses:
 
 |                    |                                                                                                                                                                            |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session 1](../../-Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md)                                                                 |
+| First Appearance:  | [Session 1](../../Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md)                                                                 |
 | Inspiration:       | Yuan-Ti lore                                                                                                                                                               |
 | Full name:         | Sisava                                                                                                                                                                     |
 | Nicknames:         | Bastard, The Snake                                                                                                                                                         |
 | Gender & Pronouns: | Male-Presenting, They/Them                                                                                                                                                 |
 | Ancestry:          | Yuan-Ti                                                                                                                                                                    |
-| Affiliation:       | [Rings-of-Harmony](../../-Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../-Groups/The-Looking-Glass.md), [The Mockery](https://eberron.fandom.com/wiki/The_Mockery) |
+| Affiliation:       | [Rings-of-Harmony](../../Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../Groups/The-Looking-Glass.md), [The Mockery](https://eberron.fandom.com/wiki/The_Mockery) |
 | Tarot:             | The Devil                                                                                                                                                                  |
 | Nationality:       | Xen'drik                                                                                                                                                                   |
 ***

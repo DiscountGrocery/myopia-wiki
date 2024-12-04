@@ -16,7 +16,7 @@ cssclasses:
 | Nicknames:         |                                                                                                            |
 | Gender & Pronouns: | Any/All                                                                                                    |
 | Ancestry:          | Angel                                                                                                      |
-| Affiliation:       | [Daanvi](../-Locations--Planes/Daanvi.md)                                                                  |
+| Affiliation:       | [Daanvi](../Locations/Daanvi.md)                                                                  |
 | Tarot:             | -                                                                                                          |
 | Nationality:       | -                                                                                                          |
 ***

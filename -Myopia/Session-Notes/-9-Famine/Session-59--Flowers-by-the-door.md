@@ -17,7 +17,7 @@ cssclasses:
 - A giant pit, foot steps go around.
 - [Raiden](../../Characters/Raiden.md) and [Leon](../../Characters/Leon.md) are at the other side. Debate ensues, Pharen goes to speak. They are not hostile.
 	- They dropped off a body from another timeline into the pit.
-	- A [Daelkyr](../../-Groups/Daelkyr.md) resides in the pit that prevents people from returning to their timelines. 
+	- A [Daelkyr](../../Groups/Daelkyr.md) resides in the pit that prevents people from returning to their timelines. 
 - Duck figures out that Vrennan feels he is without purpose and therefore he will die.
 - A large palace.
 	- Wooden stakes impale many giants and elves. Thousands of them.
@@ -34,7 +34,7 @@ cssclasses:
 * Cort is actually killed for real.
 * [Sisava](../../Characters/-Player/Sisava.md) destroys the fusion, they are separated.
 ***
-- Collected the minute [Clock-Hand](../../-Items/Clock-Hand.md).
+- Collected the minute [Clock-Hand](../../Objects/Clock-Hand.md).
 - Collected the [5-The-Tome](../../Elements-of-the-Prophecy/5-The-Tome.md).
 - Rime rejoins. ([6-The-Crystal](../../Elements-of-the-Prophecy/6-The-Crystal.md))
 - Return the stolen items back to Misthaven.
