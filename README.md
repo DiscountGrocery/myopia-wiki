@@ -18,14 +18,6 @@ Myopia is real!
 <i class="ri-user-line"></i></i> Characters
 </span>
 </a>
-
-<br>
-<span style="font-size: 96px;">
-<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Elements-of-the-Prophecy/Elements-of-the-Prophecy">
-<i class="ra ra-circle-of-circles"></i></i></i> Elements
-</a>
-</span>
-
 <br>
 
 <a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Session-Notes/Session-Notes">
@@ -53,6 +45,13 @@ Myopia is real!
 <span style="font-size: 96px;">
 <a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Locations/Locations">
 <i class="ri-map-pin-line"></i> Locations
+</a>
+</span>
+
+<br>
+<span style="font-size: 96px;">
+<a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Elements-of-the-Prophecy/Elements-of-the-Prophecy">
+<i class="ra ra-circle-of-circles"></i></i></i> Elements
 </a>
 </span>
 
