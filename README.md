@@ -14,20 +14,20 @@ Myopia is real!
 
 
 <a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/Characters">
-<span style="font-size: 96px;">
+<span style="font-size: 64px;">
 <i class="ri-user-line"></i></i> Characters
 </span>
 </a>
 <br>
 
 <a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Session-Notes/Session-Notes">
-<span style="font-size: 96px;">
+<span style="font-size: 64px;">
 <i class="ri-booklet-line"></i> Session Notes
 </span>
 </a>
 
 <br>
-<span style="font-size: 96px;">
+<span style="font-size: 64px;">
 <a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Groups/Groups">
 <i class="ri-user-community-line"></i> Groups
 </a>
@@ -36,20 +36,20 @@ Myopia is real!
 <br>
 
 <a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Objects/Objects.">
-<span style="font-size: 96px;">
+<span style="font-size: 64px;">
 <i class="ri-settings-line"></i> Objects
 </span>
 </a>
 
 <br>
-<span style="font-size: 96px;">
+<span style="font-size: 64px;">
 <a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Locations/Locations">
 <i class="ri-map-pin-line"></i> Locations
 </a>
 </span>
 
 <br>
-<span style="font-size: 96px;">
+<span style="font-size: 64px;">
 <a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Elements-of-the-Prophecy/Elements-of-the-Prophecy">
 <i class="ra ra-circle-of-circles"></i></i></i> Elements
 </a>
