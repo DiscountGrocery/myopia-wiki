@@ -3,17 +3,16 @@
 <span style="font-size: 28px;">
 
 
-<style>a:link {color: red;}</style>
-
 # Characters
 <br>
+* means thing is completed 😁
 
 ## Player Characters
 
 |                                                              |                                                                  |
 | ------------------------------------------------------------ | ---------------------------------------------------------------- |
-| <a style="color:red" href = https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/-Player/Cort)>Cort</a> <i class="ra ra-super-mushroom"></i> | <a style="color:green" href = https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/-Player/Duck)>Duck</a> <i class="ri-music-2-line"></i>          |
-| <a style="color:red" href = https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/-Player/Sisava)>Sisava</a> <i class="ra ra-snake"></i>      | <a style="color:red" href = https://discountgrocery.github.io/myopia-wiki/-Myopia/Characters/-Player/Duck)>Pharen</a> <i class="ra ra-lightning-bolt"></i> |
+| [Cort](-Player/Cort.md) <i class="ra ra-super-mushroom"></i> | * [Duck](-Player/Duck.md) <i class="ri-music-2-line"></i>          |
+| [Sisava](-Player/Sisava.md) <i class="ra ra-snake"></i>      | [Pharen](-Player/Pharen.md) <i class="ra ra-lightning-bolt"></i> |
 
 <hr>
 
