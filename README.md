@@ -6,6 +6,7 @@
 # Myopia Wiki
 
 Myopia is real!g
+um..
 
 <link rel="shortcut icon" href="/images/favicon.ico">
 
