@@ -27,7 +27,7 @@
 | [The Forgotten Prince](The-Forgotten-Prince.md) <i class="ra ra-arcane-mask"></i>                | [Lorraine](Lorraine.md) <i class="ra ra-feather-wing"></i>         | [Tonik](Tonik.md) <i class="ri-settings-4-line"></i>              |
 <hr>
 
-### Pharen's Family
+## Pharen's Family
 
 
 |                                                                           |                                                                                           |
