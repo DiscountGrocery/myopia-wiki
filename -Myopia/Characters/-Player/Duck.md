@@ -13,8 +13,8 @@ cssclasses:
 
 |                    |                                                                                                                                                    |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--And-their-shadows-will-spread-like-oil](../../Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md) |
-| Inspiration:       | Invincible                                                                                                                                         |
+| First Appearance:  | [Session 1](../../Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md) |
+| Inspiration:       | Invincible, Spider Man                                                                                                                                         |
 | Full name:         | Lydian d'Cannith                                                                                                                                   |
 | Nicknames:         | Duck, Prince Boy, Staedtler Fischer,                                                                                                               |
 | Gender & Pronouns: | Male, He/Him (Variable)                                                                                                                            |

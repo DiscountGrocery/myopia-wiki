@@ -2,3 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
+details {
+    display: block;
+  }
+  
+  summary {
+    display: list-item;
+  }
