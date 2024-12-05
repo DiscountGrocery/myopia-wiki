@@ -5,7 +5,16 @@ cssclasses:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
 
-# Tonik :LiBrainCog:
+# Tonik
+
+<br>
+<span style="font-size: 26px;">
+<blockquote>
+"A son like you deserves better than a father like me."
+</blockquote>
+</span>
+<br>
+
 ### Quick Facts
 
 |                    |                                                                                                          |

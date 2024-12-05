@@ -6,6 +6,15 @@ cssclasses:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
 
 # Pharen <i class="ra ra-lightning-bolt"></i>
+
+<br>
+<span style="font-size: 26px;">
+<blockquote>
+"Anyone know a way to make some money?"
+</blockquote>
+</span>
+<br>
+
 ### Quick Facts
 
 |                    |                                                                                                                                                           |

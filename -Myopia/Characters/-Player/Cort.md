@@ -6,11 +6,19 @@ cssclasses:
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
 
 # Cort <i class="ra ra-super-mushroom"></i>
+<br>
+<span style="font-size: 26px;">
+<blockquote>
+"Are you ready to meet God?"
+</blockquote>
+</span>
+<br>
+
 ### Quick Facts
 
 |                    |                                                                                                                                                    |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--And-their-shadows-will-spread-like-oil](../../Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md) |
+| First Appearance:  | [Session 1](../../Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md) |
 | Inspiration:       | Zombie Fungus                                                                                                                                      |
 | Full name:         | Cortinarius Orell                                                                                                                                  |
 | Nicknames:         | Cort, Gort                                                                                                                                         |
