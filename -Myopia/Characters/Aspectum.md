@@ -7,6 +7,13 @@ cssclasses:
 
 # Aspectum <i class="ra ra-bleeding-eye"></i> 
 
+<br>
+<span style="font-size: 26px;">
+<blockquote>
+"Point proven."
+</blockquote>
+</span>
+<br>
 
 
 ### Quick Facts
