@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
-<span style="font-size: 28px;"></span>
+<span style="font-size: 28px;">
 
 # Characters
 <br>
@@ -40,11 +40,12 @@
 ## Neutral / Unaligned
 
 
-|                                                                                      |                                                          |                                                                                  |
-| ------------------------------------------------------------------------------------ | -------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| [Avassh](Avassh.md) <i class="ra ra-dead-tree"></i>                                  | [Grumm](Grumm.md) <i class="ri-candle-line"></i>         | [The Prince of Frost](The-Prince-of-Frost.md) <i class="ra ra-frost-emblem"></i> |
-| [Lady Illmarrow](-Pharen-Family/Lady-Illmarrow.md) <i class="ra ra-death-skull"></i> | [Maeve](Maeve.md) <i class="ri-checkbox-blank-line"></i> | [Rylan](Rylan.md) <i class="ri-eye-off-line"></i>                                |
-| [The Taste of Tapioca](The-Taste-of-Tapioca.md) <i class="ri-cup-line"></i>          |                                                          |                                                                                  |
+|                                                                                      |                                                                                  |
+| ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| [Avassh](Avassh.md) <i class="ra ra-dead-tree"></i>                                  | [Grumm](Grumm.md) <i class="ri-candle-line"></i>                                 |
+| [Lady Illmarrow](-Pharen-Family/Lady-Illmarrow.md) <i class="ra ra-death-skull"></i> | [Maeve](Maeve.md) <i class="ri-checkbox-blank-line"></i>                         |
+| [The Taste of Tapioca](The-Taste-of-Tapioca.md) <i class="ri-cup-line"></i>          | [The Prince of Frost](The-Prince-of-Frost.md) <i class="ra ra-frost-emblem"></i> |
+| [Rylan](Rylan.md) <i class="ri-eye-off-line"></i>                                    |                                                                                  |
 <hr>
 
 ## Antagonists
