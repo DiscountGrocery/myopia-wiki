@@ -5,7 +5,7 @@
 
 # Myopia Wiki
 
-Myopia is real!
+Myopia is real!g
 
 <link rel="shortcut icon" href="/images/favicon.ico">
 
