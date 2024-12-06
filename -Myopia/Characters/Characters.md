@@ -1,11 +1,11 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
-<span style="font-size: 20px;">
+<span style="font-size: 14px;">
 
 
 # Characters
 <br>
-* means thing is completed 😁
+* means thing is completed 😁 <br>
 
 ## Player Characters
 
