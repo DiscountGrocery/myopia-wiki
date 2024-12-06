@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
-<span style="font-size: 18px;">
+<span style="font-size: 20px;"></span>
 
 
 # Characters
@@ -24,7 +24,7 @@
 | [Blade](Blade.md) <i class="ri-checkbox-blank-line"></i>                                             | [Cygnus](Cygnus.md) <i class="ri-checkbox-blank-line"></i>         | [Dirge](Dirge.md) <i class="ri-checkbox-blank-line"></i>          |
 | [Grasp](Grasp.md)  <i class="ri-hand"></i>                                                           | [Hazel & Jade](Hazel-and-Jade.md) <i class="ra ra-two-hearts"></i> | [Jhor'aash](Jhor'aash.md) <i class="ra ra-shotgun-shell"></i>     |
 | [Maylyn](Maylyn.md)  <i class="ra ra-candle"></i>                                                    | [Oargev](Oargev.md) <i class="ra ra-crown"></i>                    | [Rusty](Rusty.md) <i class="ra ra-tentacle"></i>                  |
-| [The Feeling of <br>Being Stabbed](The-Feeling-of-Being-Stabbed.md) <i class="ri-triangle-line"></i> | [Ghost](Ghost.md) <i class="ri-checkbox-blank-line"></i>           | [The Professor](The-Professor.md) <i class="ri-glasses-line"></i> |
+| [The Feeling of Being <br>Stabbed](The-Feeling-of-Being-Stabbed.md) <i class="ri-triangle-line"></i> | [Ghost](Ghost.md) <i class="ri-checkbox-blank-line"></i>           | [The Professor](The-Professor.md) <i class="ri-glasses-line"></i> |
 | [Tu'gaal](Tu'gaal.md) <i class="ri-eth-line"></i>                                                    | [Vrennan](Vrennan.md) <i class="ra ra-fire"></i>                   | [Scalpel](Scalpel.md) <i class="ri-syringe-line"></i>             |
 | [The Forgotten <br>Prince](The-Forgotten-Prince.md) <i class="ra ra-arcane-mask"></i>                | [Lorraine](Lorraine.md) <i class="ra ra-feather-wing"></i>         | [Tonik](Tonik.md) <i class="ri-settings-4-line"></i>              |
 <hr>
