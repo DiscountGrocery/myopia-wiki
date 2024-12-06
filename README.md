@@ -22,7 +22,7 @@ Myopia is real!
 
 <a href="https://discountgrocery.github.io/myopia-wiki/-Myopia/Session-Notes/Session-Notes">
 <span style="font-size: 54px;">
-<i class="ri-booklet-line"></i> Session Notes
+<i class="ri-booklet-line"></i> Notes
 </span>
 </a>
 
