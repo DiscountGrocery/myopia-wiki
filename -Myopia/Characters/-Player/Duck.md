@@ -13,7 +13,7 @@ cssclasses:
 <br>
 <span style="font-size: 36px;">
 <blockquote>
-Second place is the first loser.
+"---"
 </blockquote>
 </span>
 <br>
@@ -25,7 +25,7 @@ Second place is the first loser.
 | First Appearance:  | [Session 1](../../Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md) |
 | Inspiration:       | Invincible, Spider Man                                                                                                                                         |
 | Full name:         | Lydian d'Cannith                                                                                                                                   |
-| Nicknames:         | Duck, Prince Boy, Staedtler Fischer,                                                                                                               |
+| Nicknames:         | Duck, Prince-boy, Staedtler Fischer,                                                                                                               |
 | Gender & Pronouns: | Male, He/Him (Variable)                                                                                                                            |
 | Ancestry:          | [Changeling](https://eberron.fandom.com/wiki/Changeling)                                                                                           |
 | Affiliation:       | [Rings-of-Harmony](../../Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../Groups/The-Looking-Glass.md)                                     |
@@ -37,7 +37,7 @@ Duck is a naive yet charming changeling, with extraordinary performance abilitie
 
 He is empathetic yet self-absorbed, and usually very impulsive. He is obsessed with impressing other people.
 
-While in his changeling form, Duck is average height, with somewhat lanky proportions. His skin is snow white and his hair is curly and ash-gray. His eyes often lack pupils. However, his form is subject to the desire of his shape-shifting abilities.
+While in his changeling form, Duck is average height, with somewhat lanky proportions. His skin is snow white and his hair is curly and ash-gray. His eyes lack pupils. However, his form is subject to the desire of his shape-shifting abilities.
 
 Duck's attire is a ['shiftweave'](https://eberron.fandom.com/wiki/Shiftweave) toga and waist cape, usually colored a deep Saxe blue. Duck's fashion sense is gaudy and extravagant, always manipulating his shiftweave to dress the part. Other common accessories include: a golden cape and sandals.
 
@@ -47,18 +47,15 @@ Duck's attire is a ['shiftweave'](https://eberron.fandom.com/wiki/Shiftweave) to
 <details> 
 	<summary>
 	976 - 994 YK</summary>
-	<p><br>
-	Duck is stupid<br>
-	AA<br>
-	write br after every line <br>
-	The events of Session 60
-	</p>
+	<p><blockquote>
+	Duck is stupid
+	</blockquote></p>
 </details>
 
 
 <details>
 	<summary>1010 - 1015 YK</summary>
-	<p><br>
+	<p><blockquote>
 	Duck regained consciousness, with no memory but his nickname, in 1010 YK, and gained the affection of a struggling music-store owner, Staedtler Fischer. The two became close friends, and Duck began to support the store in exchange for a place to stay.
 
 Duck learned the ins and outs of the music scene in [Sharn](https://eberron.fandom.com/wiki/Sharn.) and learned to stay hidden using personas sustained through his shape-shifting abilities. 
@@ -66,13 +63,13 @@ Duck learned the ins and outs of the music scene in [Sharn](https://eberron.fand
 After garnering large audiences, some of Duck's popular elven personas caught the attention of [House Phiarlan](https://eberron.fandom.com/wiki/House_Phiarlan). Parasitical Relationships formed with the naive Duck until local conflict escalated between House Phiarlan and [House Thuranni](https://eberron.fandom.com/wiki/House_Thuranni). Duck's mentor was accidentally killed in the crossfire, and Duck presumed his identity to withdraw and protect himself.
 
 Years passed and Duck subsisted on low-paying gigs and worship of [the Traveler](https://eberron.fandom.com/wiki/The_Traveler).
-	</p>
+	</blockquote></p>
 </details>
 
 
 <details>
 	<summary>Present</summary>
-	<p><br>
+	<p><blockquote>
 
 Duck is introduced as Staedtler. 
 
@@ -91,7 +88,7 @@ Duck re-meets the forgotten prince in [Session 23](../../Session-Notes/-5-Some-m
 Duck manifests an [aberrant mark](https://eberron.fandom.com/wiki/Aberrant_dragonmark) in [Session 44](../../Session-Notes/-7-Conquest/Session-44--Into-the-Hallow.md).
 
 Duck's mask is permanently scarred by Phoen [Session 55](../../Session-Notes/-8-War/Session-55--Schism.md)
-    </p>
+    </blockquote></p>
 </details><br>
 
 ***
