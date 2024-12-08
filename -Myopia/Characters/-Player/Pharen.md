@@ -10,24 +10,24 @@ cssclasses:
 <br>
 <span style="font-size: 26px;">
 <blockquote>
-"Anyone know a way to make some money?"
+"Anyone know a way to make some dosh?"
 </blockquote>
 </span>
 <br>
 
 ### Quick Facts
 
-|                    |                                                                                                                                                           |
-| ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session-1--And-their-shadows-will-spread-like-oil](../../Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md)      |
-| Inspiration:          | Goku (DB), Senku (Dr. Stone)                                                                                                                              |
-| Full name:         | Pharen Verta                                                                                                                                              |
-| Nicknames:         | The Bloodsail                                                                                                                                             |
-| Gender & Pronouns: | Male, He/Him                                                                                                                                              |
-| Ancestry:          | Khoravar                                                                                                                                                  |
+|                    |                                                                                                                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| First Appearance:  | [Session 1](../../Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md)                                              |
+| Inspiration:       | Goku (DB), Senku (Dr. Stone)                                                                                                                           |
+| Full name:         | Pharen Verta                                                                                                                                           |
+| Nicknames:         | The Bloodsail                                                                                                                                          |
+| Gender & Pronouns: | Male, He/Him                                                                                                                                           |
+| Ancestry:          | Khoravar                                                                                                                                               |
 | Affiliation:       | [Rings-of-Harmony](../../Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../Groups/The-Looking-Glass.md), [Bloodsails](../../Groups/Bloodsails.md) |
-| Tarot:             | Judgement                                                                                                                                                 |
-| Nationality:       | [Farlnen](../../Locations/Farlnen.md)                                                                                                            |
+| Tarot:             | Judgement                                                                                                                                              |
+| Nationality:       | [Farlnen](../../Locations/Farlnen.md)                                                                                                                  |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
 Pharen
