@@ -5,7 +5,7 @@
 table {
   border: 1px solid black;
   table-layout: fixed;
-  width: 600px;
+  width: 900px;
 }
 
 th,
@@ -19,6 +19,8 @@ td {
 <span style="font-size: 20px;">
 # Characters
 <br>
+
+BBB
 
 ## Player Characters
 
