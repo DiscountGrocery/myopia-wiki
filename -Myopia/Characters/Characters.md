@@ -5,7 +5,7 @@
 table {
   border: 1px solid black;
   table-layout: fixed;
-  width: 900px;
+  width: 600px;
 }
 
 th,
@@ -20,7 +20,6 @@ td {
 # Characters
 <br>
 
-BBB
 
 ## Player Characters
 
