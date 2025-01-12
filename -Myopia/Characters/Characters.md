@@ -1,7 +1,21 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
-<span style="font-size: 30px;">
+<span style="font-size: 20px;">
+<style>
+table {
+  border: 1px solid black;
+  table-layout: fixed;
+  width: 600px;
+  height: 300px;
+}
 
+th,
+td {
+  border: 1px solid black;
+  width: 100px;
+  overflow: hidden;
+}
+</style>
 
 # Characters
 <br>
@@ -9,8 +23,8 @@
 ## Player Characters
 
 |                                                              |                                                                  |
-| ------------------------------------------------------------ | ---------------------------------------------------------------- |
-| [Cort](-Player/Cort.md) <i class="ra ra-super-mushroom"></i> |  [Duck](-Player/Duck.md) <i class="ri-music-2-line"></i>          |
+| :--------------------------------------------------:|:----------------------------------------------: |
+| [<i class="ra ra-super-mushroom ra-3x"></i><br>Cort](-Player/Cort.md) |  [<i class="ri-music-2-line ra-3x"></i><br>Duck](-Player/Duck.md)      |
 | [Sisava](-Player/Sisava.md) <i class="ra ra-snake"></i>      | [Pharen](-Player/Pharen.md) <i class="ra ra-lightning-bolt"></i> |
 
 <hr><br>
@@ -18,14 +32,14 @@
 ## Allies
 
 
-|                                                                                                      |                                                                    |                                                                   |
+|          |    |            |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| [Blade](Blade.md) <i class="ra ra-sword"></i>                                             | [Cygnus](Cygnus.md) <i class="ra ra-crystal-ball"></i>         | [Dirge](Dirge.md) <i class="ra ra-book"></i>          |
+| [Blade](Blade.md) <i class="ra ra-sword"></i>                                             | [Cygnus](Cygnus.md) <i class="ra ra-crystal-ball"></i> | [Dirge](Dirge.md) <i class="ra ra-book"></i>           |
 | [Grasp](Grasp.md)  <i class="ri-hand"></i>                                                           | [Hazel & Jade](Hazel-and-Jade.md) <i class="ra ra-two-hearts"></i> | [Jhor'aash](Jhor'aash.md) <i class="ra ra-rifle"></i>     |
 | [Maylyn](Maylyn.md)  <i class="ra ra-candle"></i>                                                    | [Oargev](Oargev.md) <i class="ra ra-crown"></i>                    | [Rusty](Rusty.md) <i class="ra ra-tentacle"></i>                  |
-| [The Feeling of Being <br>Stabbed](The-Feeling-of-Being-Stabbed.md) <i class="ri-triangle-line"></i> | [Ghost](Ghost.md) <i class="ri-glasses-line"></i>           | [The Professor](The-Professor.md) <i class="ri-home-9-line"></i>|
+| [The Feeling of Being Stabbed](The-Feeling-of-Being-Stabbed.md) <i class="ri-triangle-line"></i> | [Ghost](Ghost.md) <i class="ri-glasses-line"></i>           | [The Professor](The-Professor.md) <i class="ri-home-9-line"></i>|
 | [Tu'gaal](Tu'gaal.md) <i class="ri-eth-line"></i>                                                    | [Vrennan](Vrennan.md) <i class="ra ra-fire"></i>                   | [Scalpel](Scalpel.md) <i class="ri-syringe-line"></i>             |
-| [The Forgotten <br>Prince](The-Forgotten-Prince.md) <i class="ra ra-arcane-mask"></i>                | [Lorraine](Lorraine.md) <i class="ra ra-feather-wing"></i>         | [Tonik](Tonik.md) <i class="ri-settings-4-line"></i>              |
+| [The Forgotten Prince](The-Forgotten-Prince.md) <i class="ra ra-arcane-mask"></i>                | [Lorraine](Lorraine.md) <i class="ra ra-feather-wing"></i>         | [Tonik](Tonik.md) <i class="ri-settings-4-line"></i>              |
 <hr><br>
 
 ## Pharen's Family
@@ -33,7 +47,7 @@
 
 |                                                                           |                                                                                           |
 | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-| [Alcha](-Pharen-Family/Alcha.md)    | [Argen & Auren](-Pharen-Family/Argen-and-Auren.md)  |
+| [Alcha](-Pharen-Family/Alcha.md)   | [Argen & Auren](-Pharen-Family/Argen-and-Auren.md)  |
 | [Varya](-Pharen-Family/Varya.md)    | [Mercria](-Pharen-Family/Mercria.md)        |
 | [Krova](-Pharen-Family/Krova.md)    | [Varliae](-Pharen-Family/Varliae.md)                |
 | [Ferric](-Pharen-Family/Ferric.md)  | [Savia](-Pharen-Family/Savia.md)               |
