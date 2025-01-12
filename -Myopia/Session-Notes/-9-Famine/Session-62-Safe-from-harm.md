@@ -9,7 +9,7 @@ cssclasses:
 ## Synopsis
 - Guards, all warforged, are on elevated platforms.
 - ID's inspected, convince them we have been in the fog for years.
-- Head to Menthis Plateau, see many warforged guards. No elevators. A hologram of [Daren](../../../-Sacrosanct/Characters/Daren.md) confirms Tonik's suspicions that --.
+- Head to Menthis Plateau, see many warforged guards. No elevators. A hologram of [Daren](../../../-Sacrosanct/Characters/Daren.md) confirms [Tonik](../../Characters/Tonik.md)'s suspicions.
 - Arrive in Forgelight district, speaker stones alert that those found wandering in the streets will be arrested. Very totalitarian.
 - Find a temporary house. Avoiding logisigcs office.
 - Exploring various districts.
@@ -49,4 +49,6 @@ cssclasses:
 		- Leader of the group is told to be Bravo, bearing resemblance to [Chris](../../../-Sacrosanct/Characters/Chris.md).
 	- Explore more
 		- A guard is dead in an alley, markings say Nobody, and a sigil of an N with a circle inside.
-		- 
+***
+### COMBAT
+* End up fighting what seems to be this realities versions of Duck and [Sisava](../../Characters/-Player/Sisava.md), being named NOBODY and CIPHER respectively.
