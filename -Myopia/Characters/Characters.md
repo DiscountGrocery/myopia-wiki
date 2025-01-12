@@ -2,12 +2,13 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
 <font style="font-size:0px">
 <style>
-text-align: center;
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
 table {
   border: 1px solid black;
   table-layout: fixed;
   width: 600px;
-  text-align: center;
 }
 
 th,
