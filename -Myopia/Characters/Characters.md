@@ -28,7 +28,7 @@ td {
 |                                                              |                                                                  |
 | :--------------------------------------------------:|:----------------------------------------------: |
 | [<i class="ra ra-super-mushroom ra-3x"></i><br>Cort](-Player/Cort.md) |  [<i class="ri-music-2-line ra-3x"></i><br>Duck](-Player/Duck.md)      |
-| [Sisava](-Player/Sisava.md) <i class="ra ra-snake"></i>      | [Pharen](-Player/Pharen.md) <i class="ra ra-lightning-bolt"></i> |
+| [<i class="ra ra-snake ra-3x"></i><br>Sisava](-Player/Sisava.md)       | [<i class="ra ra-lightning-bolt ra-3x"></i><br>Pharen](-Player/Pharen.md)  |
 
 <hr><br>
 
