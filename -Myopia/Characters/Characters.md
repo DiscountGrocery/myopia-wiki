@@ -8,6 +8,7 @@ table {
   table-layout: fixed;
   width: 600px;
   height: 300px;
+  text-align: center;
 }
 
 th,
