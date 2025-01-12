@@ -25,7 +25,7 @@ td {
 
 |                                                              |                                                                  |
 | :--------------------------------------------------:|:----------------------------------------------: |
-| [<i class="ra ra-super-mushroom ra-3x"></i><br>Cort](-Player/Cort.md) |  [<i class="ri-music-2-line ra-2x"></i><br>Duck](-Player/Duck.md)      |
+| [<i class="ra ra-super-mushroom ra-3x"></i><br>Cort](-Player/Cort.md) |  [<i class="ri-music-ai-fill ra-2x"></i><br>Duck](-Player/Duck.md)      |
 | [<i class="ra ra-snake ra-3x"></i><br>Sisava](-Player/Sisava.md)       | [<i class="ra ra-lightning-bolt ra-3x"></i><br>Pharen](-Player/Pharen.md)  |
 
 <hr><br>
@@ -73,7 +73,7 @@ td {
 | [<i class="ra ra-bleeding-eye ra-3x"></i><br>Aspectum](Aspectum.md)  | [<i class="ra ra-hearts-card ra-3x"></i><br>Chance](Chance.md)     | [<i class="ra ra-feathered-wing ra-3x"></i><br>Phoen](Phoen.md)    |
 | [<i class="ra ra-lightning-sword ra-3x"></i><br>Leon](Leon.md)       | [<i class="ra ra-venomous-snake ra-3x"></i><br>Lena](Lena.md)      | [<i class="ra ra-sun ra-3x"></i><br>Elar](Elar.md)    |
 | [<i class="ri-eye-line ra-2x"></i><br>Bella](Bella.md)               | [<i class="ra ra-lightning-trio ra-3x"></i><br>Raiden](Raiden.md)  | [<i class="ra ra-torch ra-3x"></i><br>Judas](Judas.md)  |
-| [<i class="ri-shield-cross-line ra-2x"></i><br>Dynamo](Dynamo.md)    | [<i class="ra ra-spider-face ra-3x"></i><br>The Spider](The-Spider.md)                                                          |                                                          |
+| [<i class="ri-shield-cross-line ra-2x"></i><br>Dynamo](Dynamo.md)    | [<i class="ri-focus-3-line ra-2x"></i></i><br>The Spider](The-Spider.md)                                                          |                                                          |
 <hr><br>
 
 ## Former Antagonists
