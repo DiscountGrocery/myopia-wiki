@@ -15,3 +15,22 @@ cssclasses:
 *** 
 - [Grasp](../../Characters/Grasp.md) is enthused by the prospect of the fusion of Rime and [Vrennan](../../Characters/Vrennan.md). 
 - [Cort](../../Characters/-Player/Cort.md) is revived by [Queen Evelyn](../../../-Sacrosanct/Characters/Evelyn.md). 
+***
+- Travel to the space of Whitehearth, entered the [The-Forgotten-Prince](../../Characters/The-Forgotten-Prince.md)'s domain.
+- Duck chooses to have his history revealed to him using the [minute hand](../../Objects/Clock-Hand.md).
+	- The party will explore a mindscape, similar to Tonik's.
+***
+WRENCH
+* Duck's original name is revealed to be Lydian.
+
+BATON
+- bBBBBBB
+- 
+
+FEATHER
+- b
+
+***
+
+
+

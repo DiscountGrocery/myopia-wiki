@@ -24,13 +24,13 @@ cssclasses:
 | Full name:         | Pharen Verta                                                                                                                                           |
 | Nicknames:         | The Bloodsail                                                                                                                                          |
 | Gender & Pronouns: | Male, He/Him                                                                                                                                           |
-| Ancestry:          | Khoravar                                                                                                                                               |
+| Ancestry:          | Khoravar, Lich                                                                                                                                         |
 | Affiliation:       | [Rings-of-Harmony](../../Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../Groups/The-Looking-Glass.md), [Bloodsails](../../Groups/Bloodsails.md) |
 | Tarot:             | Judgement                                                                                                                                              |
 | Nationality:       | [Farlnen](../../Locations/Farlnen.md)                                                                                                                  |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
-Pharen
+Pharen is a determined yet apathetic Khoravar with extreme prowess in sorcery. He is motivated almost entirely by self-interest.
 
 ***
 ### History <i class="ri-history-line"></i>

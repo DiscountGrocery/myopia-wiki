@@ -63,7 +63,7 @@ Real good at shooting. Resistant to poison, emotional, and mental effects.
 K
 
 #### Resistances
-A psychopathic mind reduces the power of emotional and mental effects on Sisava.
+Sisava's psychopathic mind reduces the power of emotional and mental effects.
 Their Yuan-Ti heritage also provides a natural resistance to poison.
 
 ***

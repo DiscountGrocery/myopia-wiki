@@ -31,7 +31,7 @@ cssclasses:
 ### General <i class="ri-checkbox-blank-line"></i>
 Cort is a naive mycanid manipulated and influenced by Daelkyr. He is kind but ruthless and often gullible.
 
-He is bald and frail, often wearing a thick ragged cloak. 
+He is bald and frail, often wearing a torn button-up or thick ragged cloak that hides his decomposing form.
 His body surrounds the [Rotten Heart](../../Elements-of-the-Prophecy/1-Rotten-Heart.md). 
 
 ***
@@ -55,7 +55,11 @@ Cort is the heaviest melee hitter in the main party, fighting up-close and pulli
 - Battle-axe given to him by Rusty.
 - Psionic blade that appears like a longsword.
 #### Daelkyr/Xoriat Influence
-The Rotten Heart renders Cort effectively immortal, regrowing into a new form every few centuries after death.
+The Rotten Heart renders Cort effectively immortal, regrowing into a new centuries after death.
+
+Cort channels this influence through thaumaturgical implements.
+- Looking Glass
+- Champagne Fluke 
 
 
 ***

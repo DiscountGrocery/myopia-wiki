@@ -52,6 +52,7 @@
 		- [[The-Forgotten-Prince]]
 		- [[The-Prince-of-Frost]]
 		- [[The-Professor]]
+		- [[The-Spider]]
 		- [[The-Taste-of-Tapioca]]
 		- [[Tonik]]
 		- [[Tu'gaal]]

@@ -49,5 +49,6 @@ Elementary mastery over metal and fire.
 ### Gallery <i class="ri-image-line"></i>
 
 ![tuGall](../../../../../99%20-%20META/attachments/tuGall.png)
+Quickening - King Buffalo
 
 ***

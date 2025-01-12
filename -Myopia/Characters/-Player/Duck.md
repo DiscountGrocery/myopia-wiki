@@ -20,27 +20,28 @@ cssclasses:
 
 ### Quick Facts
 
-|                    |                                                                                                                                                    |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
-| First Appearance:  | [Session 1](../../Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md) |
-| Inspiration:       | Invincible, Spider Man                                                                                                                                         |
-| Full name:         | Lydian d'Cannith                                                                                                                                   |
-| Nicknames:         | Duck, Prince-boy, Staedtler Fischer,                                                                                                               |
-| Gender & Pronouns: | Male, He/Him (Variable)                                                                                                                            |
-| Ancestry:          | [Changeling](https://eberron.fandom.com/wiki/Changeling)                                                                                           |
-| Affiliation:       | [Rings-of-Harmony](../../Groups/Rings-of-Harmony.md), [The-Looking-Glass](../../Groups/The-Looking-Glass.md)                                     |
-| Tarot:             | The Sun                                                                                                                                            |
-| Nationality:       | Cyran                                                                                                                                              |
+|                    |                                                                                                              |
+| ------------------ | ------------------------------------------------------------------------------------------------------------ |
+| First Appearance:  | [Session 1](../../Session-Notes/-1-Gathering-Storms/Session-1--And-their-shadows-will-spread-like-oil.md)    |
+| Inspiration:       | Invincible, Spider Man                                                                                       |
+| Full name:         | Lydian d'Cannith                                                                                             |
+| Nicknames:         | Duck, Prince-boy, Staedtler Fischer,                                                                         |
+| Gender & Pronouns: | Male, He/Him (Variable)                                                                                      |
+| Ancestry:          | [Changeling](https://eberron.fandom.com/wiki/Changeling)                                                     |
+| Affiliation:       | [Rings of Harmony](../../Groups/Rings-of-Harmony.md), [The Looking Glass](../../Groups/The-Looking-Glass.md) |
+| Tarot:             | The Sun                                                                                                      |
+| Nationality:       | Cyran                                                                                                        |
 ***
 ### General <i class="ri-checkbox-blank-line"></i>
 Duck is a naive yet charming changeling, with extraordinary performance abilities.
 
-He is empathetic yet self-absorbed, and usually very impulsive. He is obsessed with impressing other people.
+He is empathetic yet self-absorbed, and usually very impulsive and emotional . He is obsessed with impressing other people.
 
 While in his changeling form, Duck is average height, with somewhat lanky proportions. His skin is snow white and his hair is curly and ash-gray. His eyes lack pupils. However, his form is subject to the desire of his shape-shifting abilities.
 
-Duck's attire is a ['shiftweave'](https://eberron.fandom.com/wiki/Shiftweave) toga and waist cape, usually colored a deep Saxe blue. Duck's fashion sense is gaudy and extravagant, always manipulating his shiftweave to dress the part. Other common accessories include: a golden cape and sandals.
+Duck's attire is a ['shiftweave'](https://eberron.fandom.com/wiki/Shiftweave) toga and waist cape, usually colored a deep Saxe blue. Duck's fashion sense is gaudy and extravagant, always manipulating his shiftweave to dress the part. Other common accessories include a golden cape and sandals.
 
+An aberrant mark wraps around his neck and chest.
 ***
 ### History <i class="ri-history-line"></i>
 
