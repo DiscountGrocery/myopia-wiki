@@ -38,9 +38,9 @@ td {
 | [<i class="ra ra-sword ra-3x"></i><br>Blade](Blade.md)                                         | [<i class="ra ra-crystal-ball ra-3x"></i><br>Cygnus](Cygnus.md)  | [<i class="ra ra-book ra-3x"></i><br>Dirge](Dirge.md)            |
 | [<i class="ri-hand ra-2x"></i><br>Grasp](Grasp.md)                                                             | [<i class="ra ra-two-hearts ra-3x"></i><br>Hazel & Jade](Hazel-and-Jade.md)  | [<i class="ra ra-rifle ra-3x"></i><br>Jhor'aash](Jhor'aash.md)      |
 | [<i class="ra ra-candle ra-3x"></i><br>Maylyn](Maylyn.md)                                                      | [<i class="ra ra-crowned-heart ra-3x"></i><br>Oargev](Oargev.md)                     | [<i class="ra ra-tentacle ra-3x"></i> <br>Rusty](Rusty.md)                  |
-| [<i class="ri-triangle-line ra-2x"></i><br>The Feeling of Being Stabbed](The-Feeling-of-Being-Stabbed.md)  | [<i class="ri-glasses-line ra-3x"></i><br>Ghost](Ghost.md)            | [<i class="ri-home-9-line ra-3x"></i><br>The Professor](The-Professor.md)
+| [<i class="ri-triangle-line ra-2x"></i><br>The Feeling of <br>Being Stabbed](The-Feeling-of-Being-Stabbed.md)  | [<i class="ri-glasses-line ra-3x"></i><br>Ghost](Ghost.md)            | [<i class="ri-home-9-line ra-3x"></i><br>The Professor](The-Professor.md)
 | [<i class="ri-eth-line ra-2x"></i><br>Tu'gaal](Tu'gaal.md)                                                     | [<i class="ra ra-fire ra-3x"></i><br>Vrennan](Vrennan.md)                    | [<i class="ri-syringe-line ra-2x"></i><br>Scalpel](Scalpel.md)              |
-| [<i class="ra ra-arcane-mask ra-2x"></i><br>The Forgotten Prince](The-Forgotten-Prince.md)                 | [<i class="ra ra-feather-wing ra-3x"></i><br>Lorraine](Lorraine.md)          | [<i class="ri-settings-4-line ra-2x"></i><br>Tonik](Tonik.md)               |
+| [<i class="ra ra-arcane-mask ra-2x"></i><br>The Forgotten<br>Prince](The-Forgotten-Prince.md)                 | [<i class="ra ra-feather-wing ra-3x"></i><br>Lorraine](Lorraine.md)          | [<i class="ri-settings-4-line ra-2x"></i><br>Tonik](Tonik.md)               |
 <hr><br>
 
 ## Pharen's Family
