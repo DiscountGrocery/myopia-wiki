@@ -1,7 +1,5 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/rpg-awesome@latest/css/rpg-awesome.min.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
-<span style="font-size: 20px;">
-<head>
 <style>
 table {
   border: 1px solid black;
@@ -18,8 +16,7 @@ td {
   overflow: hidden;
 }
 </style>
-</head>
-
+<span style="font-size: 20px;">
 # Characters
 <br>
 
