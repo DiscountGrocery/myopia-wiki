@@ -2,6 +2,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.min.css"> 
 <font style="font-size:0px">
 <style>
+text-align: center;
 table {
   border: 1px solid black;
   table-layout: fixed;
