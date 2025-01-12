@@ -6,7 +6,6 @@ table {
   border: 1px solid black;
   table-layout: fixed;
   width: 600px;
-  height: 300px;
   text-align: center;
 }
 
@@ -26,7 +25,7 @@ td {
 
 |                                                              |                                                                  |
 | :--------------------------------------------------:|:----------------------------------------------: |
-| [<i class="ra ra-super-mushroom ra-3x"></i><br>Cort](-Player/Cort.md) |  [<i class="ri-music-2-line ra-3x"></i><br>Duck](-Player/Duck.md)      |
+| [<i class="ra ra-super-mushroom ra-3x"></i><br>Cort](-Player/Cort.md) |  [<i class="ri-music-2-line ra-2x"></i><br>Duck](-Player/Duck.md)      |
 | [<i class="ra ra-snake ra-3x"></i><br>Sisava](-Player/Sisava.md)       | [<i class="ra ra-lightning-bolt ra-3x"></i><br>Pharen](-Player/Pharen.md)  |
 
 <hr><br>
@@ -36,12 +35,12 @@ td {
 
 |          |    |            |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| [Blade](Blade.md) <i class="ra ra-sword"></i>                                             | [Cygnus](Cygnus.md) <i class="ra ra-crystal-ball"></i> | [Dirge](Dirge.md) <i class="ra ra-book"></i>           |
-| [Grasp](Grasp.md)  <i class="ri-hand"></i>                                                           | [Hazel & Jade](Hazel-and-Jade.md) <i class="ra ra-two-hearts"></i> | [Jhor'aash](Jhor'aash.md) <i class="ra ra-rifle"></i>     |
-| [Maylyn](Maylyn.md)  <i class="ra ra-candle"></i>                                                    | [Oargev](Oargev.md) <i class="ra ra-crown"></i>                    | [Rusty](Rusty.md) <i class="ra ra-tentacle"></i>                  |
-| [The Feeling of Being Stabbed](The-Feeling-of-Being-Stabbed.md) <i class="ri-triangle-line"></i> | [Ghost](Ghost.md) <i class="ri-glasses-line"></i>           | [The Professor](The-Professor.md) <i class="ri-home-9-line"></i>|
-| [Tu'gaal](Tu'gaal.md) <i class="ri-eth-line"></i>                                                    | [Vrennan](Vrennan.md) <i class="ra ra-fire"></i>                   | [Scalpel](Scalpel.md) <i class="ri-syringe-line"></i>             |
-| [The Forgotten Prince](The-Forgotten-Prince.md) <i class="ra ra-arcane-mask"></i>                | [Lorraine](Lorraine.md) <i class="ra ra-feather-wing"></i>         | [Tonik](Tonik.md) <i class="ri-settings-4-line"></i>              |
+| [<i class="ra ra-sword ra-3x"></i><br>Blade](Blade.md)                                         | [<i class="ra ra-crystal-ball ra-3x"></i><br>Cygnus](Cygnus.md)  | [<i class="ra ra-book ra-3x"></i><br>Dirge](Dirge.md)            |
+| [<i class="ri-hand ra-2x"></i><br>Grasp](Grasp.md)                                                             | [<i class="ra ra-two-hearts ra-3x"></i><br>Hazel & Jade](Hazel-and-Jade.md)  | [<i class="ra ra-rifle ra-3x"></i><br>Jhor'aash](Jhor'aash.md)      |
+| [<i class="ra ra-candle ra-3x"></i><br>Maylyn](Maylyn.md)                                                      | [<i class="ra ra-crowned-heart ra-3x"></i><br>Oargev](Oargev.md)                     | [<i class="ra ra-tentacle ra-3x"></i> <br>Rusty](Rusty.md)                  |
+| [<i class="ri-triangle-line ra-2x"></i><br>The Feeling of Being Stabbed](The-Feeling-of-Being-Stabbed.md)  | [<i class="ri-glasses-line ra-3x"></i><br>Ghost](Ghost.md)            | [<i class="ri-home-9-line ra-3x"></i><br>The Professor](The-Professor.md)
+| [<i class="ri-eth-line ra-2x"></i><br>Tu'gaal](Tu'gaal.md)                                                     | [<i class="ra ra-fire ra-3x"></i><br>Vrennan](Vrennan.md)                    | [<i class="ri-syringe-line ra-2x"></i><br>Scalpel](Scalpel.md)              |
+| [<i class="ra ra-arcane-mask ra-2x"></i><br>The Forgotten Prince](The-Forgotten-Prince.md)                 | [<i class="ra ra-feather-wing ra-3x"></i><br>Lorraine](Lorraine.md)          | [<i class="ri-settings-4-line ra-2x"></i><br>Tonik](Tonik.md)               |
 <hr><br>
 
 ## Pharen's Family
@@ -60,10 +59,10 @@ td {
 
 |                                                                                      |                                                                                  |
 | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
-| [Avassh](Avassh.md) <i class="ra ra-dead-tree"></i>                                  | [Grumm](Grumm.md) <i class="ri-candle-line"></i>                                 |
-| [Lady Illmarrow](-Pharen-Family/Lady-Illmarrow.md) <i class="ra ra-death-skull"></i> | [Maeve](Maeve.md) <i class="ri-home-smile-line"></i>                         |
-| [The Taste of Tapioca](The-Taste-of-Tapioca.md) <i class="ri-cup-line"></i>          | [The Prince of Frost](The-Prince-of-Frost.md) <i class="ra ra-frost-emblem"></i> |
-| [Rylan](Rylan.md) <i class="ri-eye-off-line"></i>                                    |                                                                                  |
+| [<i class="ra ra-dead-tree ra-3x"></i><br>Avassh](Avassh.md)                                   | [<i class="ri-candle-line ra-2x"></i><br>Grumm](Grumm.md)                                  |
+| [<i class="ra ra-death-skull ra-3x"></i><br>Lady Illmarrow](-Pharen-Family/Lady-Illmarrow.md)  | [<i class="ri-home-smile-line ra-2x"></i> <br>Maeve](Maeve.md)                         |
+| [<i class="ri-cup-line ra-2x"></i><br>The Taste of Tapioca](The-Taste-of-Tapioca.md)           | [<i class="ra ra-frost-emblem ra-3x"></i><br>The Prince of Frost](The-Prince-of-Frost.md)  |
+| [<i class="ri-eye-off-line ra-2x"></i><br>Rylan](Rylan.md)                                     |                                                                                  |
 <hr><br>
 
 ## Antagonists
@@ -71,10 +70,10 @@ td {
 
 |                                                            |                                                          |                                                          |
 | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
-| [Aspectum](Aspectum.md) <i class="ra ra-bleeding-eye"></i> | [Chance](Chance.md) <i class="ra ra-hearts-card"></i>    | [Phoen](Phoen.md) <i class="ra ra-feathered-wing"></i>   |
-| [Leon](Leon.md) <i class="ra ra-lightning-sword"></i>      | [Lena](Lena.md) <i class="ra ra-venomous-snake"></i>     | [Elar](Elar.md) <i class="ra ra-sun"></i>   |
-| [Bella](Bella.md) <i class="ri-eye-line"></i>              | [Raiden](Raiden.md) <i class="ra ra-lightning-trio"></i> | [Judas](Judas.md) <i class="ra ra-torch"></i> |
-| [Dynamo](Dynamo.md) <i class="ri-shield-cross-line"></i>   | [The Spider](The-Spider.md) <i class="ra ra-spider-face"></i>                                                         |                                                          |
+| [<i class="ra ra-bleeding-eye ra-3x"></i><br>Aspectum](Aspectum.md)  | [<i class="ra ra-hearts-card ra-3x"></i><br>Chance](Chance.md)     | [<i class="ra ra-feathered-wing ra-3x"></i><br>Phoen](Phoen.md)    |
+| [<i class="ra ra-lightning-sword ra-3x"></i><br>Leon](Leon.md)       | [<i class="ra ra-venomous-snake ra-3x"></i><br>Lena](Lena.md)      | [<i class="ra ra-sun ra-3x"></i><br>Elar](Elar.md)    |
+| [<i class="ri-eye-line ra-2x"></i><br>Bella](Bella.md)               | [<i class="ra ra-lightning-trio ra-3x"></i><br>Raiden](Raiden.md)  | [<i class="ra ra-torch ra-3x"></i><br>Judas](Judas.md)  |
+| [<i class="ri-shield-cross-line ra-2x"></i><br>Dynamo](Dynamo.md)    | [<i class="ra ra-spider-face ra-3x"></i><br>The Spider](The-Spider.md)                                                          |                                                          |
 <hr><br>
 
 ## Former Antagonists
@@ -82,8 +81,8 @@ td {
 
 |                                                        |                                                            |
 | ------------------------------------------------------ | ---------------------------------------------------------- |
-| [Rime](Rime.md) <i class="ri-snowflake-line"></i> | [Strife](Strife.md) <i class="ra ra-hood"></i> |
-| [Phel](Phel.md) <i class="ra ra-bowie-knife"></i> | [Duul](Duul.md) <i class="ra ra-crown"></i>     |
+| [<i class="ri-snowflake-line ra-2x"></i><br>Rime](Rime.md)  | [<i class="ra ra-hood ra-3x"></i><br>Strife](Strife.md)  |
+| [<i class="ra ra-bowie-knife ra-3x"></i><br>Phel](Phel.md)  | [<i class="ra ra-crown ra-3x"></i><br>Duul](Duul.md)      |
 <hr><br>
 
 ## Sacrosanct (Campaign 1)
