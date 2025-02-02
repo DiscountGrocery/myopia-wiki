@@ -7,6 +7,7 @@ cssclasses:
 #### Tarot: The Hierophant, Reversed
 ***
 ## Synopsis
+- Start at gates of Neo-Sharn
 - Guards, all warforged, are on elevated platforms.
 - ID's inspected, convince them we have been in the fog for years.
 - Head to Menthis Plateau, see many warforged guards. No elevators. A hologram of [Daren](../../../-Sacrosanct/Characters/Daren.md) confirms [Tonik](../../Characters/Tonik.md)'s suspicions.
@@ -21,7 +22,7 @@ cssclasses:
 	- Pharen shares information from the [5-The-Tome](../../Elements-of-the-Prophecy/5-The-Tome.md).
 - Pharen casts sending on [Evelyn](../../../-Sacrosanct/Characters/Evelyn.md).
 	- I'm Pharen, my group urgently wishes to meet you to discuss the location of an item that you may have information on. Reply with location?
-	- If hour intentions are truly pure, meet me in the Kalashtar temple in Upper Menthis.
+	- If your intentions are truly pure, meet me in the Kalashtar temple in Upper Menthis.
 - Headed Up, exploring lower Menthis.
 	- A base of a massive black tower.
 	- Entrance to cogs in Center Bridge district. Near where the party first met [Blade](../../Characters/Blade.md) and [Dirge](../../Characters/Dirge.md) and the Dark Six temple.
@@ -52,3 +53,4 @@ cssclasses:
 ***
 ### COMBAT
 * End up fighting what seems to be this realities versions of Duck and [Sisava](../../Characters/-Player/Sisava.md), being named NOBODY and CIPHER respectively.
+* Guards approaching, the two disappear.
