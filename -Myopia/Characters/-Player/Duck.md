@@ -35,7 +35,7 @@ cssclasses:
 ### General <i class="ri-checkbox-blank-line"></i>
 Duck is a naive yet charming changeling, with extraordinary performance abilities.
 
-He is empathetic yet self-absorbed, and usually very impulsive and emotional . He is obsessed with impressing other people.
+He is empathetic yet self-absorbed, and usually very impulsive and emotional. He is obsessed with impressing other people.
 
 While in his changeling form, Duck is average height, with somewhat lanky proportions. His skin is snow white and his hair is curly and ash-gray. His eyes lack pupils. However, his form is subject to the desire of his shape-shifting abilities.
 

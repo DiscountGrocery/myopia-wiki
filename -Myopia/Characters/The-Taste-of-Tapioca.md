@@ -11,12 +11,12 @@ cssclasses:
 |                    |                                                                                                            |
 | ------------------ | ---------------------------------------------------------------------------------------------------------- |
 | First Appearance:  | [Session 42 - Suture up your Future](../Session%20Notes/Session%2042%20-%20Suture%20up%20your%20Future%5C) |
-| Inspiration:          | Character from a discord server                                                                            |
+| Inspiration:       | Character from a discord server                                                                            |
 | Full name:         |                                                                                                            |
 | Nicknames:         |                                                                                                            |
 | Gender & Pronouns: | Any/All                                                                                                    |
 | Ancestry:          | Angel                                                                                                      |
-| Affiliation:       | [Daanvi](../Locations/Daanvi.md)                                                                  |
+| Affiliation:       | [Daanvi](../Locations/Daanvi.md)                                                                           |
 | Tarot:             | -                                                                                                          |
 | Nationality:       | -                                                                                                          |
 ***

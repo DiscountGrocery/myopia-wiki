@@ -5,8 +5,13 @@ cssclasses:
 ---
 ***
 #### Tarot: The Hierophant, Reversed
+
+TLDR:
+- Enter a totalitarian dystopia controlled by [Deimos](../../../-Sacrosanct/Characters/Daren.md).
+- [Bella](../../Characters/Bella.md) questions our right to meddle in other worlds
+- Find **familiar** faces in a resistance group.
+- Engage NOBODY and CIPHER in combat
 ***
-## Synopsis
 - Start at gates of Neo-Sharn
 - Guards, all warforged, are on elevated platforms.
 - ID's inspected, convince them we have been in the fog for years.

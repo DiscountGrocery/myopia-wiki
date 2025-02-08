@@ -5,6 +5,11 @@ cssclasses:
 ---
 ***
 #### Tarot: Death, Reversed
+
+TLDR:
+* Find NOBODY's journal, learn the [Cube](../../Elements-of-the-Prophecy/7-The-Cube.md) is likely in [Deimos's](../../../-Sacrosanct/Characters/Daren.md) pyramid.
+* [Leon](../../Characters/Leon.md) and [Raiden](../../Characters/Raiden.md) are assigned to steal the cube.
+* The party plans to attack [Deimos](../../../-Sacrosanct/Characters/Daren.md) w/ gathered allies.
 ***
 ## Synopsis
 - [Duck](../../Characters/-Player/Duck.md) fails to hide and falls off a building.
@@ -13,7 +18,7 @@ cssclasses:
 - Party regroups and heads to back to the Ode to a Dream base.
 ***
 - Dreams
-	- [Cort](../../Characters/-Player/Cort.md): Inverted pyramid in skyway, disintegrates revealing [Rotten Heart](../../Elements-of-the-Prophecy/1-Rotten-Heart.md).
+	- [Cort](../../Characters/-Player/Cort.md): Inverted pyramid in skyway, disintegrates revealing [Rotten Heart](../../Elements-of-the-Prophecy/1-The-Corruption.md).
 	- Duck: same pyramid, hears himself screaming.
 	- [Pharen](../../Characters/-Player/Pharen.md): A galifar coin flipping, strange b/c Pharen can't dream.
 	- [Sisava](../../Characters/-Player/Sisava.md): no connection to the Dream.
@@ -52,4 +57,3 @@ cssclasses:
 	- Tonik believes some of the Eldritch machines could be in the Vault
 	- Pit NOBODY vs Leon and Raiden potentially
 - Chris will teach Duck sending
--  Tonik asks Chris about something

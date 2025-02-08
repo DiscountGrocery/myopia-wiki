@@ -16,7 +16,7 @@ cssclasses:
 ***
 - [Cort](../../Characters/-Player/Cort.md) manipulates his connection with Lharvion, making it more "productive" rather than disturbing. Melts the [Xoriat-Lens](../../Objects/Xoriat-Lens.md) into a champagne fluke.
 - Talks to [Ghost](../../Characters/Ghost.md), who is overwhelmed with the paperwork required for rebuilding Making, and assists him.
-- Dreams of [Avassh](../../Characters/Avassh.md), who burns, revealing a wax form of the [The-Feeling-of-Being-Stabbed](../../Characters/The-Feeling-of-Being-Stabbed.md), who tears the [1-Rotten-Heart](../../Elements-of-the-Prophecy/1-Rotten-Heart.md) out. Cort feels immense elation and is ignited. Swears to see the [4-Phoenix-Heart](../../Elements-of-the-Prophecy/4-Phoenix-Heart.md) being shoved inside.
+- Dreams of [Avassh](../../Characters/Avassh.md), who burns, revealing a wax form of the [The-Feeling-of-Being-Stabbed](../../Characters/The-Feeling-of-Being-Stabbed.md), who tears the [1-The-Corruption](../../Elements-of-the-Prophecy/1-The-Corruption.md) out. Cort feels immense elation and is ignited. Swears to see the [4-The-Heart](../../Elements-of-the-Prophecy/4-The-Heart.md) being shoved inside.
 - Cort speaks to [Rusty](../../Characters/Rusty.md) about [Daelkyr](../../Groups/Daelkyr.md), invites to the upcoming gala.
 ***
 - Pharen puts in orders to construct a large cannon to the [Rings-of-Harmony](../../Groups/Rings-of-Harmony.md). 
@@ -54,7 +54,7 @@ cssclasses:
 - Duck dreams and communicates with [Aspectum](../../Characters/Aspectum.md), who says he is the only one with a conscious.
 - Duck talks to Cort about whether the party is moral.
 - Party talks to [The-Taste-of-Tapioca](../../Characters/The-Taste-of-Tapioca.md).
-- Offers [The-Feeling-of-Being-Stabbed](../../Characters/The-Feeling-of-Being-Stabbed.md) the [4-Phoenix-Heart](../../Elements-of-the-Prophecy/4-Phoenix-Heart.md), [3-Armor-of-Jhazaal-Dhakaan](../../Elements-of-the-Prophecy/3-Armor-of-Jhazaal-Dhakaan.md), Cort, and Pharen. It doesn't take them.
+- Offers [The-Feeling-of-Being-Stabbed](../../Characters/The-Feeling-of-Being-Stabbed.md) the [4-The-Heart](../../Elements-of-the-Prophecy/4-The-Heart.md), [3-The-Armor](../../Elements-of-the-Prophecy/3-The-Armor.md), Cort, and Pharen. It doesn't take them.
 - Told the next artifacts to collect: **Tome, Crystal, Cube, Empire.** Return after collecting 5th and 6th because we will need help to collect the 7th.
 - Cort tells FBS about the dream. FBS reminds Cort that he will either be a puppet, a weapon, or nothing.
 - Party goes to [Cygnus](../../Characters/Cygnus.md).

@@ -58,10 +58,10 @@
 		- [[Tu'gaal]]
 		- [[Vrennan]]
 	- **[[Elements-of-the-Prophecy]]**
-		- [[1-Rotten-Heart]]
-		- [[2-Pharen's-Crown]]
-		- [[3-Armor-of-Jhazaal-Dhakaan]]
-		- [[4-Phoenix-Heart]]
+		- [[1-The-Corruption]]
+		- [[2-The-Undeath]]
+		- [[3-The-Armor]]
+		- [[4-The-Heart]]
 		- [[5-The-Tome]]
 		- [[6-The-Crystal]]
 		- [[7-The-Cube]]
@@ -72,6 +72,7 @@
 		- [[12-The-War]]
 	- **[[Groups]]**
 	- **[[Locations]]**
+	- [[Magic-Restoration]]
 	- **[[Objects]]**
 	- [[Second-Deluge]]
 	- **[[Session-Notes]]**
@@ -83,7 +84,11 @@
 		- [[Daren]]
 		- [[Dent]]
 		- [[Evelyn]]
+	- [[Eldritch-Machines]]
+	- [[Local-Material-Planes]]
 	- [[Machine-of-Enchantment]]
+	- [[Machine-of-Illusion]]
+	- [[The-Agency-of-Cohesiveness]]
 	- [[The-Flaming-Hoop]]
 - **assets**
 	- **css**

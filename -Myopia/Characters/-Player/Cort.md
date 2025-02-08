@@ -32,7 +32,7 @@ cssclasses:
 Cort is a naive mycanid manipulated and influenced by Daelkyr. He is kind but ruthless and often gullible.
 
 He is bald and frail, often wearing a torn button-up or thick ragged cloak that hides his decomposing form.
-His body surrounds the [Rotten Heart](../../Elements-of-the-Prophecy/1-Rotten-Heart.md). 
+His body surrounds the [Rotten Heart](../../Elements-of-the-Prophecy/1-The-Corruption.md). 
 
 ***
 ### History <i class="ri-history-line"></i>
@@ -42,7 +42,7 @@ Sacrificed his knowledge of his former life to [The-Forgotten-Prince](../The-For
 ***
 ### Relations <i class="ri-user-line"></i>
 Manipulated by [Sisava](Sisava.md).
-Influenced by [Avassh](../Avassh.md) through the [Rotten Heart](../../Elements-of-the-Prophecy/1-Rotten-Heart.md)
+Influenced by [Avassh](../Avassh.md) through the [Rotten Heart](../../Elements-of-the-Prophecy/1-The-Corruption.md)
 Friends with [Duck](Duck.md).
 Forgotten human relatives.
 His grandfather indirectly caused [The Last War](https://eberron.fandom.com/wiki/Last_War)
